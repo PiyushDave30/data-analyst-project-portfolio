@@ -148,7 +148,7 @@ The goal was to answer key business questions:
 | 📊 Tableau Public | [Live Dashboard](https://public.tableau.com/app/profile/piyush.dave4044/viz/projectgrpfile/Dashboard1) |
 | 📁 Excel (Google Drive) | [View Screenshots](https://drive.google.com/drive/folders/1fsse-OBr0OXT2qOWerVSyUCwO3KWHgUe?usp=sharing) |
 | ⚡ Power BI Service | Available on request (license-restricted) |
-| 💼 Portfolio | [GitHub Portfolio](https://github.com/PiyushDave30/data-analyst-portfolio) |
+| 💼 Portfolio | [GitHub Portfolio](https://github.com/PiyushDave30/data-analyst-project-portfolio) |
 
 ---
 
