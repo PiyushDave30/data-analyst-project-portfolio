@@ -8,8 +8,8 @@ This folder contains the Excel dashboard built for the Hospitality Analysis proj
 
 | File Name | Description |
 |-----------|-------------|
-| `Hospitality_Analysis.xlsx` | Excel file with pivot tables and dashboard |
-| `HA6.png` | Screenshot of the Excel Hospitality Analysis Dashboard |
+|  [Excel Dashboard](Excel%20HA%20Final.xlsx)| Excel file with pivot tables and dashboard |
+|  [Dashboard](HA10.png) | Screenshot of the Excel Hospitality Analysis Dashboard |
 
 ---
 
