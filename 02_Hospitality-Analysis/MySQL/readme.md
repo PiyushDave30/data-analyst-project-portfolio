@@ -13,6 +13,24 @@ This folder contains all SQL queries written for the Hospitality Analysis projec
 | [HA8.png](HA8.png) | Screenshot — Trend analysis, weekday/weekend, revenue by state |
 | [HA9.png](HA9.png) | Screenshot — Class-wise revenue, booking status, weekly trend |
 
+## 📄 Files in This Folder
+
+| File Name | Description |
+|-----------|-------------|
+| Hospitality_Analysis.sql | Complete SQL file with all 11 queries |
+| HA7.png | KPI master query screenshot |
+| HA8.png | Trend analysis screenshot |
+| HA9.png | Revenue analysis screenshot |
+
+---
+
+## 🔗 Quick Access
+
+- 📄 [Open SQL File](Hospitality_Analysis.sql)
+- 🖼️ [View HA7 Screenshot](HA7.png)
+- 🖼️ [View HA8 Screenshot](HA8.png)
+- 🖼️ [View HA9 Screenshot](HA9.png)
+
 ---
 
 ## 📋 Queries Covered
