@@ -41,11 +41,17 @@ The goal was to answer key business questions:
 | **Profit Analysis** | ![PBI Profit](Screenshots/Dashboard4.png) |
 | **Orders Analysis** | ![PBI Orders](Screenshots/Dashboard3.png) |
 
+---
+
 ### **Excel — Sales Performance Dashboard**
 ![Excel Dashboard](Screenshots/Dashboard5.png)
 
+---
+
 ### **Tableau — Sales Performance Dashboard**
 ![Tableau Dashboard](Screenshots/Dashboard6.png)
+
+---
 
 ### **SQL — Query Screenshots**
 ![SQL Queries](Screenshots/Dashboard7.png)
