@@ -48,7 +48,10 @@ The goal was to answer key business questions:
 ![Tableau Dashboard](screenshots/Dashboard6.png)
 
 ### SQL — Query Screenshots
-![SQL Queries](screenshots/sql_queries.png)
+![SQL Queries](screenshots/Dashboard7.png)
+![SQL Queries](screenshots/Dashboard8.png)
+![SQL Queries](screenshots/Dashboard9.png)
+![SQL Queries](screenshots/Dashboard10.png)
 
 ---
 
