@@ -15,7 +15,7 @@ This folder contains the Tableau dashboard link and screenshot for the Hospitali
 
 ## 🌐 Live Dashboard
 
-👉 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/vizzes)**
+👉 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/Hospitality_Analytics_Dashboard_Tableau/Dashboard1)**
 
 ---
 
