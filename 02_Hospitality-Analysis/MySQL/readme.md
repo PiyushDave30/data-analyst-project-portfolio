@@ -3,7 +3,7 @@
 This folder contains all SQL queries written for the Hospitality Analysis project using **MySQL Workbench**.
 
 ---
-[Hospitality_Analysis.sql](Hospitality_Analysis.sql)
+
 ## 📄 Files in This Folder
 
 | File Name | Description |
