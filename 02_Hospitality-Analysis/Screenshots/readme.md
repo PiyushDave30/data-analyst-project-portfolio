@@ -8,16 +8,16 @@ This folder contains all dashboard and query screenshots for the Hospitality Ana
 
 | File Name | Tool | Page / Content |
 |-----------|------|----------------|
-| `HA1.png` | Power BI | Home/Overview — KPIs: Revenue (1.71bn), Capacity (232.6K), Occupancy (57.87%), Bookings (135K), Cancellation (24.83%) |
-| `HA2.png` | Power BI | Revenue Analysis — bookings by platform, property, city, room class |
-| `HA3.png` | Power BI | Booking & Occupancy — occupancy % by property, day type, month, room class |
-| `HA4.png` | Power BI | Booking Analysis — cancellations by room class, platform, city; ADR, DBRN, DSRN |
-| `HA5.png` | Power BI | Project Summary — written description of dashboard objectives |
-| `HA6.png` | Excel | Hospitality Analysis Dashboard — full pivot dashboard |
-| `HA7.png` | SQL | KPI Master Query with output results |
-| `HA8.png` | SQL | Trend analysis, weekday/weekend, revenue by state queries |
-| `HA9.png` | SQL | Class-wise revenue, booking status, weekly trend queries |
-| `HA10.png` | Tableau | Hospitality Analysis Dashboard — weekly trends, hotel-wise revenue |
+| [HA1.png](HA1.png) | Power BI | Home/Overview — KPIs: Revenue (1.71bn), Capacity (232.6K), Occupancy (57.87%), Bookings (135K), Cancellation (24.83%) |
+| [HA2.png](HA2.png) | Power BI | Revenue Analysis — bookings by platform, property, city, room class |
+| [HA3.png](HA3.png) | Power BI | Booking & Occupancy — occupancy % by property, day type, month, room class |
+| [HA4.png](HA4.png) | Power BI | Booking Analysis — cancellations by room class, platform, city; ADR, DBRN, DSRN |
+| [HA5.png](HA5.png) | Power BI | Project Summary — written description of dashboard objectives |
+| [HA6.png](HA6.png) | Excel | Hospitality Analysis Dashboard — full pivot dashboard |
+| [HA7.png](HA7.png) | SQL | KPI Master Query with output results |
+| [HA8.png](HA8.png) | SQL | Trend analysis, weekday/weekend, revenue by state queries |
+| [HA9.png](HA9.png) | SQL | Class-wise revenue, booking status, weekly trend queries |
+| [HA10.png](HA10.png) | Tableau | Hospitality Analysis Dashboard — weekly trends, hotel-wise revenue |
 
 ---
 
