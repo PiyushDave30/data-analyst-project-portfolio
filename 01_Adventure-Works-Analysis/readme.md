@@ -36,10 +36,10 @@ The goal was to answer key business questions:
 
 | Page | Preview |
 |------|---------|
-| Home / Overview | ![PBI Home](Screenshots/Dashboard1.png) |
-| Sales Analysis | ![PBI Sales](Screenshots/Dashboard2.png) |
-| Profit Analysis | ![PBI Profit](Screenshots/Dashboard4.png) |
-| Orders Analysis | ![PBI Orders](Screenshots/Dashboard3.png) |
+| **Home / Overview** | ![PBI Home](Screenshots/Dashboard1.png) |
+| **Sales Analysis** | ![PBI Sales](Screenshots/Dashboard2.png) |
+| **Profit Analysis** | ![PBI Profit](Screenshots/Dashboard4.png) |
+| **Orders Analysis** | ![PBI Orders](Screenshots/Dashboard3.png) |
 
 ### Excel — Sales Performance Dashboard
 ![Excel Dashboard](Screenshots/Dashboard5.png)
@@ -136,7 +136,7 @@ The goal was to answer key business questions:
 
 | Platform | Link |
 |----------|------|
-| Tableau Public | [View Live Dashboard](https://public.tableau.com/app/profile/piyushdave/vizzes) |
+| Tableau Public | [View Live Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/projectgrpfile/Dashboard1) |
 
 ---
 
