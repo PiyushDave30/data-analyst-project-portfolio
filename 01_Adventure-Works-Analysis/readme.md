@@ -49,8 +49,11 @@ The goal was to answer key business questions:
 
 ### SQL — Query Screenshots
 ![SQL Queries](Screenshots/Dashboard7.png)
+
 ![SQL Queries](Screenshots/Dashboard8.png)
+
 ![SQL Queries](Screenshots/Dashboard9.png)
+
 ![SQL Queries](Screenshots/Dashboard10.png)
 
 ---
