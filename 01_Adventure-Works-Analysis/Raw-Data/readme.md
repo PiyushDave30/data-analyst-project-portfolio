@@ -4,15 +4,18 @@ This folder contains the original, unmodified datasets used for this project.
 The data was provided by **ExcelR** as part of the AI Variant virtual internship curriculum.
 
 ---
-
 ## 📄 Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
-| `AdventureWorks.csv` / `.xlsx` | Main sales transaction dataset |
-| `dimcustomer` | Customer dimension table (CustomerKey, Name, Gender, etc.) |
-| `dimproduct` | Product dimension table (ProductKey, ProductName, Cost, etc.) |
-| `fact_internet_sales_new` | Fact table with all order-level sales records |
+| (DimDate.xlsx) | Date dimension table containing Year, Month, Quarter, Week, and Date information |
+| (DimProduct.xlsx) | Product dimension table containing product-related information |
+| (DimProductCategory.xlsx) | Product category dimension table |
+| (DimProductSubCategory.xlsx) | Product sub-category dimension table |
+| (DimSalesterritory.xlsx) | Sales territory dimension table containing region and territory details |
+| (Dimcustomer.xlsx) | Customer dimension table containing customer-related information |
+| (FactInternetSales.xlsx) | Original internet sales fact table containing transaction-level sales data |
+| (Fact_Internet_Sales_New.xlsx) | Additional sales dataset used for creating relationships and analysis in Power BI |
 
 ---
 
