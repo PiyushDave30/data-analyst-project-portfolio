@@ -1,6 +1,6 @@
 # Adventure Works Analysis 🚴
 
-![Dashboard Preview](screenshots/Dashboard1.png)
+![Dashboard Preview](Screenshots/Dashboard1.png)
 
 > **Internship Project** — AI Variant (ExcelR) | Virtual Internship  
 > A complete end-to-end business analysis of Adventure Works Cycles covering Sales, Profit, and Orders using SQL, Power BI, Tableau, and Excel.
@@ -36,22 +36,22 @@ The goal was to answer key business questions:
 
 | Page | Preview |
 |------|---------|
-| Home / Overview | ![PBI Home](screenshots/Dashboard1.png) |
-| Sales Analysis | ![PBI Sales](screenshots/Dashboard2.png) |
-| Profit Analysis | ![PBI Profit](screenshots/Dashboard4.png) |
-| Orders Analysis | ![PBI Orders](screenshots/Dashboard3.png) |
+| Home / Overview | ![PBI Home](Screenshots/Dashboard1.png) |
+| Sales Analysis | ![PBI Sales](Screenshots/Dashboard2.png) |
+| Profit Analysis | ![PBI Profit](Screenshots/Dashboard4.png) |
+| Orders Analysis | ![PBI Orders](Screenshots/Dashboard3.png) |
 
 ### Excel — Sales Performance Dashboard
-![Excel Dashboard](screenshots/Dashboard5.png)
+![Excel Dashboard](Screenshots/Dashboard5.png)
 
 ### Tableau — Sales Performance Dashboard
-![Tableau Dashboard](screenshots/Dashboard6.png)
+![Tableau Dashboard](Screenshots/Dashboard6.png)
 
 ### SQL — Query Screenshots
-![SQL Queries](screenshots/Dashboard7.png)
-![SQL Queries](screenshots/Dashboard8.png)
-![SQL Queries](screenshots/Dashboard9.png)
-![SQL Queries](screenshots/Dashboard10.png)
+![SQL Queries](Screenshots/Dashboard7.png)
+![SQL Queries](Screenshots/Dashboard8.png)
+![SQL Queries](Screenshots/Dashboard9.png)
+![SQL Queries](Screenshots/Dashboard10.png)
 
 ---
 
@@ -109,7 +109,7 @@ The goal was to answer key business questions:
 │   ├── Adventure_Works.xlsx         ← Excel Sales Performance Dashboard
 │   └── README.md
 │
-└── screenshots/
+└── Screenshots/
     ├── Dashboard1.png
     ├── Dashboard2.png
     ├── Dashboard4.png
