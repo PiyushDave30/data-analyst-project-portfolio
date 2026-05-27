@@ -1,4 +1,4 @@
-# Hospitality Analysis 🏨
+# Hospitality Analysis 
 
 ![Dashboard Preview](Screenshots/HA1.png)
 
@@ -146,12 +146,14 @@ The goal was to answer key business questions:
 
 ---
 
-## 🌐 Live Dashboard
+## 🔗 Links
 
 | Platform | Link |
-|----------|------|
-| Tableau Public | [View Live Dashboard](https://public.tableau.com/app/profile/piyushdave/vizzes) |
-| Drive| [View Live Dashboard](https://drive.google.com/file/d/1Gb1NM0UaAJFyahmL_hwk-S9UzrYYE1uN/view?usp=drive_link) |
+|---|---|
+| 📊 Tableau Public | [Live Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/Hospitality_Analytics_Dashboard_Tableau/Dashboard1) |
+| 📁 Excel (Google Drive) | [View Screenshot](https://drive.google.com/file/d/1GF4UckLsWO1jajwbDdU522knQKw4mdKu/view?usp=drive_link) |
+| ⚡ Power BI Service | Available on request (license-restricted) |
+| 💼 Portfolio | [GitHub Portfolio](https://github.com/PiyushDave30/data-analyst-project-portfolio) |
 
 ---
 
