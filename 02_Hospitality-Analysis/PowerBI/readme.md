@@ -9,11 +9,11 @@ This folder contains the Power BI dashboard file built for the Hospitality Analy
 | File Name | Description |
 |-----------|-------------|
 | [Hospitality Analysis PowerBI](Hospitality_Analysis_Dashboard_PowerBi.pbix) | Main Power BI dashboard file (4 pages + summary) |
-| [HA1.png](HA1.png) | Screenshot — Home/Overview page |
-| [HA2.png](HA2.png) | Screenshot — Revenue Analysis page |
-| [HA3.png](HA3.png) | Screenshot — Booking & Occupancy Analysis page |
-| [HA4.png](HA4.png) | Screenshot — Booking Analysis page |
-| [HA5.png](HA5.png) | Screenshot — Project Summary page |
+| [HA1](HA1.png) | Screenshot — Home/Overview page |
+| [HA2](HA2.png) | Screenshot — Revenue Analysis page |
+| [HA3](HA3.png) | Screenshot — Booking & Occupancy Analysis page |
+| [HA4](HA4.png) | Screenshot — Booking Analysis page |
+| [HA5](HA5.png) | Screenshot — Project Summary page |
 
 ---
 
