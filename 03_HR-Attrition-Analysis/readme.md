@@ -1,6 +1,6 @@
 # HR Attrition Analysis Dashboard 👥
 
-![Dashboard Preview](Screenshots/HR1.png)
+![Dashboard Preview](Screenshots/HR_Tableau.png)
 
 > **Internship Project** — AI Variant (ExcelR) | Virtual Internship  
 > A complete HR analytics project analyzing employee attrition, salary distribution, department performance, and work-life balance across 50,000 employees using SQL, Power BI, Tableau, and Excel.
@@ -34,8 +34,12 @@ This project analyzes HR data to identify key factors driving employee attrition
 ### **Power BI — HR Attrition Analysis Dashboard**
 ![Power BI Dashboard](Screenshots/HR1.png)
 
+---
+
 ### Tableau — HR Attrition Analytics Dashboard
 ![Tableau Dashboard](Screenshots/HR_Tableau.png)
+
+---
 
 ### **SQL — Query Screenshots**
 
