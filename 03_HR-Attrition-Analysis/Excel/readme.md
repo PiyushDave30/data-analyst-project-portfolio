@@ -9,7 +9,7 @@ This folder contains the Excel dashboard for the HR Attrition Analysis project.
 | File Name | Description |
 |-----------|-------------|
 | `HR_Attrition_Analysis.xlsx` | Excel dashboard with pivot tables and charts |
-| `screenshot_excel.png` | Screenshot of the Excel dashboard *(add after completion)* |
+| `screenshot_excel.png` | Screenshot of the Excel dashboard  |
 
 ---
 
