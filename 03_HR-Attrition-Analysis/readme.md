@@ -1,6 +1,6 @@
 # HR Attrition Analysis Dashboard 👥
 
-![Dashboard Preview](screenshots/HR1.png)
+![Dashboard Preview](Screenshots/HR1.png)
 
 > **Internship Project** — AI Variant (ExcelR) | Virtual Internship  
 > A complete HR analytics project analyzing employee attrition, salary distribution, department performance, and work-life balance across 50,000 employees using SQL, Power BI, Tableau, and Excel.
@@ -32,19 +32,19 @@ This project analyzes HR data to identify key factors driving employee attrition
 ## 📊 Dashboards
 
 ### Power BI — HR Attrition Analysis Dashboard
-![Power BI Dashboard](screenshots/HR1.png)
+![Power BI Dashboard](Screenshots/HR1.png)
 
 ### Tableau — HR Attrition Analytics Dashboard
-![Tableau Dashboard](screenshots/HR_Tableau.png)
+![Tableau Dashboard](Screenshots/HR_Tableau.png)
 
 ### SQL — Query Screenshots
 
 | Query Set | Preview |
 |-----------|---------|
-| Gender, Department, Salary Queries | ![SQL 1](screenshots/HR2.png) |
-| Top Salary, Dept Avg, Job Role Queries | ![SQL 2](screenshots/HR3.png) |
-| Salary Categories, Attrition Rate Queries | ![SQL 3](screenshots/HR4.png) |
-| Avg Salary Left vs Stayed, Working Years | ![SQL 4](screenshots/HR5.png) |
+| Gender, Department, Salary Queries | ![SQL 1](Screenshots/HR2.png) |
+| Top Salary, Dept Avg, Job Role Queries | ![SQL 2](Screenshots/HR3.png) |
+| Salary Categories, Attrition Rate Queries | ![SQL 3](Screenshots/HR4.png) |
+| Avg Salary Left vs Stayed, Working Years | ![SQL 4](Screenshots/HR5.png) |
 
 ---
 
@@ -114,7 +114,7 @@ This project analyzes HR data to identify key factors driving employee attrition
 │   ├── HR_Attrition_Analysis.xlsx     ← Excel dashboard (in progress)
 │   └── README.md
 │
-└── screenshots/
+└── Screenshots/
     ├── HR1.png                        ← Power BI Dashboard
     ├── HR2.png                        ← SQL queries set 1
     ├── HR3.png                        ← SQL queries set 2
