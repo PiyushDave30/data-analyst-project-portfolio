@@ -31,20 +31,20 @@ This project analyzes HR data to identify key factors driving employee attrition
 
 ## 📊 Dashboards
 
-### Power BI — HR Attrition Analysis Dashboard
+### **Power BI — HR Attrition Analysis Dashboard**
 ![Power BI Dashboard](Screenshots/HR1.png)
 
 ### Tableau — HR Attrition Analytics Dashboard
 ![Tableau Dashboard](Screenshots/HR_Tableau.png)
 
-### SQL — Query Screenshots
+### **SQL — Query Screenshots**
 
 | Query Set | Preview |
 |-----------|---------|
-| Gender, Department, Salary Queries | ![SQL 1](Screenshots/HR2.png) |
-| Top Salary, Dept Avg, Job Role Queries | ![SQL 2](Screenshots/HR3.png) |
-| Salary Categories, Attrition Rate Queries | ![SQL 3](Screenshots/HR4.png) |
-| Avg Salary Left vs Stayed, Working Years | ![SQL 4](Screenshots/HR5.png) |
+| **Gender, Department, Salary Queries** | ![SQL 1](Screenshots/HR2.png) |
+| **Top Salary, Dept Avg, Job Role Queries** | ![SQL 2](Screenshots/HR3.png) |
+| **Salary Categories, Attrition Rate Queries** | ![SQL 3](Screenshots/HR4.png) |
+| **Avg Salary Left vs Stayed, Working Years** | ![SQL 4](Screenshots/HR5.png) |
 
 ---
 
@@ -59,12 +59,12 @@ This project analyzes HR data to identify key factors driving employee attrition
 ### Department-wise Attrition
 | Department | Attrition Rate | Employees |
 |------------|---------------|-----------|
-| R&D | 51.21% | 8,319 |
-| Software | 50.54% | 8,336 |
-| Support | 50.19% | 8,305 |
-| Sales | 50.02% | 8,453 |
-| HR | 49.86% | 8,418 |
-| Hardware | 49.44% | 8,169 |
+| **R&D** | 51.21% | 8,319 |
+| **Software** | 50.54% | 8,336 |
+| **Support** | 50.19% | 8,305 |
+| **Sales** | 50.02% | 8,453 |
+| **HR** | 49.86% | 8,418 |
+| **Hardware** | 49.44% | 8,169 |
 
 ### Salary & Income
 - **Avg Income: ₹26K** | Avg Salary Hike: **24.62%**
