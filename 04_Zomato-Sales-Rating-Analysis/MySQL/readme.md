@@ -8,7 +8,7 @@ This folder contains all SQL queries for the Zomato project — organized into 6
 
 | File Name | Description |
 |-----------|-------------|
-| [Zomato SQL Analysis](Zomato_Analysis.sql) | Complete SQL file — all 25+ queries in 6 sections |
+| [Zomato SQL Analysis](Zomato%20Restaurant%20Analysis.sql) | Complete SQL file — all 25+ queries in 6 sections |
 | [Z1](Z1.png) | Screenshot — Advanced Stored Procedure |
 | [Z2](Z2.png) | Screenshot — KPI View with output |
 | [Z3](Z3.png) | Screenshot — Delivery & Booking Trends |
