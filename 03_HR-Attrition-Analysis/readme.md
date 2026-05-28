@@ -1,4 +1,4 @@
-# HR Attrition Analysis Dashboard 👥
+# HR Attrition Analysis Dashboard 
 
 ![Dashboard Preview](Screenshots/HR_Tableau.png)
 
@@ -32,7 +32,7 @@ This project analyzes HR data to identify key factors driving employee attrition
 ## 📊 Dashboards
 
 ### **Power BI — HR Attrition Analysis Dashboard**
-![Power BI Dashboard](Screenshots/HR1.png)
+![Power BI Dashboard](Screenshots/HR5.png)
 
 ---
 
@@ -45,10 +45,10 @@ This project analyzes HR data to identify key factors driving employee attrition
 
 | Query Set | Preview |
 |-----------|---------|
-| **Gender, Department, Salary Queries** | ![SQL 1](Screenshots/HR2.png) |
-| **Top Salary, Dept Avg, Job Role Queries** | ![SQL 2](Screenshots/HR3.png) |
-| **Salary Categories, Attrition Rate Queries** | ![SQL 3](Screenshots/HR4.png) |
-| **Avg Salary Left vs Stayed, Working Years** | ![SQL 4](Screenshots/HR5.png) |
+| **Gender, Department, Salary Queries** | ![SQL 1](Screenshots/HR1.png) |
+| **Top Salary, Dept Avg, Job Role Queries** | ![SQL 2](Screenshots/HR2.png) |
+| **Salary Categories, Attrition Rate Queries** | ![SQL 3](Screenshots/HR3.png) |
+| **Avg Salary Left vs Stayed, Working Years** | ![SQL 4](Screenshots/HR4.png) |
 
 ---
 
