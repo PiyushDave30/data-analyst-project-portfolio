@@ -72,20 +72,35 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 
 ### Batting Charts
 ![Top Run Scorers](Screenshots/top_run_scorers.png)
+
+---
 ![Top Six Hitters](Screenshots/top_six_hitters.png)
+
+---
 ![Top Four Hitters](Screenshots/top_four_hitters.png)
+
+---
 ![Most Balls Faced](Screenshots/most_balls_faced.png)
+---
 
 ### Bowling Charts
 ![Top Wicket Takers](Screenshots/top_wicket_takers.png)
+
+---
 ![Most Dot Balls](Screenshots/most_dot_balls.png)
+
+---
 ![Most Wide Balls](Screenshots/most_wide_balls.png)
+---
 
 ### Team Charts
 ![Wins vs Losses](Screenshots/teams_records.png)
+---
 
 ### Season Charts
 ![Average Run Rate Per Season](Screenshots/average_run_rate_per_season.png)
+
+---
 ![Runs Per Over](Screenshots/runs_per_over.png)
 
 ---
