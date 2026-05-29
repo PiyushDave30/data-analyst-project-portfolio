@@ -1,6 +1,6 @@
 # Amravati AQI 2024 Analysis 🌫️
 
-![Dashboard Preview](screenshots/AQI.png)
+![Dashboard Preview](Screenshots/AQI.png)
 
 > **Self-Made Project** | Original Data Collection  
 > An end-to-end air quality analysis of Amravati city for the year 2024 — raw AQI data collected directly from the official CPCB government website, cleaned using Python in Jupyter Notebook, exported to Excel, and visualized in a Power BI dashboard.
@@ -53,7 +53,7 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 ## 📊 Dashboard
 
 ### Power BI — Air Quality Index (AQI) Analysis – Amravati 2024
-![AQI Dashboard](screenshots/AQI.png)
+![AQI Dashboard](Screenshots/AQI.png)
 
 ---
 
@@ -129,7 +129,7 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 │   ├── Amravati_AQI_2024.pbix                            ← Power BI dashboard
 │   └── README.md
 │
-└── screenshots/
+└── Screenshots/
     ├── AQI.png                                           ← Power BI dashboard screenshot
     ├── Amravati_2024_AQI_Analysis.pdf                    ← Dashboard PDF export
     ├── AQI1.png                  ← Notebook: Data Cleaning
