@@ -82,10 +82,10 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 ![Most Wide Balls](Screenshots/most_wide_balls.png)
 
 ### Team Charts
-![Wins vs Losses](Screenshots/wins_vs_losses.png)
+![Wins vs Losses](Screenshots/teams_records.png)
 
 ### Season Charts
-![Average Run Rate Per Season](Screenshots/avg_run_rate_per_season.png)
+![Average Run Rate Per Season](Screenshots/average_run_rate_per_season.png)
 ![Runs Per Over](Screenshots/runs_per_over.png)
 
 ---
