@@ -1,7 +1,7 @@
 # 📓 Jupyter Notebook — IPL 18-Season Analysis
 
-**File:** `IPL-Analysis.ipynb`  
-**Total Cells:** 156 | **Charts:** 44+ | **Errors:** 0
+**File:** [IPL Analysis File](IPL-Analysis.ipynb)  
+**Total Cells:** 156 | **Charts:** 44+ 
 
 ---
 
@@ -195,8 +195,9 @@ Access the complete end-to-end IPL analysis notebook below:
 - Batting, bowling, team & season analysis
 - Insights after every chart
 - Built using Pandas, NumPy, Matplotlib & Seaborn
+---
 
-![Notebook Structure](Screenshots/ipl_notebook_structure.png)
+![Notebook Structure](ipl_notebook_structure.png)
 
 ---
 
