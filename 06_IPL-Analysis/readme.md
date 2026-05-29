@@ -1,6 +1,6 @@
 # IPL 18-Season Analysis 🏏
 
-![IPL Analysis](screenshots/ipl_notebook_structure.png)
+![IPL Analysis](Screenshots/ipl_notebook_structure.png)
 
 ---
 
@@ -70,22 +70,22 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 ## 📊 Visualizations
 
 ### Batting Charts
-![Top Run Scorers](screenshots/top_run_scorers.png)
-![Top Six Hitters](screenshots/top_six_hitters.png)
-![Top Four Hitters](screenshots/top_four_hitters.png)
-![Most Balls Faced](screenshots/most_balls_faced.png)
+![Top Run Scorers](Screenshots/top_run_scorers.png)
+![Top Six Hitters](Screenshots/top_six_hitters.png)
+![Top Four Hitters](Screenshots/top_four_hitters.png)
+![Most Balls Faced](Screenshots/most_balls_faced.png)
 
 ### Bowling Charts
-![Top Wicket Takers](screenshots/top_wicket_takers.png)
-![Most Dot Balls](screenshots/most_dot_balls.png)
-![Most Wide Balls](screenshots/most_wide_balls.png)
+![Top Wicket Takers](Screenshots/top_wicket_takers.png)
+![Most Dot Balls](Screenshots/most_dot_balls.png)
+![Most Wide Balls](Screenshots/most_wide_balls.png)
 
 ### Team Charts
-![Wins vs Losses](screenshots/wins_vs_losses.png)
+![Wins vs Losses](Screenshots/wins_vs_losses.png)
 
 ### Season Charts
-![Average Run Rate Per Season](screenshots/avg_run_rate_per_season.png)
-![Runs Per Over](screenshots/runs_per_over.png)
+![Average Run Rate Per Season](Screenshots/avg_run_rate_per_season.png)
+![Runs Per Over](Screenshots/runs_per_over.png)
 
 ---
 
@@ -143,7 +143,7 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 │   ├── IPL-Analysis.ipynb             ← Complete notebook — 156 cells, 44+ charts
 │   └── README.md
 │
-└── screenshots/
+└── Screenshots/
     ├── ipl_notebook_structure.png     ← Table of Contents — all sections
     ├── top_run_scorers.png            ← Batting — Seaborn
     ├── top_six_hitters.png            ← Batting — Seaborn
