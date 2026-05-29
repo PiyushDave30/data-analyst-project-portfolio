@@ -32,12 +32,12 @@ This project performs an end-to-end SQL analysis on a bank lending dataset (`fin
 
 | Query Set | Preview |
 |-----------|---------|
-| Basic EDA — 10 queries | ![EDA](Screenshots/BA4.png) |
-| Customer & Financial Analysis | ![Financial](Screenshots/BA5.png) |
-| Business Insight queries | ![Business](Screenshots/BA6.png) |
-| Stored Procedures — Loan Profile + Grade Analysis | ![SP1](Screenshots/BA1.png) |
-| Master Stored Procedure — 4 result tables in 1 CALL | ![SP2](Screenshots/BA2.png) |
-| StateRanking VIEW with DENSE_RANK | ![View](Screenshots/BA3.png) |
+| **Basic EDA — 10 queries** | ![EDA](Screenshots/BA4.png) |
+| **Customer & Financial Analysis** | ![Financial](Screenshots/BA5.png) |
+| **Business Insight queries** | ![Business](Screenshots/BA6.png) |
+| **Stored Procedures — Loan Profile + Grade Analysis** | ![SP1](Screenshots/BA1.png) |
+| **Master Stored Procedure — 4 result tables in 1 CALL**| ![SP2](Screenshots/BA2.png) |
+| **StateRanking VIEW with DENSE_RANK** | ![View](Screenshots/BA3.png) |
 
 ---
 
