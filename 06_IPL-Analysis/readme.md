@@ -70,7 +70,7 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 
 ## 📊 Visualizations
 
-### Batting Charts
+## Batting Charts
 ![Top Run Scorers](Screenshots/top_run_scorers.png)
 
 ---
@@ -83,7 +83,7 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 ![Most Balls Faced](Screenshots/most_balls_faced.png)
 ---
 
-### Bowling Charts
+## Bowling Charts
 ![Top Wicket Takers](Screenshots/top_wicket_takers.png)
 
 ---
@@ -93,11 +93,11 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 ![Most Wide Balls](Screenshots/most_wide_balls.png)
 ---
 
-### Team Charts
+## Team Charts
 ![Wins vs Losses](Screenshots/teams_records.png)
 ---
 
-### Season Charts
+## Season Charts
 ![Average Run Rate Per Season](Screenshots/average_run_rate_per_season.png)
 
 ---
