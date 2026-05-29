@@ -9,7 +9,7 @@ This folder contains the Power BI dashboard file for the Blinkit project.
 | File Name | Description |
 |-----------|-------------|
 | [Blinkit Analysis PowerBI](BlinkIT_Sales_Analysis_Project.pbix) | Complete 5-page Power BI dashboard |
-| [Dashboard PDF](BlinkIT%20Dashboard.pdf) | Screenshot — Key Findings & Business Recommendations |
+| [Dashboard PDF](BlinkIT%20Dashboard.pdf) | Complete Dashboard in the form of PDF |
 | [B1](B1.png) | Screenshot — Overview / Executive Summary |
 | [B2](B2.png) | Screenshot — Product Performance & Sales Contribution |
 | [B3](B3.png) | Screenshot — Outlet Performance Analysis |
