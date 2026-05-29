@@ -8,7 +8,7 @@ All queries are written in **MySQL Workbench** on the `finance1` and `finance2` 
 
 | File Name | Description |
 |-----------|-------------|
-| `Bank_Analysis.sql` | Complete SQL file — all 20+ queries |
+| [Bank Analysis SQL](Bank%20Analysis.sql) | Complete SQL file — all 20+ queries |
 | [BA1](BA1.png) | Screenshot — Stored Procedures: Loan_Profile + GradeAnalysis |
 | [BA2](BA2.png) | Screenshot — MASTER_SP returning 4 result tables |
 | [BA3](BA3.png) | Screenshot — StateRanking VIEW with DENSE_RANK + output |
