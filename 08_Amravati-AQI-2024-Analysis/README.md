@@ -132,11 +132,10 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 └── screenshots/
     ├── AQI.png                                           ← Power BI dashboard screenshot
     ├── Amravati_2024_AQI_Analysis.pdf                    ← Dashboard PDF export
-    ├── Screenshot_2026-05-29_102920.png                  ← Notebook: Data Cleaning
-    ├── Screenshot_2026-05-29_103039.png                  ← Notebook: Import + Dataset
-    ├── Screenshot_2026-05-29_103114.png                  ← Notebook: info + describe
-    ├── Screenshot_2026-05-29_103146.png                  ← Notebook: Null handling
-    └── Screenshot_2026-05-29_103221.png                  ← Notebook: Data type + Remove rows
+    ├── AQI1.png                  ← Notebook: Data Cleaning
+    ├── AQI2.png                  ← Notebook: Import + Dataset
+    ├── AQI3.png                 ← Notebook: info + describe
+    └── AQI4.png                  ← Notebook: Data type + Remove rows
 ```
 
 ---
