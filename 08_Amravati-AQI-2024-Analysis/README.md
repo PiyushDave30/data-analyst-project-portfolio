@@ -139,7 +139,7 @@ CPCB Website → Raw AQI CSV → Python (Jupyter Notebook) → Cleaned Excel →
 | Resource | Link |
 |----------|------|
 | CPCB Official AQI Data | [airquality.cpcb.gov.in](https://airquality.cpcb.gov.in/ccr/#/caaqm-dashboard-all/caaqm-landing/aqi-repository) |
-| Jupyter Notebook | Run locally — `AQI_Cleaning_Analysis.ipynb` |
+| Jupyter Notebook | Run locally — [AQI Analysis (Python File)](AQI_Cleaning_Analysis.ipynb) |
 
 ---
 
