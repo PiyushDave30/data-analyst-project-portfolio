@@ -1,4 +1,4 @@
-# Amravati AQI 2024 Analysis 🌫️
+# Amravati AQI 2024 Analysis 
 
 ![Dashboard Preview](Screenshots/AQI.png)
 
