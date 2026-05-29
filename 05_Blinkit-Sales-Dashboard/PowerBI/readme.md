@@ -25,6 +25,7 @@ This folder contains the Power BI dashboard file for the Blinkit project.
 - Navigation buttons to all 5 pages
 - Blinkit branding with ticker showing top categories
 - Project description box
+![Dashboard Preview](Screenshots/B1.png)
 
 ### Page 2 — Product Performance & Sales Contribution
 - **Toggle buttons** — switch between Total Sales / Avg Sales / Avg Rating / Total Items view
@@ -32,6 +33,7 @@ This folder contains the Power BI dashboard file for the Blinkit project.
 - Total Sales by Item Fat Content (donut — Low Fat 64.6% vs Regular 35.4%)
 - Total Sales by Outlet Type (bar — Supermarket Type 1 leads at 787.55K)
 - Total Sales by Outlet Location Type (bar — Tier 3: 472K, Tier 2: 393K, Tier 1: 336K)
+![Dashboard Preview](Screenshots/B2.png)
 
 ### Page 3 — Outlet Performance Analysis
 - Filters: Outlet Location Type (Tier 1/2/3), Outlet Size (High/Medium/Small), Item Type
@@ -39,15 +41,18 @@ This folder contains the Power BI dashboard file for the Blinkit project.
 - Sales by Outlet Size (donut — Medium 42.27%, Small 37.01%, High 20.72%)
 - Sales by Outlet Age Group (bar — 6-10 years: 598.84K highest)
 - Outlet detail table (Type, Size, Sales, Rating, Status)
+![Dashboard Preview](Screenshots/B3.png)
 
 ### Page 4 — Quick Analysis
 - **Power BI Decomposition Tree** — breaks down 1,201.68K total sales by:
   - Item Type → Outlet Location → Outlet Size → Item Fat Content
 - Interactive drill-down with active filter display
+![Dashboard Preview](Screenshots/B4.png)
 
 ### Page 5 — Conclusion
 - Key Insights (5 bullet points)
 - Business Recommendations (3 actionable points)
+![Dashboard Preview](Screenshots/B5.png)
 
 ---
 
