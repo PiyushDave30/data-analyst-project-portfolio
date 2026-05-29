@@ -10,6 +10,7 @@ This folder contains the Power BI dashboard built after Python cleaning for the 
 |-----------|-------------|
 | [Amravati 2024 AQI PowerBI](Amravati_2024_AQI+Analysis.pbix) | Power BI dashboard file |
 | [Dashboard Image](AQI.png) | Screenshot of the complete dashboard |
+| [PDF File](Amravati_2024_AQI+Analysis.pdf) | PDF file of complete dashboard |
 
 ---
 
