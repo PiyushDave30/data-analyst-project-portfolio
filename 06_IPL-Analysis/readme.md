@@ -142,6 +142,19 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 
 ---
 
+## 📓 Jupyter Notebook
+
+[Open Notebook](http://localhost:8888/lab/tree/%20IPL%20Analysis/Charts/IPL.ipynb)
+
+- 156 notebook cells
+- 44+ visualizations
+- Complete IPL EDA & analysis
+- Built using Pandas, NumPy, Matplotlib & Seaborn
+
+![Notebook Structure](Screenshots/ipl_notebook_structure.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
