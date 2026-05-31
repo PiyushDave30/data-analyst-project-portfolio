@@ -1,6 +1,6 @@
 # India Sales Dashboard 🇮🇳
 
-![Dashboard Preview](screenshots/I1.png)
+![Dashboard Preview](Screenshots/I1.png)
 
 > **Self-Made Project**  
 > A comprehensive 5-page Power BI dashboard analyzing India sales performance across managers, regions, categories, sub-categories, cities, and states — covering Sales, Profit, and Manager performance with interactive filters.
@@ -32,11 +32,11 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 
 | Page | Preview |
 |------|---------|
-| Manager Performance Overview | ![Manager](screenshots/I1.png) |
-| Sales Performance Overview | ![Sales](screenshots/I4.png) |
-| Profit Performance Overview | ![Profit](screenshots/I2.png) |
-| Category Analysis | ![Category](screenshots/I5.png) |
-| Data Table | ![Table](screenshots/I3.png) |
+| Manager Performance Overview | ![Manager](Screenshots/I1.png) |
+| Sales Performance Overview | ![Sales](Screenshots/I4.png) |
+| Profit Performance Overview | ![Profit](Screenshots/I2.png) |
+| Category Analysis | ![Category](Screenshots/I5.png) |
+| Data Table | ![Table](Screenshots/I3.png) |
 
 ---
 
@@ -127,7 +127,7 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 │   ├── India_Sales_Dashboard.pbix   ← Power BI 5-page dashboard
 │   └── README.md
 │
-└── screenshots/
+└── Screenshots/
     ├── I1.png                       ← Manager Performance Overview
     ├── I2.png                       ← Profit Performance Overview
     ├── I3.png                       ← Data Table page
