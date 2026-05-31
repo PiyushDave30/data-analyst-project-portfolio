@@ -1,7 +1,7 @@
 # 🗄️ SQL Queries — Swiggy Food Orders Analysis
 
-**File:** `Swiggy_Analysis.sql`  
-All queries written in **MySQL Workbench** on the `swiggy` table with insights after every query.
+**File:** `Swiggy Analysis.sql`  
+All queries writtEn in **MySQL Workbench** on the `swiggy` table with insights after every query.
 
 ---
 
@@ -9,7 +9,7 @@ All queries written in **MySQL Workbench** on the `swiggy` table with insights a
 
 | File Name | Description |
 |-----------|-------------|
-| [Swiggy Analysis MySQL](Swiggy_Analysis.sql) | Complete SQL file — all queries across 6 sections |
+| [Swiggy Analysis MySQL](Swiggy%20Analysis.sql) | Complete SQL file — all queries across 6 sections |
 | [SW1](SW1.png) | Database setup + basic SELECT |
 | [SW2](SW2.png) | EDA output — counts and KPIs |
 | [SW3](SW3.png) | Null check + price + rating stats |
