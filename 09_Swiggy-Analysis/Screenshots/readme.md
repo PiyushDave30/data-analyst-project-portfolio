@@ -151,19 +151,18 @@ call cityreport('Mumbai');
 
 ---
 
-## 📋 Final Screenshot File List
+## 📋 Screenshot Files
 
-| File | Query / Content | Key Output |
-|------|----------------|------------|
-| `SW1.png` | Dataset scale query | 28 cities, 993 restaurants, 59,064 dishes |
-| `SW2.png` | Null check — 14 columns | All zeros ✅ |
-| `SW3.png` | Food type window function | Veg 71.5% vs Non-Veg 28.5% |
-| `SW4.png` | HAVING avg_price > 300 | Only Panaji (₹306) + Lucknow (₹305) |
-| `SW5.png` | Weekend vs Weekday split | Weekday 70.92% (surprising!) |
-| `SW6.png` | Price category CASE WHEN | Mid-Range leads 58.51% |
-| `SW7.png` | Both views + SELECT output | vw_city_summary + vw_top_rated_dishes |
-| `SW8.png` | Both procedures + CALL output | GetTopDishes + cityreport results |
-
+| File Name | Tool | Description |
+|-----------|------|-------------|
+| [SW1.png](SW1.png) | SQL | Dataset scale analysis showing 28 cities, 993 restaurants, and 59,064 dishes |
+| [SW2.png](SW2.png) | SQL | Data quality check across 14 columns confirming no missing values |
+| [SW3.png](SW3.png) | SQL | Window function analysis comparing Veg vs Non-Veg dishes (71.5% vs 28.5%) |
+| [SW4.png](SW4.png) | SQL | HAVING clause analysis identifying cities with average dish price above ₹300 |
+| [SW5.png](SW5.png) | SQL | Weekday vs Weekend order distribution analysis |
+| [SW6.png](SW6.png) | SQL | CASE WHEN based price segmentation analysis (Budget, Mid-Range, Premium) |
+| [SW7.png](SW7.png) | SQL | View creation and output for `vw_city_summary` and `vw_top_rated_dishes` |
+| [SW8.png](SW8.png) | SQL | Stored procedures (`GetTopDishes`, `cityreport`) and their execution results |
 ---
 
 ## 📌 Quick Reference — Key Numbers
