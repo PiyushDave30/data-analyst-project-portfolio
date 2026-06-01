@@ -1,4 +1,4 @@
-# Adventure Works Analysis 
+# Adventure Works Analysis
 
 ![Dashboard Preview](Screenshots/Dashboard1.png)
 
