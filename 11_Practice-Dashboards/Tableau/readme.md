@@ -21,7 +21,7 @@ This folder contains the Tableau Superstore dashboard.
 
 ## 📊 Dashboard Preview
 
-![Superstore Analytics Dashboard](Tableau_Sample_Superstore.png)
+![Superstore Analytics Dashboard](Tableau%20Sample%20Superstore.png)
 
 ---
 
