@@ -38,13 +38,13 @@ This folder contains two practice dashboards built using beginner-friendly sampl
 
 ### 📊 Power BI — Sales Performance Overview
 
-![PBI Sales Dashboard](Screenshots/PBI%20Finance1.png)
+![PBI Sales Dashboard](Screenshots/PBI%20Finance2.png)
 
 ---
 
 ### 📊 Power BI — Profit Performance Overview
 
-![PBI Profit Dashboard](Screenshots/PBI_Finance2.png)
+![PBI Profit Dashboard](Screenshots/PBI%20Finance2.png)
 
 ---
 
