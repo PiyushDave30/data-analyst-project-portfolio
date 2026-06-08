@@ -7,8 +7,8 @@
 | File Name | Tool | Content |
 |-----------|------|---------|
 | [Tableau Dashboard](Tableau_Sample_Superstore.png) | Tableau | Full Superstore Analytics Report — KPIs, category bars, sub-category, map, segments donut, top 5 products, sales trend |
-| [Power Bi Dashboard1](PBI_Finance1.png) | Power BI | Sales Performance Overview — Sales (118.73M), monthly trend, product bar, segment bar, country bar |
-| [Power Bi Dashboard](PBI_Finance2.png) | Power BI | Profit Performance Overview — Profit by month (Oct peak 3.4M), product profit, segment profit (Enterprise -0.61M loss), country profit |
+| [Power Bi Dashboard1](PBI_Finance2.png) | Power BI | Sales Performance Overview — Sales (118.73M), monthly trend, product bar, segment bar, country bar |
+| [Power Bi Dashboard](PBI_Finance1.png) | Power BI | Profit Performance Overview — Profit by month (Oct peak 3.4M), product profit, segment profit (Enterprise -0.61M loss), country profit |
 
 ---
 
