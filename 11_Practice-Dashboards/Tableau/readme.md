@@ -8,8 +8,9 @@ This folder contains the Tableau Superstore dashboard.
 
 | File Name | Description |
 |-----------|-------------|
-| [Tableau Public Link](https://public.tableau.com/app/profile/piyushdave/vizzes) | Live Tableau Public dashboard link |
+| [Tableau File](Sample%20Superstore%20Tableau.twbx) | Complete .twbx File |
 | [Tableau Dashboard](Tableau_Sample_Superstore.png) | Full dashboard screenshot |
+| [Raw Data](sample_-_superstore.xls) | Raw Data |
 
 ---
 
