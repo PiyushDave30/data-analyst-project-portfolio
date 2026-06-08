@@ -1,6 +1,6 @@
 # 📊 Power BI — Financial Performance Dashboard
 
-This folder contains the Power BI Finance dashboard for practice.
+This folder contains the Power BI Finance dashboard built using Power BI's built-in sample Finance dataset.
 
 ---
 
@@ -9,8 +9,18 @@ This folder contains the Power BI Finance dashboard for practice.
 | File Name | Description |
 |-----------|-------------|
 | [PBI Dashboard](Financial_Performance_Dashboard.pbix) | Power BI 2-page dashboard file |
-| [Sales Performance](PBI_Finance1.png) | Screenshot — Sales Performance Overview |
+| [Sales Performance](PBI_Finance1.png) | Screenshot — Sales Performance Overview | 
 | [Profit Performance](PBI_Finance2.png) | Screenshot — Profit Performance Overview |
+
+---
+
+## 📊 Dashboard Screenshots
+
+### Page 1 — Sales Performance Overview
+![Sales Performance Overview](PBI%20Finance1.png)
+
+### Page 2 — Profit Performance Overview
+![Profit Performance Overview](PBI%20Finance2.png)
 
 ---
 
@@ -40,17 +50,17 @@ This folder contains the Power BI Finance dashboard for practice.
 ---
 
 ## 🔑 Key Business Insights
+- **Government segment** is the most valuable in both sales (53M) and profit (11.39M)
 - **Enterprise segment loses money (-0.61M)** — pricing or cost structure needs review
-- **Government segment** is most valuable in both sales and profit
 - **Paseo product** consistently leads in both sales and profit
-- **France leads in profit** despite USA leading in sales — better margins in Europe
+- **France leads in profit** despite USA leading in sales — better margins in European market
 - **October is the best month** for both sales and profit
 
 ---
 
 ## 🛠️ Power BI Features Used
-- Toggle buttons — Sales/Profit page switch
-- Country and Year slicers
+- Toggle buttons — Sales / Profit page switch
+- Country dropdown and Year checkbox slicers
 - Line charts, bar charts, horizontal bar charts, KPI cards
 - Negative value visualization (Enterprise -0.61M)
 - DAX measures for Sales, Profit, Gross Sales, Discount
@@ -59,7 +69,7 @@ This folder contains the Power BI Finance dashboard for practice.
 
 ## 🔗 How to Open
 1. Download `Financial_Performance_Dashboard.pbix`
-2. Open with **Microsoft Power BI Desktop**
+2. Open with **Microsoft Power BI Desktop** (free download from Microsoft)
 3. Data is embedded — no external connections needed
 
 ---
