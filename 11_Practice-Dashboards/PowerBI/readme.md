@@ -9,18 +9,18 @@ This folder contains the Power BI Finance dashboard built using Power BI's built
 | File Name | Description |
 |-----------|-------------|
 | [PBI Dashboard](Financial_Performance_Dashboard.pbix) | Power BI 2-page dashboard file |
-| [Sales Performance](PBI_Finance1.png) | Screenshot — Sales Performance Overview | 
-| [Profit Performance](PBI_Finance2.png) | Screenshot — Profit Performance Overview |
+| [Sales Performance](PBI_Finance2.png) | Screenshot — Sales Performance Overview | 
+| [Profit Performance](PBI_Finance1.png) | Screenshot — Profit Performance Overview |
 
 ---
 
 ## 📊 Dashboard Screenshots
 
 ### Page 1 — Sales Performance Overview
-![Sales Performance Overview](PBI%20Finance1.png)
+![Sales Performance Overview](PBI%20Finance2.png)
 
 ### Page 2 — Profit Performance Overview
-![Profit Performance Overview](PBI%20Finance2.png)
+![Profit Performance Overview](PBI%20Finance1.png)
 
 ---
 
