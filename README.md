@@ -73,6 +73,7 @@ I am a **Data Analyst** with hands-on experience through a virtual internship at
 | 08 | [Amravati AQI 2024](./08_Amravati-AQI-2024-Analysis/) | Python · Power BI | Original data from CPCB govt website — Python cleaning → Power BI dashboard — 366 days, avg AQI 85.86 |
 | 09 | [Swiggy Food Analysis](./09_Swiggy-Analysis/) | SQL | 1,97,430 orders, 28 cities — 2 views, 2 stored procedures, window functions, REGEXP |
 | 10 | [India Sales Dashboard](./10_India-Sales-Dashboard/) | Power BI | 5-page manager/region/category dashboard — ₹589.65K sales, 3 managers, decomposition tree |
+| 11 | [Practice Dashboards](./11_Practice_Dashboards) | Tableau · Power BI | Superstore USA + Finance Dataset — practice dashboards for skill building |
 
 ---
 
