@@ -1,11 +1,11 @@
-# 📂 Raw Data — HR Attrition Analysis
+# Raw Data — HR Attrition Analysis
 
 This folder contains the original, unmodified HR datasets used for this project.  
 The data was provided by **ExcelR** as part of the AI Variant virtual internship curriculum.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -14,7 +14,7 @@ The data was provided by **ExcelR** as part of the AI Variant virtual internship
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 | Property | Value |
 |----------|-------|
@@ -27,6 +27,6 @@ The data was provided by **ExcelR** as part of the AI Variant virtual internship
 
 ---
 
-## ⚠️ Note
+## Note
 - Data is in **original raw form** — no changes applied here
 - JOIN key between tables: `HR_1.EmployeeNumber = HR_2.'Employee ID'`
