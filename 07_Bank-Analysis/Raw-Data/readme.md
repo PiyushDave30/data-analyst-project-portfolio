@@ -1,10 +1,10 @@
-# 📂 Raw Data — Bank Loan Analysis
+# Raw Data — Bank Loan Analysis
 
 This folder contains the original bank lending dataset used for this project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,7 +13,7 @@ This folder contains the original bank lending dataset used for this project.
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 | Property | Value |
 |----------|-------|
@@ -24,7 +24,7 @@ This folder contains the original bank lending dataset used for this project.
 
 ---
 
-## 🔑 Key Fields — finance1
+## Key Fields — finance1
 
 | Field | Description |
 |-------|-------------|
@@ -48,6 +48,6 @@ This folder contains the original bank lending dataset used for this project.
 
 ---
 
-## ⚠️ Note
+## Note
 - `int_rate` is stored as a string with % sign — `REPLACE(int_rate,'%','')` used in SQL for numeric conversion
 - Raw data kept in original form — all transformations done in SQL
