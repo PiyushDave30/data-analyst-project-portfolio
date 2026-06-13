@@ -1,10 +1,10 @@
-# 📂 Data — Swiggy Food Orders Analysis
+# Data — Swiggy Food Orders Analysis
 
 This folder contains the raw Swiggy dataset used for this project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -12,21 +12,21 @@ This folder contains the raw Swiggy dataset used for this project.
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 | Property | Value |
 |----------|-------|
 | **Source** | Swiggy Food Orders Dataset |
 | **Total Rows** | 1,97,430 |
 | **Total Columns** | 14 |
-| **Null Values** | Zero — all 14 columns are clean ✅ |
+| **Null Values** | Zero — all 14 columns are clean |
 | **Cities** | 28 |
 | **Restaurants** | 993 |
 | **Unique Dishes** | 59,064 |
 
 ---
 
-## 🔑 Key Fields
+## Key Fields
 
 | Column | Description |
 |--------|-------------|
@@ -47,7 +47,7 @@ This folder contains the raw Swiggy dataset used for this project.
 
 ---
 
-## ⚠️ Data Quality Notes
+## Data Quality Notes
 - Zero nulls across all 14 columns — confirmed via NULL check query
 - Hidden **whitespace** found in `category` column — silently inflates category counts in GROUP BY
 - **Biryani spelling variants** exist: Biryani, Biriyani, Biryanis — standardization needed before category-level analysis
