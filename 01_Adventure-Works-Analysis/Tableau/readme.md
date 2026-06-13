@@ -1,10 +1,10 @@
-# 📈 Tableau Dashboard — Adventure Works Analysis
+# Tableau Dashboard — Adventure Works Analysis
 
 This folder contains the Tableau dashboard link and screenshot for the Adventure Works project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,13 +13,13 @@ This folder contains the Tableau dashboard link and screenshot for the Adventure
 
 ---
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
-👉 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/projectgrpfile/Dashboard1)**
+**[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/projectgrpfile/Dashboard1)**
 
 ---
 
-## 📋 Dashboard Overview
+## Dashboard Overview
 
 | Section | Details |
 |---------|---------|
@@ -33,7 +33,7 @@ This folder contains the Tableau dashboard link and screenshot for the Adventure
 
 ---
 
-## 🛠️ Tableau Features Used
+## Tableau Features Used
 - KPI Banner with 5 metrics
 - Interactive filters (Year of Order Date)
 - Line charts, bar charts, donut chart, combination chart
