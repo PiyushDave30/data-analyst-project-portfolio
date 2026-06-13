@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes HR data to identify key factors driving employee attrition in an organization with **50,000 employees** across 6 departments. The analysis helps HR teams understand:
 
@@ -18,7 +18,7 @@ This project analyzes HR data to identify key factors driving employee attrition
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -29,7 +29,7 @@ This project analyzes HR data to identify key factors driving employee attrition
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
 ### **Power BI — HR Attrition Analysis Dashboard**
 ![Power BI Dashboard](Screenshots/HR5.png)
@@ -52,7 +52,7 @@ This project analyzes HR data to identify key factors driving employee attrition
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 
 ### Workforce Overview
 - **Total Employees: 50,000** | Active: 24,895 | Attrited: 25,105
@@ -92,7 +92,7 @@ This project analyzes HR data to identify key factors driving employee attrition
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 03_HR-Attrition-Analysis/
@@ -129,7 +129,7 @@ This project analyzes HR data to identify key factors driving employee attrition
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** HR Analytics Dataset — provided by ExcelR as part of virtual internship curriculum
 - **Tables:** `HR_1` (employee info), `HR_2` (salary and work data)
@@ -138,7 +138,7 @@ This project analyzes HR data to identify key factors driving employee attrition
 
 ---
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
 | Platform | Link |
 |----------|------|
@@ -146,7 +146,7 @@ This project analyzes HR data to identify key factors driving employee attrition
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
