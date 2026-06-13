@@ -1,10 +1,10 @@
-# 📈 Tableau — Superstore USA Analytics Report
+# Tableau — Superstore USA Analytics Report
 
 This folder contains the Tableau Superstore dashboard.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -14,19 +14,19 @@ This folder contains the Tableau Superstore dashboard.
 
 ---
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
-👉 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/FinalTableauAssignment_17639942441920/Dashboard)**
+**[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/FinalTableauAssignment_17639942441920/Dashboard)**
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Superstore Analytics Dashboard](Tableau%20Sample%20Superstore.png)
 
 ---
 
-## 📋 Dashboard Overview
+## Dashboard Overview
 
 **Title:** Analytics Report for Superstore, USA
 
@@ -54,7 +54,7 @@ This folder contains the Tableau Superstore dashboard.
 
 ---
 
-## 🛠️ Tableau Features Used
+## Tableau Features Used
 - Dynamic metric toggle (Sales / Profit / Orders)
 - Region multi-select filter
 - Year range slider
