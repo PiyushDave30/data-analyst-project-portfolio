@@ -1,10 +1,10 @@
-# 📂 Raw Data — India Sales Dashboard
+# Raw Data — India Sales Dashboard
 
 This folder contains the raw India sales dataset used for this project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -12,7 +12,7 @@ This folder contains the raw India sales dataset used for this project.
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 | Property | Value |
 |----------|-------|
@@ -26,7 +26,7 @@ This folder contains the raw India sales dataset used for this project.
 
 ---
 
-## 🔑 Key Fields
+## Key Fields
 
 | Field | Description |
 |-------|-------------|
