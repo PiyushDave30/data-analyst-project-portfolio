@@ -1,10 +1,10 @@
-# 🗄️ SQL Queries — Bank Loan Analysis
+# SQL Queries — Bank Loan Analysis
 
 All queries are written in **MySQL Workbench** on the `finance1` and `finance2` tables organized into 3 sections + stored procedures + views.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -18,7 +18,7 @@ All queries are written in **MySQL Workbench** on the `finance1` and `finance2` 
 
 ---
 
-## 📋 Query Sections
+## Query Sections
 
 ### Section 1 — Basic Exploratory Analysis (EDA)
 | # | Query | Description |
@@ -68,7 +68,7 @@ All queries are written in **MySQL Workbench** on the `finance1` and `finance2` 
 
 ---
 
-## 🛠️ SQL Concepts Used
+## SQL Concepts Used
 - `GROUP BY`, `ORDER BY DESC`, `LIMIT`
 - `COUNT(DISTINCT)`, `GROUP_CONCAT(DISTINCT ... SEPARATOR ',')`
 - `CASE WHEN` — default rate calculation, loan status filtering
@@ -82,7 +82,7 @@ All queries are written in **MySQL Workbench** on the `finance1` and `finance2` 
 
 ---
 
-## 💡 Key Outputs
+## Key Outputs
 
 **StateRanking VIEW Sample:**
 ```
