@@ -1,10 +1,10 @@
-# 📈 Tableau Dashboard — Hospitality Analysis
+# Tableau Dashboard — Hospitality Analysis
 
 This folder contains the Tableau dashboard link and screenshot for the Hospitality Analysis project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,13 +13,13 @@ This folder contains the Tableau dashboard link and screenshot for the Hospitali
 
 ---
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
-👉 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/Hospitality_Analytics_Dashboard_Tableau/Dashboard1)**
+**[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/Hospitality_Analytics_Dashboard_Tableau/Dashboard1)**
 
 ---
 
-## 📋 Dashboard Overview
+## Dashboard Overview
 
 | Section | Details |
 |---------|---------|
@@ -34,7 +34,7 @@ This folder contains the Tableau dashboard link and screenshot for the Hospitali
 
 ---
 
-## 🛠️ Tableau Features Used
+## Tableau Features Used
 - Interactive city and category filters
 - Week-level time series analysis
 - Multi-chart dashboard layout
