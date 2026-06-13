@@ -1,10 +1,10 @@
-# 📂 Raw Data — Blinkit Sales Performance Dashboard
+# Raw Data — Blinkit Sales Performance Dashboard
 
 This folder contains the original Blinkit grocery sales dataset used for this project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -12,7 +12,7 @@ This folder contains the original Blinkit grocery sales dataset used for this pr
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 | Property | Value |
 |----------|-------|
@@ -23,7 +23,7 @@ This folder contains the original Blinkit grocery sales dataset used for this pr
 
 ---
 
-## 🔑 Key Fields
+## Key Fields
 
 | Field | Description |
 |-------|-------------|
@@ -39,7 +39,7 @@ This folder contains the original Blinkit grocery sales dataset used for this pr
 
 ---
 
-## 🧹 Data Cleaning (done in Excel)
+##  Data Cleaning (done in Excel)
 - Removed blank/null rows in key columns
 - Standardized `Item Fat Content` — merged "LF", "low fat" → "Low Fat" and "reg" → "Regular"
 - Formatted numeric columns for correct data types
