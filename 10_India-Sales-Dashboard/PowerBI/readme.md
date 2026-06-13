@@ -1,10 +1,10 @@
-# 📊 Power BI Dashboard — India Sales Dashboard
+# Power BI Dashboard — India Sales Dashboard
 
 This folder contains the Power BI dashboard file for the India Sales project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -17,7 +17,7 @@ This folder contains the Power BI dashboard file for the India Sales project.
 
 ---
 
-## 📋 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Manager Performance Overview
 - **KPIs:** Total Sales (589.65K), Sales/Manager (196.55K), Total Profit (129.07K), Profit/Manager (43.02K), Total Managers (3), Total Orders (1.56K)
@@ -59,7 +59,7 @@ This folder contains the Power BI dashboard file for the India Sales project.
 
 ---
 
-## 🛠️ Power BI Features Used
+## Power BI Features Used
 - **Toggle buttons** — Sales / Profit / Reset on Sales and Profit pages
 - **Decomposition Tree** — drill-down: Sales → Manager → Team Lead → Region → Category
 - **Slicers** — Year and Manager filters on Data Table page
@@ -68,7 +68,7 @@ This folder contains the Power BI dashboard file for the India Sales project.
 
 ---
 
-## 🔗 How to Open
+## How to Open
 1. Download `India_Sales_Dashboard.pbix`
 2. Open with **Microsoft Power BI Desktop**
 3. Data is embedded — no external connections needed
