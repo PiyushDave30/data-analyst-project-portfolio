@@ -1,4 +1,4 @@
-# India Sales Dashboard 🇮🇳
+# India Sales Dashboard
 
 ![Dashboard Preview](Screenshots/I1.png)
 
