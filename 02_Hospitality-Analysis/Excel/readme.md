@@ -1,10 +1,10 @@
-# 📗 Excel Dashboard — Hospitality Analysis
+# Excel Dashboard — Hospitality Analysis
 
 This folder contains the Excel dashboard built for the Hospitality Analysis project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,7 +13,7 @@ This folder contains the Excel dashboard built for the Hospitality Analysis proj
 
 ---
 
-## 📋 Dashboard Overview
+## Dashboard Overview
 
 The Excel dashboard titled **"Hospitality Analysis Dashboard"** includes:
 
@@ -29,7 +29,7 @@ The Excel dashboard titled **"Hospitality Analysis Dashboard"** includes:
 
 ---
 
-## 🛠️ Excel Features Used
+## Excel Features Used
 - **Pivot Tables** — for all aggregations
 - **Pivot Charts** — multiple chart types
 - **Slicers** — 5 interactive filters
