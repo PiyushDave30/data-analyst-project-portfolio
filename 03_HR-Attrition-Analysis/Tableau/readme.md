@@ -1,10 +1,10 @@
-# 📈 Tableau Dashboard — HR Attrition Analysis
+# Tableau Dashboard — HR Attrition Analysis
 
 This folder contains the Tableau dashboard link and screenshot for the HR Attrition project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,13 +13,13 @@ This folder contains the Tableau dashboard link and screenshot for the HR Attrit
 
 ---
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
-👉 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/HR_Analytics_Tableau_17765068172250/Dashboard)**
+**[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/HR_Analytics_Tableau_17765068172250/Dashboard)**
 
 ---
 
-## 📋 Dashboard Overview
+## Dashboard Overview
 
 Dashboard titled **"HR Attrition Analytics"** with dark navy theme:
 
@@ -36,7 +36,7 @@ Dashboard titled **"HR Attrition Analytics"** with dark navy theme:
 
 ---
 
-## 🛠️ Tableau Features Used
+## Tableau Features Used
 - Dynamic Income Group, Department, JobRole filters
 - Bubble chart for promotion analysis
 - Treemap for department working years
