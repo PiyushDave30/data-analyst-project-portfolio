@@ -1,10 +1,10 @@
-# 📊 Power BI — Financial Performance Dashboard
+# Power BI — Financial Performance Dashboard
 
 This folder contains the Power BI Finance dashboard built using Power BI's built-in sample Finance dataset.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -14,7 +14,7 @@ This folder contains the Power BI Finance dashboard built using Power BI's built
 
 ---
 
-## 📊 Dashboard Screenshots
+## Dashboard Screenshots
 
 ### Page 1 — Sales Performance Overview
 ![Sales Performance Overview](PBI%20Finance2.png)
@@ -24,7 +24,7 @@ This folder contains the Power BI Finance dashboard built using Power BI's built
 
 ---
 
-## 📋 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Sales Performance Overview
 | Section | Details |
@@ -49,7 +49,7 @@ This folder contains the Power BI Finance dashboard built using Power BI's built
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 - **Government segment** is the most valuable in both sales (53M) and profit (11.39M)
 - **Enterprise segment loses money (-0.61M)** — pricing or cost structure needs review
 - **Paseo product** consistently leads in both sales and profit
@@ -58,7 +58,7 @@ This folder contains the Power BI Finance dashboard built using Power BI's built
 
 ---
 
-## 🛠️ Power BI Features Used
+## Power BI Features Used
 - Toggle buttons — Sales / Profit page switch
 - Country dropdown and Year checkbox slicers
 - Line charts, bar charts, horizontal bar charts, KPI cards
@@ -67,14 +67,14 @@ This folder contains the Power BI Finance dashboard built using Power BI's built
 
 ---
 
-## 🔗 How to Open
+## How to Open
 1. Download `Financial_Performance_Dashboard.pbix`
 2. Open with **Microsoft Power BI Desktop** (free download from Microsoft)
 3. Data is embedded — no external connections needed
 
 ---
 
-## 📂 Dataset
+## Dataset
 - **Source:** Finance Dataset — built-in Power BI sample dataset
 - **Period:** 2013–2014
 - **Countries:** USA, Canada, France, Germany, Mexico
