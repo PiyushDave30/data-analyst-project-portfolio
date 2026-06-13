@@ -1,11 +1,11 @@
-# 📂 Raw Data — Hospitality Analysis
+# Raw Data — Hospitality Analysis
 
 This folder contains the original, unmodified datasets used for this project.  
 The data was provided by **ExcelR** as part of the AI Variant virtual internship curriculum.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -16,7 +16,7 @@ The data was provided by **ExcelR** as part of the AI Variant virtual internship
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 | Property | Value |
 |----------|-------|
@@ -30,6 +30,6 @@ The data was provided by **ExcelR** as part of the AI Variant virtual internship
 
 ---
 
-## ⚠️ Note
+## Note
 - Data is kept in its **original raw form** — no changes applied
 - All transformations were done in Power BI (Power Query), SQL, Tableau, and Excel
