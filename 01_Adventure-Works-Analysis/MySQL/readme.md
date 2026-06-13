@@ -1,10 +1,10 @@
-# 🗄️ SQL Queries — Adventure Works Analysis
+# SQL Queries — Adventure Works Analysis
 
 This folder contains all SQL queries written for the Adventure Works project using **MySQL Workbench**.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -16,7 +16,7 @@ This folder contains all SQL queries written for the Adventure Works project usi
 
 ---
 
-## 📋 Queries Covered
+## Queries Covered
 
 | # | Query | Description |
 |---|-------|-------------|
@@ -34,7 +34,7 @@ This folder contains all SQL queries written for the Adventure Works project usi
 
 ---
 
-## 🛠️ SQL Concepts Used
+## SQL Concepts Used
 - `CREATE DATABASE`, `USE`, `CREATE VIEW`, `CREATE PROCEDURE`
 - `JOIN` (INNER, multiple tables)
 - `GROUP BY`, `ORDER BY`, `WHERE`
@@ -45,7 +45,7 @@ This folder contains all SQL queries written for the Adventure Works project usi
 
 ---
 
-## 💡 Key Query Output
+## Key Query Output
 ```
 Total Sales    | Order Quantity | Total Profit | Distinct Orders
 29.36 M        | 60.40 K        | 12.08 M      | 27.66 K
