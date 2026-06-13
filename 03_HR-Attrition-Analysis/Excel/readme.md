@@ -1,10 +1,10 @@
-# 📗 Excel Dashboard — HR Attrition Analysis
+# Excel Dashboard — HR Attrition Analysis
 
 This folder contains the Excel dashboard for the HR Attrition Analysis project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,7 +13,7 @@ This folder contains the Excel dashboard for the HR Attrition Analysis project.
 
 ---
 
-## 📋 Dashboard Plan
+## Dashboard Plan
 
 The Excel dashboard will cover:
 
@@ -28,7 +28,7 @@ The Excel dashboard will cover:
 
 ---
 
-## 🛠️ Excel Features to Be Used
+## Excel Features to Be Used
 - Pivot Tables for all aggregations
 - Pivot Charts — bar, pie, line
 - Slicers — Department, Gender, Income Group
