@@ -1,10 +1,10 @@
-# 📈 Tableau Dashboard — Zomato Sales & Rating Analysis
+# Tableau Dashboard — Zomato Sales & Rating Analysis
 
 This folder contains the Tableau dashboard for the Zomato project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,13 +13,13 @@ This folder contains the Tableau dashboard for the Zomato project.
 
 ---
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
-👉 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/vizzes)**
+**[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/vizzes)**
 
 ---
 
-## 📋 Dashboard Overview
+## Dashboard Overview
 
 Dashboard titled **"Zomato Analytics Dashboard"** with bold red theme:
 
@@ -51,7 +51,7 @@ Dashboard titled **"Zomato Analytics Dashboard"** with bold red theme:
 
 ---
 
-## 🛠️ Tableau Features Used
+## Tableau Features Used
 - Dynamic parameter toggle (switch between metrics)
 - Multi-select city filter slipper
 - Lollipop charts, donut chart, bar charts, summary table
