@@ -1,10 +1,10 @@
-# 🖼️ Screenshots — Amravati AQI 2024 Analysis
+# Screenshots — Amravati AQI 2024 Analysis
 
 This folder contains all screenshots — Power BI dashboard, PDF export, and Jupyter Notebook screenshots.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 ### Dashboard Screenshots
 | File Name | Content |
@@ -18,11 +18,11 @@ This folder contains all screenshots — Power BI dashboard, PDF export, and Jup
 | [AQI2](AQI2) | Import Libraries + Importing Dataset + Basic Data Understanding | Libraries imported (pandas, numpy, matplotlib, seaborn), `pd.read_excel()` loading raw file, `head()` showing Day 1–3 with actual AQI values, `tail()` showing invalid rows (Very poor, Severe, NaN) |
 | [AQI1](AQI1) | Data Cleaning | `isnull().sum()` before — nulls found (Jan:6, Feb:9, Sep:8 etc), `fillna(mean)` applied, `isnull().sum()` after — all months show 0 ✅ |
 | [AQI3](AQI3) | Basic Data Understanding  | `info()` — 41 entries, 13 columns, Day=object, months=float64, `describe()` — mean/std/min per month, `shape` — (41, 13) |
-| [AQI4](AQI4) | Checking Data Type + Remove Invalid Rows | `pd.to_numeric(errors='coerce')` — Day: object→float64, `info()` confirms 41 non-null per month, `dropna(subset=['Day'])` — shape: 41→**(31, 13)** ✅ |
+| [AQI4](AQI4) | Checking Data Type + Remove Invalid Rows | `pd.to_numeric(errors='coerce')` — Day: object→float64, `info()` confirms 41 non-null per month, `dropna(subset=['Day'])` — shape: 41→**(31, 13)** |
 
 ---
 
-## 📌 Quick Reference — Key Numbers
+## Quick Reference — Key Numbers
 
 | Metric | Value |
 |--------|-------|
@@ -39,9 +39,9 @@ This folder contains all screenshots — Power BI dashboard, PDF export, and Jup
 | Raw Data Shape | (41, 13) |
 | Cleaned Data Shape | (31, 13) |
 | Nulls Before Cleaning | 6–9 per month column |
-| Nulls After Cleaning | 0 ✅ |
+| Nulls After Cleaning | 0 |
 
 ---
 
-## 🌐 Data Source
+## Data Source
 [CPCB Official AQI Repository](https://airquality.cpcb.gov.in/ccr/#/caaqm-dashboard-all/caaqm-landing/aqi-repository)
