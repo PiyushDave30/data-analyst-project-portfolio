@@ -1,10 +1,10 @@
-# 🖼️ Screenshots — Blinkit Sales Performance Dashboard
+# Screenshots — Blinkit Sales Performance Dashboard
 
 This folder contains all screenshots of the 5-page Blinkit Power BI dashboard.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Page | Content |
 |-----------|------|---------|
@@ -16,7 +16,7 @@ This folder contains all screenshots of the 5-page Blinkit Power BI dashboard.
 
 ---
 
-## 📌 Quick Reference — Key Numbers
+## Quick Reference — Key Numbers
 
 | Metric | Value |
 |--------|-------|
