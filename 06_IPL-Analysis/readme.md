@@ -1,4 +1,4 @@
-# IPL 18-Season Analysis 🏏
+# IPL 18-Season Analysis
 
 ---
 ![IPL Analysis](Screenshots/ipl_notebook_structure.png)
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs a full data analytics workflow on IPL data — from raw CSV loading to deep statistical analysis and 44+ visualizations across batting, bowling, team, season, and match dimensions.
 
@@ -23,7 +23,7 @@ This project performs a full data analytics workflow on IPL data — from raw CS
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -36,20 +36,20 @@ This project performs a full data analytics workflow on IPL data — from raw CS
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 | File | Rows | Columns | Description | GitHub |
 |------|------|---------|-------------|--------|
-| `ball_by_ball_data.csv` | 2,78,205 | 30 | Every ball bowled in IPL history | ❌ 25MB+ — too large |
-| `ipl_matches_data.csv` | 1,169 | 24 | Match-level data — teams, result, venue, toss | ✅ Uploaded |
-| `players-data-updated.csv` | 772 | 8 | Player profiles — bat/bowl style, field position | ✅ Uploaded |
-| `teams_data.csv` | 16 | 4 | IPL team information | ✅ Uploaded |
+| `ball_by_ball_data.csv` | 2,78,205 | 30 | Every ball bowled in IPL history | 25MB+ — too large |
+| `ipl_matches_data.csv` | 1,169 | 24 | Match-level data — teams, result, venue, toss | Uploaded |
+| `players-data-updated.csv` | 772 | 8 | Player profiles — bat/bowl style, field position | Uploaded |
+| `teams_data.csv` | 16 | 4 | IPL team information | Uploaded |
 
-> ⚠️ `ball_by_ball_data.csv` exceeds GitHub's 25MB limit. Download it separately from Kaggle and place it in the `data/` folder before running the notebook.
+> `ball_by_ball_data.csv` exceeds GitHub's 25MB limit. Download it separately from Kaggle and place it in the `data/` folder before running the notebook.
 
 ---
 
-## 📓 Project Workflow
+## Project Workflow
 
 ```
 Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insights → Conclusion
@@ -68,7 +68,7 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 ## Batting Charts
 ![Top Run Scorers](Screenshots/top_run_scorers.png)
@@ -105,20 +105,20 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 
 ---
 
-## 🔑 Key Insights
+## Key Insights
 
-### 🏏 Batting
+### Batting
 - **V Kohli** is the all-time IPL run scorer with **8,671 runs**, **774 fours**, and **6,702 balls faced** across 17+ seasons — consistency over explosiveness
 - **CH Gayle** leads six-hitting with **359 sixes** — 56 more than RG Sharma (303)
 - **DA Warner vs SP Narine** is the most productive batter-bowler matchup: Warner scored **195 runs** against Narine
 
-### 🎯 Bowling
+### Bowling
 - **YS Chahal** leads all wicket takers with **229 wickets** — spinners dominate IPL conditions
 - **B Kumar** bowls the most dot balls (**1,748**) AND gives the most extras (**320**) — highest workload
 - **DJ Bravo** bowled the most wide balls (**167**) — death bowling pressure
 - **R Ashwin** conceded the most runs (**5,721**) and bowled the most balls (**4,868**) — longest career
 
-### 🏆 Teams
+### Teams
 - **Mumbai Indians** dominates ALL metrics:
   - Most wins: **151**
   - Most matches: **277**
@@ -127,13 +127,13 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 - MI vs CSK is the biggest rivalry — both dominate all-time charts
 - Wins vs Losses chart shows MI with the highest win margin over losses
 
-### 📅 Seasons
+### Seasons
 - **2025** is the highest-scoring season: **26,527 runs** across **74 matches**
 - Average run rate per season shows a consistent **upward trend** — IPL scoring is getting more aggressive every year
 - **Over 17–18** has the highest runs — not over 19 — showing death bowling is IPL's hardest skill
 - **2020 dip** — COVID season played in UAE on slower pitches
 
-### 🎲 Matches
+### Matches
 - **58.4%** of toss winners choose to field first — chasing is the preferred strategy
 - **99.3%** of matches produced a result — only 8 no-result matches in 18 seasons
 - **Caught** is the most common dismissal type — ~50% of all wickets
@@ -142,7 +142,7 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 
 ---
 
-## 📓 Jupyter Notebook
+## Jupyter Notebook
 
 [Open Notebook](http://localhost:8888/lab/tree/%20IPL%20Analysis/Charts/IPL.ipynb)
 
@@ -155,7 +155,7 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 06_IPL-18-Season-Analysis/
@@ -163,9 +163,9 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 ├── README.md                          ← You are here
 │
 ├── data/
-│   ├── ipl_matches_data.csv           ← 1,169 matches, 24 columns ✅
-│   ├── players-data-updated.csv       ← 772 players, 8 columns ✅
-│   ├── teams_data.csv                 ← 16 teams, 4 columns ✅
+│   ├── ipl_matches_data.csv           ← 1,169 matches, 24 columns 
+│   ├── players-data-updated.csv       ← 772 players, 8 columns 
+│   ├── teams_data.csv                 ← 16 teams, 4 columns 
 │   └── README.md
 │
 ├── notebooks/
@@ -188,7 +188,7 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 
 ---
 
-## 📈 Project Stats
+## Project Stats
 
 | Metric | Value |
 |--------|-------|
@@ -204,7 +204,7 @@ Load 4 CSVs → EDA → Data Cleaning → 20+ Analyses → 44+ Charts → Insigh
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
