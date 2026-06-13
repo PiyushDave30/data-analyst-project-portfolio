@@ -1,10 +1,10 @@
-# 📂 Data — Amravati AQI 2024 Analysis
+# Data — Amravati AQI 2024 Analysis
 
 This folder contains both the raw and cleaned AQI datasets for Amravati city 2024.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Type | Description |
 |-----------|------|-------------|
@@ -13,7 +13,7 @@ This folder contains both the raw and cleaned AQI datasets for Amravati city 202
 
 ---
 
-## 🌐 Data Source
+## Data Source
 
 | Detail | Value |
 |--------|-------|
@@ -25,7 +25,7 @@ This folder contains both the raw and cleaned AQI datasets for Amravati city 202
 
 ---
 
-## 🔄 Raw vs Cleaned — What Changed?
+## Raw vs Cleaned — What Changed?
 
 | What | Raw File | Cleaned File |
 |------|----------|--------------|
@@ -39,7 +39,7 @@ This folder contains both the raw and cleaned AQI datasets for Amravati city 202
 
 ---
 
-## 🔑 Key Fields in Cleaned File
+## Key Fields in Cleaned File
 
 | Field | Description |
 |-------|-------------|
