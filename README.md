@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Piyush Dave
+# Hi, I'm Piyush Dave
 
 ### Data Analyst | SQL · Power BI · Tableau · Excel · Python
 
@@ -20,18 +20,18 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 I am a **Data Analyst** with hands-on experience through a virtual internship at **AI Variant (ExcelR)** and multiple self-made projects covering the complete data analytics stack.
 
-- 🎓 Completed virtual internship at **AI Variant** through ExcelR's Data Analyst program
-- 🔍 Currently seeking a **full-time Data Analyst role**
-- 💡 Passionate about turning raw data into business insights through analysis and visualization
-- 📍 Based in **Amravati, Maharashtra, India**
+-  Completed virtual internship at **AI Variant** through ExcelR's Data Analyst program
+-  Currently seeking a **full-time Data Analyst role**
+-  Passionate about turning raw data into business insights through analysis and visualization
+-  Based in **Amravati, Maharashtra, India**
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | Category | Tools & Technologies |
 |----------|---------------------|
@@ -43,9 +43,9 @@ I am a **Data Analyst** with hands-on experience through a virtual internship at
 
 ---
 
-## 📁 Portfolio Projects
+## Portfolio Projects
 
-### 🏢 Virtual Internship Projects — AI Variant (ExcelR)
+### Virtual Internship Projects — AI Variant (ExcelR)
 
 | # | Project | Tools | Description |
 |---|---------|-------|-------------|
@@ -55,7 +55,7 @@ I am a **Data Analyst** with hands-on experience through a virtual internship at
 
 ---
 
-### 💼 Resume Projects
+### Resume Projects
 
 | # | Project | Tools | Description |
 |---|---------|-------|-------------|
@@ -64,7 +64,7 @@ I am a **Data Analyst** with hands-on experience through a virtual internship at
 
 ---
 
-### 🔧 Self-Made Projects
+### Self-Made Projects
 
 | # | Project | Tools | Description |
 |---|---------|-------|-------------|
@@ -77,7 +77,7 @@ I am a **Data Analyst** with hands-on experience through a virtual internship at
 
 ---
 
-## 📊 Project Highlights
+## Project Highlights
 
 <div align="center">
 
@@ -95,31 +95,31 @@ I am a **Data Analyst** with hands-on experience through a virtual internship at
 
 ---
 
-## 🏆 Project Showcase
+## Project Showcase
 
-### 🏏 IPL 18-Season Analysis
+### IPL 18-Season Analysis
 > 18 seasons · 1,169 matches · 2,78,205 deliveries · 44+ charts · 156 notebook cells · 0 errors
 
-### 🌫️ Amravati AQI 2024
+### Amravati AQI 2024
 > Data personally collected from India's official CPCB government website — not from Kaggle or any third-party source
 
-### 🍕 Swiggy Food Analysis
+### Swiggy Food Analysis
 > 1,97,430 orders · 2 stored procedures · 2 views · window functions · REGEXP
 
-### 🏦 Bank Loan Analysis
+### Bank Loan Analysis
 > MASTER_SP returning 4 result tables in 1 CALL · StateRanking VIEW with DENSE_RANK · 25+ queries
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| 📧 LinkedIn | [linkedin.com/in/piyush-dave-0980a03a8](https://www.linkedin.com/in/piyush-dave-0980a03a8) |
-| 📊 Tableau Public | [public.tableau.com/app/profile/piyushdave](https://public.tableau.com/app/profile/piyushdave/vizzes) |
-| 💻 GitHub | [github.com/PiyushDave30](https://github.com/PiyushDave30) |
+| LinkedIn | [linkedin.com/in/piyush-dave-0980a03a8](https://www.linkedin.com/in/piyush-dave-0980a03a8) |
+| Tableau Public | [public.tableau.com/app/profile/piyushdave](https://public.tableau.com/app/profile/piyushdave/vizzes) |
+| GitHub | [github.com/PiyushDave30](https://github.com/PiyushDave30) |
 
 </div>
 
