@@ -1,8 +1,8 @@
-# 🖼️ Screenshots — Practice Dashboards
+# Screenshots — Practice Dashboards
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Tool | Content |
 |-----------|------|---------|
@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Quick Reference
+## Quick Reference
 
 ### Tableau — Superstore
 | Metric | Value |
