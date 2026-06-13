@@ -129,6 +129,6 @@ I am a **Data Analyst** with hands-on experience through a virtual internship at
 
 *"Data is not just numbers — it's the story of every business decision waiting to be told."*
 
-⭐ **If you find this portfolio helpful, consider giving it a star!**
+**If you find this portfolio helpful, consider giving it a star!**
 
 </div>
