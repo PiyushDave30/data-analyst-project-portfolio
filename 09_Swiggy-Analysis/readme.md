@@ -1,4 +1,4 @@
-# Swiggy Food Orders Analysis 🍕
+# Swiggy Food Orders Analysis
 
 ![SQL Preview](Screenshots/SW1.png)
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs an end-to-end SQL analysis on Swiggy's food ordering platform data to uncover patterns in restaurant performance, dish pricing, food type preferences, city-wise demand, time-based ordering trends, and customer behaviour.
 
@@ -21,7 +21,7 @@ This project performs an end-to-end SQL analysis on Swiggy's food ordering platf
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -29,7 +29,7 @@ This project performs an end-to-end SQL analysis on Swiggy's food ordering platf
 
 ---
 
-## 📋 SQL Query Screenshots
+## SQL Query Screenshots
 
 | File Name | Description |
 |-----------|-------------|
@@ -44,25 +44,25 @@ This project performs an end-to-end SQL analysis on Swiggy's food ordering platf
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 
-### 📊 Dataset Overview
+### Dataset Overview
 | Metric | Value |
 |--------|-------|
 | Total Rows | 1,97,430 |
 | Total Cities | 28 |
 | Total Restaurants | 993 |
 | Total Unique Dishes | 59,064 |
-| Null Values | 0 across all 14 columns ✅ |
+| Null Values | 0 across all 14 columns |
 
-### 💰 Pricing Insights
+### Pricing Insights
 - **Average dish price: ₹268.51** with range from ₹0.95 to ₹8,000
 - **77,848 dishes (39.4%)** are priced above the platform average
 - **Only 2 cities** have avg price above ₹300: **Panaji (₹306)** and **Lucknow (₹305)**
 - Metros like Mumbai and Delhi fall below ₹300 — platform-wide price sensitivity
 - **Non-Veg dishes are pricier** than Veg on average
 
-### 🏷️ Price Category Distribution
+### Price Category Distribution
 | Category | Dishes | Percentage |
 |----------|--------|------------|
 | Mid-Range (₹150–₹400) | 1,15,514 | 58.51% |
@@ -82,7 +82,7 @@ This project performs an end-to-end SQL analysis on Swiggy's food ordering platf
 - **'Weekday | Veg'** is the biggest order segment — **99,745 orders, avg ₹240**
 - Daily habit-based Veg ordering drives Swiggy's core volume, not weekend splurges
 
-### 📅 Time-Based Insights
+### Time-Based Insights
 - **Busiest day: Saturday (28,938 orders)**, followed by Sunday (28,474)
 - **Tuesday is the slowest day** — not Monday as expected
 - **Weekdays: 70.92% (1,40,018)** vs Weekends: 29.08% (57,412) — opposite of assumptions
@@ -91,19 +91,19 @@ This project performs an end-to-end SQL analysis on Swiggy's food ordering platf
 - **Q1 has highest avg price** (₹269.07), Q2 has most orders (74,163)
 - January leads monthly with 25,398 orders — steady demand year-round
 
-### ⭐ Rating Insights
+### Rating Insights
 - Avg rating: ~4.0 — healthy platform-wide quality
 - ALL 28 cities pass: 1000+ orders AND avg rating > 3.8
 - **Kochi leads** avg rating (4.44), followed by Aizawl and Kolkata (4.41)
 - Majority of dishes are "Unrated" or "Low (1–25)" — many new/low-traffic items
 
-### 🗃️ Views Created
+### Views Created
 | View | Purpose |
 |------|---------|
 | `vw_city_summary` | City-wise: total orders, restaurants, avg price, avg rating |
 | `vw_top_rated_dishes` | Dishes with rating > 4.5 AND rating count >= 100 — curated best dishes |
 
-### ⚙️ Stored Procedures Created
+### Stored Procedures Created
 | Procedure | Parameters | Purpose |
 |-----------|------------|---------|
 | `GetTopDishes(city_name, top_n)` | City + N | Top N dishes by order count for any city |
@@ -111,7 +111,7 @@ This project performs an end-to-end SQL analysis on Swiggy's food ordering platf
 
 ---
 
-## 📋 SQL Sections & Concepts
+## SQL Sections & Concepts
 
 ### Section 1 — Database Setup & Loading
 - `CREATE DATABASE`, `LOAD DATA INFILE` with latin1 encoding
@@ -149,7 +149,7 @@ This project performs an end-to-end SQL analysis on Swiggy's food ordering platf
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 09_Swiggy-Analysis/
@@ -177,7 +177,7 @@ This project performs an end-to-end SQL analysis on Swiggy's food ordering platf
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 | Property | Value |
 |----------|-------|
@@ -188,7 +188,7 @@ This project performs an end-to-end SQL analysis on Swiggy's food ordering platf
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
