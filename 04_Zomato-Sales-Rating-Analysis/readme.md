@@ -1,4 +1,4 @@
-# Zomato Sales & Rating Analysis 🍽️
+# Zomato Sales & Rating Analysis 
 
 ![Dashboard Preview](Screenshots/Z7.png)
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes Zomato's restaurant dataset to uncover insights about restaurant performance, customer preferences, cuisine trends, pricing patterns, and delivery/booking behavior across global markets.
 
@@ -20,7 +20,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -29,7 +29,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
 ### Tableau — Zomato Analytics Dashboard
 ![Tableau Dashboard](Screenshots/Z7.png)
@@ -49,7 +49,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 
 ### Restaurant Overview (from KPI View)
 - **Total Restaurants: 9,551** across **15 countries** and **141 cities**
@@ -91,7 +91,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 04_Zomato-Sales-Rating-Analysis/
@@ -121,7 +121,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** Zomato Restaurant Dataset (publicly available)
 - **Table:** `zomato`
@@ -131,7 +131,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
 | Platform | Link |
 |----------|------|
@@ -139,7 +139,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
