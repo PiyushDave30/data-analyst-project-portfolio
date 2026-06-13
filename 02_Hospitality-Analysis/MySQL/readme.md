@@ -1,10 +1,10 @@
-# 🗄️ SQL Queries — Hospitality Analysis
+# SQL Queries — Hospitality Analysis
 
 This folder contains all SQL queries written for the Hospitality Analysis project using **MySQL Workbench**.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -15,7 +15,7 @@ This folder contains all SQL queries written for the Hospitality Analysis projec
 
 ---
 
-## 📋 Queries Covered
+## Queries Covered
 
 | # | Query | Description |
 |---|-------|-------------|
@@ -33,7 +33,7 @@ This folder contains all SQL queries written for the Hospitality Analysis projec
 
 ---
 
-## 🛠️ SQL Concepts Used
+## SQL Concepts Used
 - `CREATE DATABASE`, `USE`
 - `JOIN`, `LEFT JOIN` (multi-table across fact + dimensions)
 - `GROUP BY`, `ORDER BY DESC`
