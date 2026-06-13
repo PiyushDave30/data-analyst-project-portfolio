@@ -1,10 +1,10 @@
-# 📗 Excel — Blinkit Sales Performance Dashboard
+# Excel — Blinkit Sales Performance Dashboard
 
 This folder contains the Excel file used for data cleaning and preparation before loading into Power BI.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -12,7 +12,7 @@ This folder contains the Excel file used for data cleaning and preparation befor
 
 ---
 
-## 🧹 Data Cleaning Steps Performed in Excel
+## Data Cleaning Steps Performed in Excel
 
 | Step | Action |
 |------|--------|
@@ -25,12 +25,12 @@ This folder contains the Excel file used for data cleaning and preparation befor
 
 ---
 
-## 💡 Why Excel First?
+## Why Excel First?
 Raw data often contains inconsistencies that cause wrong results in Power BI.  
 Cleaning in Excel first ensures that all DAX measures and visuals in Power BI reflect accurate, trustworthy data.
 
 ---
 
-## 🔗 Next Step
+## Next Step
 After cleaning in Excel, the data was imported into **Power BI** where the full 5-page dashboard was built.  
 See the `powerbi/` folder for the dashboard file.
