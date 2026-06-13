@@ -1,11 +1,11 @@
-# 🖼️ Screenshots — Adventure Works Analysis
+# Screenshots — Adventure Works Analysis
 
 This folder contains all dashboard and query screenshots for the Adventure Works project.  
 Screenshots from each tool are also stored inside their respective tool folders.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Tool | Description |
 |-----------|------|-------------|
@@ -22,7 +22,7 @@ Screenshots from each tool are also stored inside their respective tool folders.
 
 ---
 
-## 📌 Quick Reference — Key Numbers Visible in Screenshots
+## Quick Reference — Key Numbers Visible in Screenshots
 
 | Metric | Value |
 |--------|-------|
