@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes a fictional Indian sales dataset covering managers, team leads, regions, categories, and sub-categories. The dashboard is built across 5 dedicated pages offering different analytical perspectives — from high-level KPIs to granular state-wise and sub-category-level breakdowns.
 
@@ -20,7 +20,7 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -28,7 +28,7 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 | Page | Preview |
 |------|---------|
@@ -40,9 +40,9 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 
-### 💼 Overall KPIs
+### Overall KPIs
 | Metric | Value |
 |--------|-------|
 | Total Sales | 589.65K |
@@ -56,7 +56,7 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 | Max Profit | 2,818 |
 | Min Profit | -522.1 |
 
-### 👔 Manager Performance
+### Manager Performance
 | Manager | Total Sales | Sales % | Total Profit | Profit % |
 |---------|------------|---------|--------------|---------|
 | Mahesh | 210K | 35.67% | 43.05K | 33.36% |
@@ -67,7 +67,7 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 - **Sales per Manager: 196.55K** | **Profit per Manager: 43.02K**
 - Decomposition tree: Sales (589,650) → Mahesh (210,349) → Mohit team lead → North region (22,448) → Technology (10,223)
 
-### 📦 Category Performance
+### Category Performance
 | Category | Sales | Sales % | Profit |
 |----------|-------|---------|--------|
 | Technology | 242K | 41.09% | 56K |
@@ -78,7 +78,7 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 - **Phones** is the top sub-category by sales (105K) and profit (23K)
 - **Copiers** rank 2nd in profit (18K), **Bookcases** 3rd (16K)
 
-### 🗺️ Regional Performance
+### Regional Performance
 | Region | Sales | Profit |
 |--------|-------|--------|
 | West | 189K | 38K |
@@ -89,20 +89,20 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 - **West** leads in both sales and profit
 - **East** is the weakest performing region
 
-### 📅 Monthly Trends
+### Monthly Trends
 - **Sales peak: June (75K)** — highest sales month
 - **Sales low: March (26K)** — lowest sales month
 - **Profit peak: June (19.5K)**
 - **Profit low: March (4.5K)** — consistent with sales trend
 - July shows a sharp dip in both sales (39K) and profit (7K) before recovery
 
-### 🏙️ City & State Performance
+### City & State Performance
 - **Delhi** is top city by sales: **31,014.63**
 - **Maharashtra** is top state: **1,01,322.41** in sales, **16,105.76** in profit
 - **Uttar Pradesh** 2nd: **76,295.16** sales, **17,041.29** profit
 - Data available for years **2021, 2022, 2023, 2024** with Manager filter (Mahesh/Ramesh/Suresh)
 
-### 🏆 Top 5 Sub-Categories by Sales
+### Top 5 Sub-Categories by Sales
 | Rank | Sub-Category | Sales |
 |------|-------------|-------|
 | 1 | Phones | 105K |
@@ -113,7 +113,7 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 10_India-Sales-Dashboard/
@@ -137,7 +137,7 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** India Sales Dataset (Sales/Profit/Manager/Region data)
 - **Coverage:** India — multiple cities and states
@@ -146,7 +146,7 @@ This project analyzes a fictional Indian sales dataset covering managers, team l
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
