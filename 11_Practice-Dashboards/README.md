@@ -1,4 +1,4 @@
-# Practice Dashboards — Tableau Superstore & Power BI Finance 📊
+# Practice Dashboards — Tableau Superstore & Power BI Finance
 
 > **Practice Project** | Beginner Sample Datasets  
 > Two dashboards built using industry-standard sample datasets — Tableau Sample Superstore (USA retail data) and 
@@ -6,7 +6,7 @@ Power BI Finance Dataset — to strengthen dashboard design, visualization, and 
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This folder contains two practice dashboards built using beginner-friendly sample datasets commonly used in the data analytics industry for learning and skill demonstration.
 
@@ -17,7 +17,7 @@ This folder contains two practice dashboards built using beginner-friendly sampl
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -26,29 +26,29 @@ This folder contains two practice dashboards built using beginner-friendly sampl
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
-### 📈 Tableau — Superstore USA Analytics Report
+### Tableau — Superstore USA Analytics Report
 
-🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/piyushdave/viz/FinalTableauAssignment_17639942441920/Dashboard)
+**Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/piyushdave/viz/FinalTableauAssignment_17639942441920/Dashboard)
 
 ![Tableau Superstore Dashboard](Screenshots/Tableau%20Sample%20Superstore.png)
 
 ---
 
-### 📊 Power BI — Sales Performance Overview
+### Power BI — Sales Performance Overview
 
 ![PBI Sales Dashboard](Screenshots/PBI%20Finance2.png)
 
 ---
 
-### 📊 Power BI — Profit Performance Overview
+### Power BI — Profit Performance Overview
 
 ![PBI Profit Dashboard](Screenshots/PBI%20Finance2.png)
 
 ---
 
-## 🔑 Key Insights
+## Key Insights
 
 ### Tableau — Superstore USA
 | Metric | Value |
@@ -96,7 +96,7 @@ This folder contains two practice dashboards built using beginner-friendly sampl
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 11_Practice-Dashboards/
@@ -122,7 +122,7 @@ This folder contains two practice dashboards built using beginner-friendly sampl
 
 ---
 
-## 📂 Datasets
+## Datasets
 
 | Dataset | Tool | Source |
 |---------|------|--------|
@@ -131,7 +131,7 @@ This folder contains two practice dashboards built using beginner-friendly sampl
 
 ---
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
 | Platform | Link |
 |----------|------|
@@ -139,7 +139,7 @@ This folder contains two practice dashboards built using beginner-friendly sampl
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
