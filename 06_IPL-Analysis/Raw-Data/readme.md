@@ -1,10 +1,10 @@
-# 📂 Data — IPL 18-Season Analysis
+# Data — IPL 18-Season Analysis
 
 This folder contains the IPL datasets used for this project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File | Rows | Columns | Variable | GitHub |
 |------|------|---------|----------|--------|
@@ -17,7 +17,7 @@ This folder contains the IPL datasets used for this project.
 
 ---
 
-## 🔑 Key Columns
+## Key Columns
 
 ### ipl_matches_data.csv
 | Column | Description |
@@ -75,7 +75,7 @@ This folder contains the IPL datasets used for this project.
 
 ---
 
-## 📊 Dataset Stats
+## Dataset Stats
 
 | Metric | Value |
 |--------|-------|
