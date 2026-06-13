@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Adventure Works Cycles is a fictional global bicycle manufacturing company used as a standard business intelligence dataset. This project performs a full analysis of their sales performance, profitability, and order trends across **2010–2014** using four industry-standard tools.
 
@@ -19,7 +19,7 @@ The goal was to answer key business questions:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -30,7 +30,7 @@ The goal was to answer key business questions:
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
 ### Power BI — 4-Page Interactive Dashboard
 
@@ -64,7 +64,7 @@ The goal was to answer key business questions:
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 
 ### Sales & Revenue
 - **Total Sales: $29.4M** across 2010–2014 with peak performance in **2013 at $16.4M**
@@ -92,7 +92,7 @@ The goal was to answer key business questions:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 01_Adventure-Works-Analysis/
@@ -131,7 +131,7 @@ The goal was to answer key business questions:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** Adventure Works — provided by ExcelR as part of virtual internship curriculum
 - **Database:** `adventure_works` (MySQL)
@@ -145,14 +145,14 @@ The goal was to answer key business questions:
 
 | Platform | Link |
 |---|---|
-| 📊 Tableau Public | [Live Dashboard](https://public.tableau.com/app/profile/piyush.dave4044/viz/projectgrpfile/Dashboard1) |
-| 📁 Excel (Google Drive) | [View Screenshots](https://drive.google.com/drive/folders/1fsse-OBr0OXT2qOWerVSyUCwO3KWHgUe?usp=sharing) |
-| ⚡ Power BI Service | Available on request (license-restricted) |
-| 💼 Portfolio | [GitHub Portfolio](https://github.com/PiyushDave30/data-analyst-project-portfolio) |
+|  Tableau Public | [Live Dashboard](https://public.tableau.com/app/profile/piyush.dave4044/viz/projectgrpfile/Dashboard1) |
+|  Excel (Google Drive) | [View Screenshots](https://drive.google.com/drive/folders/1fsse-OBr0OXT2qOWerVSyUCwO3KWHgUe?usp=sharing) |
+|  Power BI Service | Available on request (license-restricted) |
+|  Portfolio | [GitHub Portfolio](https://github.com/PiyushDave30/data-analyst-project-portfolio) |
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python  
