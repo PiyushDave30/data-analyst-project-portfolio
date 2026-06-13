@@ -1,10 +1,10 @@
-# 🗄️ SQL Queries — Zomato Sales & Rating Analysis
+# SQL Queries — Zomato Sales & Rating Analysis
 
 This folder contains all SQL queries for the Zomato project — organized into 6 analysis sections with 25+ queries.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -18,7 +18,7 @@ This folder contains all SQL queries for the Zomato project — organized into 6
 
 ---
 
-## 📋 Query Sections & Queries
+## Query Sections & Queries
 
 ### Section 1 — KPI Analysis
 | # | Query |
@@ -75,7 +75,7 @@ This folder contains all SQL queries for the Zomato project — organized into 6
 
 ---
 
-## 🛠️ SQL Concepts Used
+## SQL Concepts Used
 - `CREATE VIEW` for KPI reporting
 - `GROUP BY`, `ORDER BY DESC`, `LIMIT`
 - `CASE WHEN` — multi-level segmentation (Budget/Mid-range/Premium)
@@ -88,13 +88,13 @@ This folder contains all SQL queries for the Zomato project — organized into 6
 
 ---
 
-## 💡 KPI View Output
+## KPI View Output
 ```
 Total Restaurants | Countries | Cities | Cuisines | Votes     | Avg Bill | Avg Rating | Online Delivery % | Table Booking %
 9551              | 15        | 141    | 1826     | 9551      | 1199     | 2.93       | 2451 (25.66%)     | 1158 (12.12%)
 ```
 
-## 💡 Table Booking Impact on Rating
+## Table Booking Impact on Rating
 ```
 Has_Table_Booking | Total Restaurants | Avg_Bill_For_Two
 Yes               | 1158              | 1536
