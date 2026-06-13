@@ -1,10 +1,10 @@
-# 🗄️ SQL Queries — HR Attrition Analysis
+# SQL Queries — HR Attrition Analysis
 
 This folder contains all SQL queries written for the HR Attrition project using **MySQL Workbench**.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -16,7 +16,7 @@ This folder contains all SQL queries written for the HR Attrition project using 
 
 ---
 
-## 📋 Queries Covered
+## Queries Covered
 
 | # | Query | Description |
 |---|-------|-------------|
@@ -48,7 +48,7 @@ This folder contains all SQL queries written for the HR Attrition project using 
 
 ---
 
-## 🛠️ SQL Concepts Used
+## SQL Concepts Used
 - `JOIN` — HR_1 and HR_2 tables on EmployeeNumber = Employee ID
 - `Self JOIN` — find employees with same job role
 - `GROUP BY`, `ORDER BY DESC`, `LIMIT`
@@ -59,7 +59,7 @@ This folder contains all SQL queries written for the HR Attrition project using 
 
 ---
 
-## 💡 Key Attrition Rate Query
+## Key Attrition Rate Query
 ```sql
 SELECT
   ROUND((SUM(CASE WHEN attrition = "Yes" THEN 1 ELSE 0 END) * 100) / COUNT(*), 2)
