@@ -1,10 +1,10 @@
-# 📊 Power BI Dashboard — Amravati AQI 2024 Analysis
+# Power BI Dashboard — Amravati AQI 2024 Analysis
 
 This folder contains the Power BI dashboard built after Python cleaning for the Amravati AQI project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -14,7 +14,7 @@ This folder contains the Power BI dashboard built after Python cleaning for the 
 
 ---
 
-## 📋 Dashboard Overview
+## Dashboard Overview
 
 Dashboard titled **"Air Quality Index (AQI) Analysis – Amravati 2024"**:
 
@@ -43,7 +43,7 @@ Dashboard titled **"Air Quality Index (AQI) Analysis – Amravati 2024"**:
 
 ---
 
-## 🛠️ Power BI Features Used
+## Power BI Features Used
 - KPI card visuals for key metrics
 - Month and category slicers for interactivity
 - Pie chart and donut chart for category distribution
