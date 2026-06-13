@@ -1,4 +1,4 @@
-# 🖼️ Screenshots — Swiggy Food Orders Analysis
+# Screenshots — Swiggy Food Orders Analysis
 
 Take exactly **8 screenshots** in MySQL Workbench. Here is exactly which query to run for each, and why it's worth screenshotting.
 
@@ -151,7 +151,7 @@ call cityreport('Mumbai');
 
 ---
 
-## 📋 Screenshot Files
+## Screenshot Files
 
 | File Name | Tool | Description |
 |-----------|------|-------------|
@@ -165,7 +165,7 @@ call cityreport('Mumbai');
 | [SW8.png](SW8.png) | SQL | Stored procedures (`GetTopDishes`, `cityreport`) and their execution results |
 ---
 
-## 📌 Quick Reference — Key Numbers
+## Quick Reference — Key Numbers
 
 | Metric | Value |
 |--------|-------|
@@ -173,7 +173,7 @@ call cityreport('Mumbai');
 | Total Cities | 28 |
 | Total Restaurants | 993 |
 | Total Unique Dishes | 59,064 |
-| Null Values | 0 ✅ |
+| Null Values | 0 |
 | Avg Price | ₹268.51 |
 | Price Range | ₹0.95 to ₹8,000 |
 | Above Avg Price Dishes | 77,848 (39.4%) |
