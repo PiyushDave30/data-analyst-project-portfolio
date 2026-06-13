@@ -1,10 +1,10 @@
-# 📂 Raw Data — Zomato Sales & Rating Analysis
+# Raw Data — Zomato Sales & Rating Analysis
 
 This folder contains the original Zomato restaurant dataset used for this project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,7 +13,7 @@ This folder contains the original Zomato restaurant dataset used for this projec
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 | Property | Value |
 |----------|-------|
@@ -26,7 +26,7 @@ This folder contains the original Zomato restaurant dataset used for this projec
 
 ---
 
-## 🔑 Key Fields
+## Key Fields
 
 | Field | Description |
 |-------|-------------|
@@ -44,6 +44,6 @@ This folder contains the original Zomato restaurant dataset used for this projec
 
 ---
 
-## ⚠️ Note
+## Note
 - Raw data kept in original form — no modifications
 - All analysis done in SQL and Tableau
