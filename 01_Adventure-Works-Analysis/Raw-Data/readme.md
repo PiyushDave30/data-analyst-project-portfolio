@@ -1,10 +1,10 @@
-# 📂 Raw Data — Adventure Works Analysis
+# Raw Data — Adventure Works Analysis
 
 This folder contains the original, unmodified datasets used for this project.  
 The data was provided by **ExcelR** as part of the AI Variant virtual internship curriculum.
 
 ---
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -19,7 +19,7 @@ The data was provided by **ExcelR** as part of the AI Variant virtual internship
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 | Property | Value |
 |----------|-------|
@@ -31,7 +31,7 @@ The data was provided by **ExcelR** as part of the AI Variant virtual internship
 
 ---
 
-## ⚠️ Note
+##  Note
 - Data is kept in its **original raw form** — no cleaning or transformation applied here
 - All cleaning and transformation was done inside Power BI (Power Query), SQL, and Excel
 - Do not edit these files directly
