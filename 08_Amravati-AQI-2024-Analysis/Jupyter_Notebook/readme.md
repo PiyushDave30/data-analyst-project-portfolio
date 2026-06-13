@@ -1,4 +1,4 @@
-# 📓 Jupyter Notebook — Amravati AQI 2024 Analysis
+# Jupyter Notebook — Amravati AQI 2024 Analysis
 
 This folder contains the Python Jupyter Notebook used for data cleaning and preparation of the Amravati AQI dataset before loading into Power BI.
 
@@ -6,7 +6,7 @@ This folder contains the Python Jupyter Notebook used for data cleaning and prep
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -14,7 +14,7 @@ This folder contains the Python Jupyter Notebook used for data cleaning and prep
 
 ---
 
-## 📋 Notebook Sections & Exact Steps
+## Notebook Sections & Exact Steps
 
 ### Section 1 — Import Libraries
 ```python
@@ -78,7 +78,7 @@ AQI.fillna(AQI.mean(numeric_only=True), inplace=True)
 
 **Step 3 — Verify cleaning:**
 ```python
-AQI.isnull().sum()   # After data cleaning — all month columns show 0 nulls ✅
+AQI.isnull().sum()   # After data cleaning — all month columns show 0 nulls
 ```
 
 ---
@@ -101,14 +101,14 @@ AQI.dropna(subset=['Day'], inplace=True)
 # Removing rows where Day column is null
 # (removes "Very poor", "Severe", blank label rows at end of raw file)
 
-AQI.shape                              # (31, 13) — final clean shape ✅
+AQI.shape                              # (31, 13) — final clean shape
 ```
 
 **Result:** From 41 rows → **31 valid day rows** after removing invalid label rows
 
 ---
 
-## 📁 Input & Output Files
+## Input & Output Files
 
 | File | Type | Description |
 |------|------|-------------|
@@ -117,7 +117,7 @@ AQI.shape                              # (31, 13) — final clean shape ✅
 
 ---
 
-## 🛠️ Python Libraries Used
+## Python Libraries Used
 
 | Library | Purpose |
 |---------|---------|
@@ -128,7 +128,7 @@ AQI.shape                              # (31, 13) — final clean shape ✅
 
 ---
 
-## 🔑 Key Cleaning Summary
+## Key Cleaning Summary
 
 | Step | Action | Result |
 |------|--------|--------|
@@ -137,10 +137,10 @@ AQI.shape                              # (31, 13) — final clean shape ✅
 | Fill nulls | `fillna(mean)` | All month columns → 0 nulls |
 | Fix data type | `pd.to_numeric(errors='coerce')` | Day column: object → float64 |
 | Remove invalid rows | `dropna(subset=['Day'])` | 41 rows → 31 valid rows |
-| Final shape | `AQI.shape` | **(31, 13)** ✅ |
+| Final shape | `AQI.shape` | **(31, 13)** |
 
 ---
 
-## 🌐 Data Source
+## Data Source
 Raw data downloaded from:  
 **[CPCB Official AQI Repository](https://airquality.cpcb.gov.in/ccr/#/caaqm-dashboard-all/caaqm-landing/aqi-repository)**
