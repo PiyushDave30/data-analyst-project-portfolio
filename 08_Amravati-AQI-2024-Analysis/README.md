@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project is unique because the data was **personally collected from India's official air quality monitoring authority (CPCB)** — not from Kaggle or any third-party source. Daily AQI readings for Amravati city throughout 2024 were downloaded, cleaned using Python, and then built into a comprehensive Power BI dashboard.
 
@@ -20,7 +20,7 @@ This project is unique because the data was **personally collected from India's 
 
 ---
 
-## 🛠️ Tools & Workflow
+## Tools & Workflow
 
 ```
 CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel → Power BI Dashboard
@@ -35,7 +35,7 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 
 ---
 
-## 📓 Notebook — What Was Done
+## Notebook — What Was Done
 
 | Step | Code | Result |
 |------|------|--------|
@@ -50,14 +50,14 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 ### Power BI — Air Quality Index (AQI) Analysis – Amravati 2024
 ![AQI Dashboard](Screenshots/AQI.png)
 
 ---
 
-## 🔑 Key Insights
+## Key Insights
 
 ### Overall AQI Summary
 | Metric | Value |
@@ -88,18 +88,18 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 ### Monthly AQI
 | Month | Avg AQI | Category |
 |-------|---------|----------|
-| January | 142.16 | 🔴 Worst |
-| February | 118.34 | 🟠 Moderate |
-| March | 115.87 | 🟠 Moderate |
-| April | 87.03 | 🟡 Satisfactory |
-| May | 96.29 | 🟡 Satisfactory |
-| June | 51.73 | 🟡 Satisfactory |
-| July | 33.52 | 🟢 Best |
-| August | 36.48 | 🟢 Good |
-| September | 47.10 | 🟢 Good |
-| October | 81.65 | 🟡 Satisfactory |
-| November | 119.90 | 🟠 Moderate |
-| December | 101.06 | 🟠 Moderate |
+| January | 142.16 | Worst |
+| February | 118.34 | Moderate |
+| March | 115.87 | Moderate |
+| April | 87.03 | Satisfactory |
+| May | 96.29 | Satisfactory |
+| June | 51.73 | Satisfactory |
+| July | 33.52 | Best |
+| August | 36.48 | Good |
+| September | 47.10 | Good |
+| October | 81.65 | Satisfactory |
+| November | 119.90 | Moderate |
+| December | 101.06 | Moderate |
 
 ### Key Findings
 - Winter months (Jan, Feb, Nov, Dec) consistently show worst AQI
@@ -109,7 +109,7 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 08_Amravati-AQI-2024-Analysis/
@@ -140,7 +140,7 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 
 ---
 
-## 📂 Data Source
+## Data Source
 
 | Detail | Info |
 |--------|------|
@@ -151,7 +151,7 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
