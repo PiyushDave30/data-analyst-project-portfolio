@@ -72,7 +72,7 @@ This project performs an end-to-end SQL analysis on Swiggy's food ordering platf
 
 **Platform is value-market driven** — Mid-Range dominates at 58.51%
 
-### 🥗 Food Type Distribution
+### Food Type Distribution
 | Food Type | Orders | Percentage |
 |-----------|--------|------------|
 | Veg | 1,40,604 | ~71.5% |
