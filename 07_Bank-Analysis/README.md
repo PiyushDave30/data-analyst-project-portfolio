@@ -1,4 +1,4 @@
-# Bank Loan Analysis 🏦
+# Bank Loan Analysis
 
 ![SQL Queries Preview](Screenshots/BA4.png)
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs an end-to-end SQL analysis on a bank lending dataset (`finance1` + `finance2`) to understand loan performance, customer risk profiles, default patterns, and business insights across US states, loan grades, and purposes.
 
@@ -20,7 +20,7 @@ This project performs an end-to-end SQL analysis on a bank lending dataset (`fin
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -28,7 +28,7 @@ This project performs an end-to-end SQL analysis on a bank lending dataset (`fin
 
 ---
 
-## 📋 SQL Query Screenshots
+## SQL Query Screenshots
 
 | Query Set | Preview |
 |-----------|---------|
@@ -41,7 +41,7 @@ This project performs an end-to-end SQL analysis on a bank lending dataset (`fin
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 
 ### Basic EDA Findings
 - Total loans, unique customers, and distinct states extracted in single queries
@@ -78,7 +78,7 @@ This project performs an end-to-end SQL analysis on a bank lending dataset (`fin
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 07_Bank-Analysis/
@@ -103,7 +103,7 @@ This project performs an end-to-end SQL analysis on a bank lending dataset (`fin
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** Bank Loan / Lending Club Dataset
 - **Tables:** `finance1` (loan info), `finance2` (financial details)
@@ -112,7 +112,7 @@ This project performs an end-to-end SQL analysis on a bank lending dataset (`fin
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
