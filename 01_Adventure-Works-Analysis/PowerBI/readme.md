@@ -1,10 +1,10 @@
-# 📊 Power BI Dashboard — Adventure Works Analysis
+# Power BI Dashboard — Adventure Works Analysis
 
 This folder contains the Power BI dashboard file built for the Adventure Works project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -16,7 +16,7 @@ This folder contains the Power BI dashboard file built for the Adventure Works p
 
 ---
 
-## 📋 Dashboard Pages
+## Dashboard Pages
 
 | Page | Key Visuals |
 |------|------------|
@@ -27,7 +27,7 @@ This folder contains the Power BI dashboard file built for the Adventure Works p
 
 ---
 
-## 🛠️ Power BI Features Used
+## Power BI Features Used
 
 - **Data Modelling** — Star schema with fact and dimension tables
 - **DAX Measures** — Custom KPIs for Profit %, Avg Order Value, Total Profit
@@ -37,7 +37,7 @@ This folder contains the Power BI dashboard file built for the Adventure Works p
 
 ---
 
-## 🔗 How to Open
+## How to Open
 1. Download `Adventure_Works.pbix`
 2. Open with **Microsoft Power BI Desktop** (free download from Microsoft)
 3. All data is embedded — no external connections needed
