@@ -1,10 +1,10 @@
-# 🖼️ Screenshots — Zomato Sales & Rating Analysis
+# Screenshots — Zomato Sales & Rating Analysis
 
 This folder contains all dashboard and SQL query screenshots for the Zomato project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Tool | Content |
 |-----------|------|---------|
@@ -18,7 +18,7 @@ This folder contains all dashboard and SQL query screenshots for the Zomato proj
 
 ---
 
-## 📌 Quick Reference — Key Numbers
+## Quick Reference — Key Numbers
 
 | Metric | Value |
 |--------|-------|
