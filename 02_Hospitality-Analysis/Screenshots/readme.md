@@ -1,10 +1,10 @@
-# 🖼️ Screenshots — Hospitality Analysis
+# Screenshots — Hospitality Analysis
 
 This folder contains all dashboard and query screenshots for the Hospitality Analysis project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Tool | Page / Content |
 |-----------|------|----------------|
@@ -21,7 +21,7 @@ This folder contains all dashboard and query screenshots for the Hospitality Ana
 
 ---
 
-## 📌 Quick Reference — Key Numbers Visible in Screenshots
+## Quick Reference — Key Numbers Visible in Screenshots
 
 | Metric | Value |
 |--------|-------|
