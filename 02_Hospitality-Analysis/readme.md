@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes hotel booking and revenue data for **Atliq Hotels**, a fictional luxury hotel chain operating across Mumbai, Bangalore, Hyderabad, and Delhi. The analysis covers the period **April to July 2022** with **134K+ booking records**.
 
@@ -20,7 +20,7 @@ The goal was to answer key business questions:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -31,7 +31,7 @@ The goal was to answer key business questions:
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
 ### **Power BI — 4-Page Interactive Dashboard**
 
@@ -63,7 +63,7 @@ The goal was to answer key business questions:
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 
 ### Revenue
 - **Total Revenue Generated: ₹200.75 Cr** | **Revenue Realized: ₹170.88 Cr (1.71bn)**
@@ -94,7 +94,7 @@ The goal was to answer key business questions:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 02_Hospitality-Analysis/
@@ -135,7 +135,7 @@ The goal was to answer key business questions:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** Hospitality Analytics Dataset — provided by ExcelR as part of virtual internship curriculum
 - **Database:** `Hospital` (MySQL)
@@ -146,18 +146,18 @@ The goal was to answer key business questions:
 
 ---
 
-## 🔗 Links
+## Links
 
 | Platform | Link |
 |---|---|
-| 📊 Tableau Public | [Live Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/Hospitality_Analytics_Dashboard_Tableau/Dashboard1) |
-| 📁 Excel (Google Drive) | [View Screenshot](https://drive.google.com/file/d/1GF4UckLsWO1jajwbDdU522knQKw4mdKu/view?usp=drive_link) |
-| ⚡ Power BI Service | Available on request (license-restricted) |
-| 💼 Portfolio | [GitHub Portfolio](https://github.com/PiyushDave30/data-analyst-project-portfolio) |
+|  Tableau Public | [Live Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/Hospitality_Analytics_Dashboard_Tableau/Dashboard1) |
+|  Excel (Google Drive) | [View Screenshot](https://drive.google.com/file/d/1GF4UckLsWO1jajwbDdU522knQKw4mdKu/view?usp=drive_link) |
+|  Power BI Service | Available on request (license-restricted) |
+|  Portfolio | [GitHub Portfolio](https://github.com/PiyushDave30/data-analyst-project-portfolio) |
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
