@@ -1,4 +1,4 @@
-# Blinkit Sales Performance Dashboard 🛒
+# Blinkit Sales Performance Dashboard 
 
 ![Dashboard Preview](Screenshots/B1.png)
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes BlinkIT grocery delivery sales data to uncover performance trends across product categories, outlet types, tier locations, and outlet sizes. The dashboard is designed as an **executive-level report** with 5 interactive pages covering everything from a high-level overview to a granular decomposition tree.
 
@@ -20,7 +20,7 @@ This project analyzes BlinkIT grocery delivery sales data to uncover performance
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -29,7 +29,7 @@ This project analyzes BlinkIT grocery delivery sales data to uncover performance
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 | Page | Preview |
 |------|---------|
@@ -41,7 +41,7 @@ This project analyzes BlinkIT grocery delivery sales data to uncover performance
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 
 ### Overall KPIs
 - **Total Sales: $1.20M** across 10 outlets and 16 item types
@@ -80,7 +80,7 @@ This project analyzes BlinkIT grocery delivery sales data to uncover performance
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 05_Blinkit-Sales-Dashboard/
@@ -108,7 +108,7 @@ This project analyzes BlinkIT grocery delivery sales data to uncover performance
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** BlinkIT Grocery Sales Dataset
 - **Cleaned using:** Microsoft Excel (removed nulls, standardized categories, formatted columns)
@@ -117,7 +117,7 @@ This project analyzes BlinkIT grocery delivery sales data to uncover performance
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
