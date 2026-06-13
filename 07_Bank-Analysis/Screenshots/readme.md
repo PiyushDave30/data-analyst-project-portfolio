@@ -1,10 +1,10 @@
-# 🖼️ Screenshots — Bank Loan Analysis
+# Screenshots — Bank Loan Analysis
 
 This folder contains all SQL query and output screenshots for the Bank Analysis project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Content |
 |-----------|---------|
@@ -17,7 +17,7 @@ This folder contains all SQL query and output screenshots for the Bank Analysis 
 
 ---
 
-## 📌 Quick Reference — Key Outputs Visible in Screenshots
+## Quick Reference — Key Outputs Visible in Screenshots
 
 | Metric | Value |
 |--------|-------|
