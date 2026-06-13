@@ -1,10 +1,10 @@
-# 🖼️ Screenshots — India Sales Dashboard
+# Screenshots — India Sales Dashboard
 
 This folder contains all 5 dashboard page screenshots.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Page | Key Content |
 |-----------|------|-------------|
@@ -16,7 +16,7 @@ This folder contains all 5 dashboard page screenshots.
 
 ---
 
-## 📌 Quick Reference — Key Numbers
+## Quick Reference — Key Numbers
 
 | Metric | Value |
 |--------|-------|
