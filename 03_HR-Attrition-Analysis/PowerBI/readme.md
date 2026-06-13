@@ -1,10 +1,10 @@
-# 📊 Power BI Dashboard — HR Attrition Analysis
+# Power BI Dashboard — HR Attrition Analysis
 
 This folder contains the Power BI dashboard file for the HR Attrition project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,7 +13,7 @@ This folder contains the Power BI dashboard file for the HR Attrition project.
 
 ---
 
-## 📋 Dashboard Overview
+## Dashboard Overview
 
 Single-page interactive dashboard titled **"HR Attrition Analysis Dashboard"** with:
 
@@ -33,7 +33,7 @@ Single-page interactive dashboard titled **"HR Attrition Analysis Dashboard"** w
 
 ---
 
-## 🛠️ Power BI Features Used
+## Power BI Features Used
 - Dynamic **Select Measure** and **Select Parameter** toggle buttons
 - **Conditional tooltips** on department attrition chart
 - **Slicers** for Business Travel filter
@@ -42,7 +42,7 @@ Single-page interactive dashboard titled **"HR Attrition Analysis Dashboard"** w
 
 ---
 
-## 🔗 How to Open
+## How to Open
 1. Download `HR_Attrition_Analysis.pbix`
 2. Open with **Microsoft Power BI Desktop**
 3. All data embedded — no external connections needed
