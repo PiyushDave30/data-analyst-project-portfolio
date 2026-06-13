@@ -1,10 +1,10 @@
-# 📊 Power BI Dashboard — Blinkit Sales Performance
+# Power BI Dashboard — Blinkit Sales Performance
 
 This folder contains the Power BI dashboard file for the Blinkit project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -18,7 +18,7 @@ This folder contains the Power BI dashboard file for the Blinkit project.
 
 ---
 
-## 📋 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Overview (Executive Summary)
 - KPI cards: Total Sales (1.20M), Avg Rating (3.92), Avg Sales/Item (140.99), Item Types (16), Outlets (10)
@@ -69,7 +69,7 @@ This folder contains the Power BI dashboard file for the Blinkit project.
 
 ---
 
-## 🛠️ Power BI Features Used
+## Power BI Features Used
 - **Decomposition Tree** visual — advanced drill-down analysis
 - **Toggle/switch buttons** — dynamic metric switching on Sales Summary page
 - **Page navigation** — button-based navigation across all 5 pages
@@ -80,7 +80,7 @@ This folder contains the Power BI dashboard file for the Blinkit project.
 
 ---
 
-## 🔗 How to Open
+## How to Open
 1. Download `Blinkit_Dashboard.pbix`
 2. Open with **Microsoft Power BI Desktop**
 3. Data is embedded — no external connections needed
