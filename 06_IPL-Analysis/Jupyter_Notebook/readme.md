@@ -1,11 +1,11 @@
-# 📓 Jupyter Notebook — IPL 18-Season Analysis
+# Jupyter Notebook — IPL 18-Season Analysis
 
 **File:** [IPL Analysis File](IPL-Analysis.ipynb)  
 **Total Cells:** 156 | **Charts:** 44+ 
 
 ---
 
-## 📋 Complete Notebook Walkthrough
+## Complete Notebook Walkthrough
 
 ### Step 1 — Import Libraries
 ```python
@@ -73,7 +73,7 @@ df.unique()       # Unique values
 
 ### Step 6 — Data Analysis (20+ Analyses)
 
-#### 🏏 Batting Analysis
+#### Batting Analysis
 | Variable | Logic | Top Result |
 |----------|-------|------------|
 | `top_batters` | `groupby('batter')['batter_runs'].sum().sort_values(desc)` | V Kohli — 8,671 runs |
@@ -82,7 +82,7 @@ df.unique()       # Unique values
 | `balls_faced` | `groupby('batter')['ball_number'].count()` | V Kohli — 6,702 balls |
 | `batter_vs_bowler` | `groupby(['batter','bowler'])['batter_runs'].sum()` | DA Warner vs SP Narine — 195 runs |
 
-#### 🎯 Bowling Analysis
+#### Bowling Analysis
 | Variable | Logic | Top Result |
 |----------|-------|------------|
 | `top_bowler` | filter `is_wicket==True` → groupby → count | YS Chahal — 229 wickets |
@@ -92,7 +92,7 @@ df.unique()       # Unique values
 | `most_extras` | `groupby('bowler')['extras'].sum()` | B Kumar — 320 extras |
 | `over_bowled` | `groupby('bowler')['over_number'].count()` | R Ashwin — 4,868 balls |
 
-#### 🏆 Team Analysis
+#### Team Analysis
 | Variable | Logic | Top Result |
 |----------|-------|------------|
 | `matches_played` | `groupby('team_batting')['match_id'].nunique()` | MI — 277 matches |
@@ -101,7 +101,7 @@ df.unique()       # Unique values
 | `team_runs` | `groupby('team_batting')['total_runs'].sum()` | MI — 45,088 runs |
 | `toss_count` | `groupby('toss_winner').size()` | MI — 151 toss wins |
 
-#### 📅 Season Analysis
+#### Season Analysis
 | Variable | Logic | Top Result |
 |----------|-------|------------|
 | `runs_per_season` | `groupby('season')['batter_runs'].sum()` | 2025 — 26,527 runs |
@@ -112,7 +112,7 @@ df.unique()       # Unique values
 | `over_analysis` | `groupby('over_number')['total_runs'].sum()` | Over 17–18 highest |
 | `powerplay_vs_deathover_wickets` | filter overs 0–5 and 16–19 → filter `is_wicket==True` | Compared |
 
-#### 🎲 Match Analysis
+#### Match Analysis
 | Variable | Logic | Top Result |
 |----------|-------|------------|
 | `man_of_match` | `groupby('player_of_match').size()` → merge players | AB de Villiers — 25 awards |
@@ -181,7 +181,7 @@ Full summary covering all 5 analysis dimensions with tools used table.
 
 ---
 
-## 📓 Jupyter Notebook
+## Jupyter Notebook
 
 Access the complete end-to-end IPL analysis notebook below:
 
@@ -201,7 +201,7 @@ Access the complete end-to-end IPL analysis notebook below:
 
 ---
 
-## 🛠️ Coding Style
+## Coding Style
 - Comments on every line
 - `#MP` prefix for all Matplotlib cells, `#SB` for Seaborn cells
 - `plt.bar_label()` for value labels on every bar chart
