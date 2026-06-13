@@ -1,10 +1,10 @@
-# 📗 Excel Dashboard — Adventure Works Analysis
+# Excel Dashboard — Adventure Works Analysis
 
 This folder contains the Excel Sales Performance Dashboard built for the Adventure Works project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,7 +13,7 @@ This folder contains the Excel Sales Performance Dashboard built for the Adventu
 
 ---
 
-## 📋 Dashboard Overview
+## Dashboard Overview
 
 The Excel dashboard is titled **"Sales Performance Dashboard"** and includes:
 
@@ -33,7 +33,7 @@ The Excel dashboard is titled **"Sales Performance Dashboard"** and includes:
 
 ---
 
-## 🛠️ Excel Features Used
+## Excel Features Used
 - **Pivot Tables** — for all aggregations
 - **Pivot Charts** — bar, line, pie, donut, combo charts
 - **Slicers** — Year (2010–2014) and Region filters
