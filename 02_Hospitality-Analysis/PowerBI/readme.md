@@ -1,10 +1,10 @@
-# 📊 Power BI Dashboard — Hospitality Analysis
+# Power BI Dashboard — Hospitality Analysis
 
 This folder contains the Power BI dashboard file built for the Hospitality Analysis project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -17,7 +17,7 @@ This folder contains the Power BI dashboard file built for the Hospitality Analy
 
 ---
 
-## 📋 Dashboard Pages
+## Dashboard Pages
 
 | Page | Key Visuals |
 |------|------------|
@@ -28,7 +28,7 @@ This folder contains the Power BI dashboard file built for the Hospitality Analy
 
 ---
 
-## 🛠️ Power BI Features Used
+## Power BI Features Used
 - **Star Schema Data Model** — fact_bookings connected to all 3 dimension tables
 - **DAX Measures** — ADR, RevPAR, DBRN, DSRN, DURN, Realisation %, Occupancy %
 - **Toggle Buttons** — Switch between Total Bookings / Revenue Earned / Total Capacity views
