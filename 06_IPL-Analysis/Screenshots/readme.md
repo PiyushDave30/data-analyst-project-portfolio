@@ -1,10 +1,10 @@
-# 🖼️ Screenshots — IPL 18-Season Analysis
+# Screenshots — IPL 18-Season Analysis
 
 This folder contains all chart screenshots from the IPL Analysis Jupyter Notebook.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Tool | Section | Chart | Key Number |
 |-----------|------|---------|-------|------------|
@@ -22,7 +22,7 @@ This folder contains all chart screenshots from the IPL Analysis Jupyter Noteboo
 
 ---
 
-## 📷 How to Save Charts — Add Before plt.show()
+## How to Save Charts — Add Before plt.show()
 
 ```python
 # Batting
@@ -48,7 +48,7 @@ plt.savefig('runs_per_over.png',           dpi=150, bbox_inches='tight')  # MP v
 
 ---
 
-## 📌 Quick Reference — All Key Numbers
+## Quick Reference — All Key Numbers
 
 ### Batting
 | Player | Metric | Value |
