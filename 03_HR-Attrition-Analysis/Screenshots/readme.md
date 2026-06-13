@@ -1,10 +1,10 @@
-# 🖼️ Screenshots — HR Attrition Analysis
+# Screenshots — HR Attrition Analysis
 
 This folder contains all dashboard and query screenshots for the HR Attrition Analysis project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Tool | Content |
 |-----------|------|---------|
@@ -17,7 +17,7 @@ This folder contains all dashboard and query screenshots for the HR Attrition An
 
 ---
 
-## 📌 Quick Reference — Key Numbers
+## Quick Reference — Key Numbers
 
 | Metric | Value |
 |--------|-------|
