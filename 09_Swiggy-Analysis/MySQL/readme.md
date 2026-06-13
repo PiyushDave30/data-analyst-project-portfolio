@@ -1,11 +1,11 @@
-# 🗄️ SQL Queries — Swiggy Food Orders Analysis
+# SQL Queries — Swiggy Food Orders Analysis
 
 **File:** [Swiggy Analysis MySQL](Swiggy%20Analysis.sql)  
 All queries written in **MySQL Workbench** with insights after every query — 8 sections total.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -21,7 +21,7 @@ All queries written in **MySQL Workbench** with insights after every query — 8
 
 ---
 
-## 📋 Complete Query Sections
+## Complete Query Sections
 
 ### Section 1 — Database Setup
 ```sql
@@ -162,7 +162,7 @@ CALL cityreport('Mumbai');
 
 ---
 
-## 🛠️ All SQL Concepts Used
+## All SQL Concepts Used
 - `LOAD DATA INFILE` with CHARACTER SET latin1
 - `SUM(CASE WHEN IS NULL)` — null check across 14 columns
 - `CONCAT()` + `ROUND()` — formatted output
