@@ -2,7 +2,7 @@
 
 # Hi, I'm Piyush Dave 
 
-### Data Analyst | SQL · Power BI · Tableau · Excel · Python
+### Data Analyst | SQL · Power BI · Tableau · Excel · Python 
 
 <p>
   <a href="https://www.linkedin.com/in/piyush-dave-0980a03a8">
