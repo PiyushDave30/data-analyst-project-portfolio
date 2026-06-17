@@ -8,7 +8,7 @@ This folder contains the 3-page Tableau dashboard for the Zomato project.
 
 | File Name | Description |
 |-----------|-------------|
-| [Tableau Zomato](tableau_link.txt) | Live Tableau Public dashboard URL |
+| [Tableau Zomato](Zomato%20Global%20Analysis.twbx) | Live Tableau Public dashboard URL |
 | [Z_1](Z_1.png) | Screenshot — Page 1: Executive Overview |
 | [Z_2](Z_2.png) | Screenshot — Page 2: Customer Experience Analysis |
 | [Z_3](Z_3.png) | Screenshot — Page 3: Cuisine & Pricing Analysis |
