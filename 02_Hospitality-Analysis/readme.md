@@ -45,12 +45,12 @@ The goal was to answer key business questions:
 ---
 
 ### **Tableau — Hospitality Analysis Dashboard**
-![Tableau Dashboard](Screenshots/HA10.png)
+![Tableau Dashboard](Screenshots/HA6.png)
 
 ---
 
 ### **Excel — Hospitality Analysis Dashboard**
-![Excel Dashboard](Screenshots/HA6.png)
+![Excel Dashboard](Screenshots/HA10.png)
 
 ---
 
