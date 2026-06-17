@@ -1,5 +1,5 @@
 # Amravati AQI 2024 Analysis 
-
+ 
 ![Dashboard Preview](Screenshots/AQI.png)
 
 > **Self-Made Project** | Original Data Collection  
