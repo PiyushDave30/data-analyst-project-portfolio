@@ -1,4 +1,4 @@
-# Tableau Dashboard — Hospitality Analysis
+[# Tableau Dashboard — Hospitality Analysis
 
 This folder contains the Tableau dashboard link and screenshot for the Hospitality Analysis project.
 
@@ -39,3 +39,4 @@ This folder contains the Tableau dashboard link and screenshot for the Hospitali
 - Week-level time series analysis
 - Multi-chart dashboard layout
 - Published on **Tableau Public**
+](https://github.com/PiyushDave30/data-analyst-project-portfolio/tree/main/02_Hospitality-Analysis)
