@@ -40,7 +40,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 ![Executive Overview](Screenshots/Z_1.png)
 
 ### Page 2 — Customer Experience Analysis
-![Customer Experience](Screenshots/Z_2.png)
+![Customer Experience](Screenshots/Z-2.png)
 
 ### Page 3 — Cuisine & Pricing Analysis
 ![Cuisine & Pricing](Screenshots/Z_3.png)
