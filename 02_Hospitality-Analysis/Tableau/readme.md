@@ -1,42 +1,76 @@
-[# Tableau Dashboard — Hospitality Analysis
+# 📈 Tableau Dashboard — Hospitality Analysis
 
-This folder contains the Tableau dashboard link and screenshot for the Hospitality Analysis project.
+This folder contains the Tableau dashboard for the Hospitality Analysis project.
 
 ---
 
-## Files in This Folder
+## 📄 Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
-| [Hospitality Analysis Tableau](Hospitality_Analytics_Dashboard_Tableau.twbx) | Live Tableau Public dashboard URL |
-| [HA6](HA6.png) | Screenshot of the Tableau dashboard |
+| [Hospitalty Dashboard Tableau](Hospitality_Analytics_Dashboard_Tableau.twbx) | Live Tableau Public dashboard URL |
+| [HA6](HA6.png) | Full Tableau dashboard screenshot |
 
 ---
 
-## Live Dashboard
+## 🌐 Live Dashboard
 
-**[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/Hospitality_Analytics_Dashboard_Tableau/Dashboard1)**
-
----
-
-## Dashboard Overview
-
-| Section | Details |
-|---------|---------|
-| **KPI Banner** | Total Revenue (1,709M), Total Booking (1,34,590), Occupancy Rate (57.87%), Cancellation Rate (70.15%) |
-| **Filters** | City, Category, Ratings Given, Date (Month) — May, Jun, Jul |
-| **Weekly Trend of Revenue** | Line chart — Week 19 to Week 32 showing revenue fluctuation |
-| **Weekly Trend of Occupancy** | Line chart — occupancy trend across weeks in May, Jun, Jul 2022 |
-| **Revenue by State & Hotel** | Horizontal bar chart — Atliq Palace, Exotica, Grands, City, Blu, Bay |
-| **Class Wise Revenue** | Donut — Elite (32.87%), Premium (30.19%), Presidential (17.65%), Standard (19.29%) |
-| **Weekly Booking Status** | Grouped bar — Cancelled, Checked Out, No Show per week |
-| **Total Revenue Split** | Pie — Weekday (63%) vs Weekend (37%) |
+👉 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/Hospitality_Analytics_Dashboard_Tableau/Dashboard1)**
 
 ---
 
-## Tableau Features Used
-- Interactive city and category filters
-- Week-level time series analysis
-- Multi-chart dashboard layout
+## 📊 Dashboard Preview
+
+![Hospitality Analysis Dashboard](HA6.png)
+
+---
+
+## 📋 Dashboard Overview
+
+**Title:** Hospitality Analysis Dashboard
+
+### KPI Banner
+| Metric | Value |
+|--------|-------|
+| Total Bookings | 1,34,590 |
+| Total Revenue | ₹1,709M |
+| Occupancy % | 57.87% |
+| Cancellation Rate % | 24.83% |
+| Utilize Capacity | 1,34,590 |
+
+### Filters
+- **City** — All cities dropdown
+- **Room Class** — All classes dropdown
+- **Quarter** — All quarters dropdown
+- **Category** — All categories dropdown
+- **Booking Status** — All statuses dropdown
+
+### Visuals
+| Visual | Details |
+|--------|---------|
+| **Revenue by Booking Status** | Treemap — Checked Out (94,411), Cancelled (33,420), No Show |
+| **Weekday vs Weekend Trend** | Pie — Weekday 84K bookings (₹1,070M) vs Weekend 50K (₹639M) |
+| **Weekly Trend** | Line chart — Weeks 19–32 with sharp drop at week 32 |
+| **Revenue by Class** | Bar — Elite (₹560.3M), Premium (₹462.2M), Presidential (₹376.8M), Standard (₹309.6M) |
+| **Revenue by City & Hotel** | Horizontal bar — all 4 cities with all hotel revenues |
+
+### Revenue by City & Hotel (Key Numbers)
+| City | Hotel | Revenue |
+|------|-------|---------|
+| Mumbai | Atliq Exotica | ₹212.4M — Highest |
+| Mumbai | Atliq Palace | ₹101.5M |
+| Mumbai | Atliq City | ₹88.0M |
+| Delhi | Atliq Palace | ₹89.1M |
+| Bangalore | Atliq Bay | ₹82.4M |
+| Bangalore | Atliq City | ₹81.9M |
+
+---
+
+## 🛠️ Tableau Features Used
+- 5 dropdown slicers — City, Room Class, Quarter, Category, Booking Status
+- Treemap for booking status revenue distribution
+- Pie chart for weekday vs weekend comparison
+- Line chart for weekly revenue trend
+- Horizontal bar chart for city and hotel revenue comparison
+- Multi-colour hotel brand colour coding
 - Published on **Tableau Public**
-(https://github.com/PiyushDave30/data-analyst-project-portfolio/tree/main/02_Hospitality-Analysis)
