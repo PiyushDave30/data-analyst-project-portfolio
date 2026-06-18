@@ -1,50 +1,52 @@
-# SQL Queries — Hospitality Analysis
+# 🗄️ SQL Queries — Hospitality Analysis
 
-This folder contains all SQL queries written for the Hospitality Analysis project using **MySQL Workbench**.
+This folder contains all 11 SQL queries written for the Hospitality project in MySQL Workbench.
 
 ---
 
-## Files in This Folder
+## 📄 Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
-| [Hospitality Analysis SQL](Hospitality_Analytics_SQL.sql) | Complete SQL file with all 11 queries |
-| [HA7](HA7.png) | Screenshot — KPI master query with output |
-| [HA8](HA8.png) | Screenshot — Trend analysis, weekday/weekend, revenue by state |
-| [HA9](HA9.png) | Screenshot — Class-wise revenue, booking status, weekly trend |
+| [SQL Queries](Hospitality_Analysis.sql) | All 11 SQL queries |
+| [HA7](HA7.png) | Screenshot — KPI query + output |
+| [HA8](HA8.png) | Screenshot — Trend, Weekday/Weekend, City/Hotel |
+| [HA9](HA9.png) | Screenshot — Class Revenue, Status, Weekly Trend |
 
 ---
 
-## Queries Covered
+## 📋 All 11 Queries
 
-| # | Query | Description |
-|---|-------|-------------|
-| 1 | KPI Master Query | Revenue Generated, Revenue Realized, Total Bookings, Total Guests, Cancellation Rate, Utilized Capacity — all in one query |
-| 2 | City-wise Revenue | Revenue grouped by city |
-| 3 | Property-wise Revenue | Revenue by each Atliq hotel property |
-| 4 | Room Class Revenue | Revenue by Elite, Premium, Presidential, Standard |
-| 5 | Platform-wise Bookings | Bookings count per booking platform |
-| 6 | Trend Analysis | Year + Month wise revenue realized |
-| 7 | Weekday & Weekend | Revenue and bookings split by day type (JOIN with dim_date) |
-| 8 | Revenue by State & Hotel | City + property-level revenue (LEFT JOIN dim_hotels) |
-| 9 | Class-wise Revenue | Room class revenue (LEFT JOIN dim_rooms) |
-| 10 | Booking Status Count | Checked Out, Cancelled, No Show counts |
-| 11 | Weekly Trend | Week number wise Total Revenue + Total Bookings |
+| # | Query | Description | Key Output |
+|---|-------|-------------|------------|
+| 1 | Database Setup | `CREATE DATABASE Hospital; USE Hospital;` | Database created |
+| 2 | KPI Summary | Revenue Generated, Revenue Realized, Total Bookings, Guests, Cancellation Rate, Utilized Capacity — all in ONE query | 200.75Cr revenue, 134.59K bookings, 24.83% cancellation |
+| 3 | Revenue by City | SUM of revenue_realized grouped by city | Mumbai top city |
+| 4 | Revenue by Hotel | SUM grouped by property | Atliq Exotica highest |
+| 5 | Occupancy by Room Class | AVG occupancy % per room class | Elite highest |
+| 6 | Trend Analysis | Monthly revenue trend using `YEAR()` + `MONTHNAME()` | May–Jul 2022 |
+| 7 | Weekday vs Weekend | JOIN dim_date + fact_bookings on check_in_date — revenue and bookings by day_type | Weekday 63% revenue |
+| 8 | Revenue by State & Hotel | LEFT JOIN dim_hotels + fact_bookings — city + property + revenue | Mumbai Atliq Exotica top |
+| 9 | Class Wise Revenue | LEFT JOIN dim_rooms + fact_bookings — revenue per room class | Elite 32.87% |
+| 10 | Booking Status Count | GROUP BY booking_status — Checked Out, Cancelled, No Show counts | Checked Out 94K |
+| 11 | Weekly Trend | JOIN dim_date + fact_bookings — weekly revenue + booking count | Week-wise trend |
 
 ---
 
-## SQL Concepts Used
+## 🛠️ SQL Concepts Used
 - `CREATE DATABASE`, `USE`
-- `JOIN`, `LEFT JOIN` (multi-table across fact + dimensions)
+- `SUM()`, `COUNT()`, `AVG()`, `ROUND()`, `CONCAT()`
+- `CASE WHEN` — Cancellation Rate, Utilized Capacity calculation
 - `GROUP BY`, `ORDER BY DESC`
-- Aggregate — `SUM()`, `COUNT()`, `ROUND()`, `CONCAT()`
-- `CASE WHEN` — for Cancellation Rate and Utilized Capacity calculation
-- Date functions — `YEAR()`, `MONTHNAME()`
+- `JOIN` — fact_bookings + dim_hotels on property_id
+- `LEFT JOIN` — dim_rooms + fact_bookings on room_category
+- `JOIN` — dim_date + fact_bookings on check_in_date = date
+- `YEAR()`, `MONTHNAME()` — date extraction for trend analysis
 
 ---
 
-## 💡 Key Query Output (KPI Master)
+## 💡 KPI Query Output
 ```
 Revenue Generated | Revenue Realized | Total Booking | Total Guest | Cancellation Rate | Utilized Capacity
-200.75 Cr         | 170.88 Cr        | 134.59K       | 135K        | 24.83%            | 94.41K
+200.75Cr          | 170.88Cr         | 134.59K       | 135K        | 24.83%            | 94.41K
 ```
