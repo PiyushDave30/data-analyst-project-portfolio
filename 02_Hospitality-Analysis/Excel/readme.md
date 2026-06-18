@@ -1,36 +1,57 @@
-# Excel Dashboard — Hospitality Analysis
+# 📗 Excel Dashboard — Hospitality Analysis
 
-This folder contains the Excel dashboard built for the Hospitality Analysis project.
+This folder contains the Excel dashboard for the Hospitality Analysis project.
 
 ---
 
-## Files in This Folder
+## 📄 Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
-|  [Excel Dashboard](Excel%20HA%20Final.xlsx)| Excel file with pivot tables and dashboard |
-|  [Dashboard](HA10.png) | Screenshot of the Excel Hospitality Analysis Dashboard |
+| [Hospitality_Analysis](Excel%20HA%20final.xlsx) | Excel dashboard with pivot tables and charts |
+| [HA10](HA10.png) | Screenshot of the full Excel dashboard |
 
 ---
 
-## Dashboard Overview
+## 📊 Dashboard Preview
 
-The Excel dashboard titled **"Hospitality Analysis Dashboard"** includes:
-
-| Visual | Description |
-|--------|-------------|
-| **KPI Banner** | Total Bookings (1,34,590), Total Revenue (₹1,709M), Occupancy % (57.87%), Cancellation Rate (24.83%), Utilize Capacity (1,34,590) |
-| **Filters** | City, Room Class, Quarter, Category, Booking Status — all as dropdown slicers |
-| **Revenue by Booking Status** | Treemap/area — Checked Out (94,411) vs Cancelled (33,420) vs No Show |
-| **Weekday vs Weekend Trend** | Pie — Weekday (84K, 1,070M) vs Weekend (50K, 639M) |
-| **Revenue by City & Hotel** | Detailed bar chart — all Atliq hotels across Bangalore, Delhi, Hyderabad, Mumbai |
-| **Weekly Trend** | Line chart — revenue trend across weeks 19–32 |
-| **Revenue by Class** | Bar chart — Elite (₹560.3M), Premium (₹462.2M), Presidential (₹376.8M), Standard (₹309.6M) |
+![Excel Dashboard](HA10.png)
 
 ---
 
-## Excel Features Used
-- **Pivot Tables** — for all aggregations
-- **Pivot Charts** — multiple chart types
-- **Slicers** — 5 interactive filters
-- **Dashboard Layout** — all visuals on one sheet
+## 📋 Dashboard Overview
+
+**Title:** Hospitality Analysis
+
+### KPI Banner
+| Metric | Value |
+|--------|-------|
+| Total Revenue | 1,709M |
+| Total Booking | 1,34,590 |
+| Occupancy Rate | 57.87% |
+| Cancellation Rate | 70.15% |
+
+### Filters
+- **City** — Bangalore, Delhi, Hyderabad, Mumbai
+- **Category** — Business, Luxury
+- **Ratings Given** — 0 to 5
+- **Date (Month)** — May, Jun, Jul
+
+### Visuals
+| Visual | Details |
+|--------|---------|
+| Weekly Trend of Revenue | Line chart — May to Jul 2022 week-wise |
+| Weekly Trend of Occupancy | Line chart — week-wise occupancy % |
+| Revenue by State & Hotel | Horizontal bar — all 7 Atliq properties |
+| Class wise Revenue | Donut — Elite (32.87%), Standard (30.19%), Premium (17.65%), Presidential (19.29%) |
+| Weekly Booking Status | Grouped bar — Cancelled, Checked Out, No Show per week |
+| Total Revenue | Pie — Weekday (63%) vs Weekend (37%) |
+
+---
+
+## 🛠️ Excel Features Used
+- Pivot Tables for all aggregations
+- Pivot Charts — line, bar, donut, pie, grouped bar
+- Slicers — City, Category, Ratings, Month
+- KPI cards using text boxes
+- Single-sheet dashboard layout
