@@ -5,7 +5,7 @@
 > **Internship Project** — AI Variant (ExcelR) | Virtual Internship  
 > A complete end-to-end business analysis of Adventure Works Cycles covering Sales, Profit, and Orders using SQL, Power BI, Tableau, and Excel.
 
----
+--- 
 
 ## Project Overview
 
