@@ -10,7 +10,7 @@ This folder contains the 3-page Tableau dashboard for the Zomato project.
 |-----------|-------------|
 | [Tableau Zomato](Zomato%20Global%20Analysis.twbx) | Live Tableau Public dashboard URL |
 | [Z_1](Z_1.png) | Screenshot — Page 1: Executive Overview |
-| [Z_2](Z_2.png) | Screenshot — Page 2: Customer Experience Analysis |
+| [Z_2](Z-2.png) | Screenshot — Page 2: Customer Experience Analysis |
 | [Z_3](Z_3.png) | Screenshot — Page 3: Cuisine & Pricing Analysis |
 
 ---
@@ -51,7 +51,7 @@ This folder contains the 3-page Tableau dashboard for the Zomato project.
 ---
 
 ### Page 2 — Customer Experience Analysis
-![Customer Experience](Z_2.png)
+![Customer Experience](Z-2.png)
 
 **KPI Banner:**
 | Metric | Value |
