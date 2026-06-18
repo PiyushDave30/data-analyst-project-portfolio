@@ -10,7 +10,7 @@ This folder contains all Tableau dashboard and SQL query screenshots for the Zom
 | File Name | Page | Content |
 |-----------|------|---------|
 | [Z_1](Z_1.png) | Page 1 — Executive Overview | 6 KPIs, Country Performance bar, Country Table (15 countries), Top 5 Countries bar, Key Business Insights, City filter |
-| [Z_2](Z_2.png) | Page 2 — Customer Experience | Table Booking impact (3.5 vs 2.8), Online Delivery donut (25.66%), Rating Distribution bar, Popular Cuisines lollipop (North Indian Mughlai 53,747 votes) |
+| [Z_2](Z-2.png) | Page 2 — Customer Experience | Table Booking impact (3.5 vs 2.8), Online Delivery donut (25.66%), Rating Distribution bar, Popular Cuisines lollipop (North Indian Mughlai 53,747 votes) |
 | [Z_3](Z_3.png) | Page 3 — Cuisine & Pricing | Top 10 Cuisines lollipop (North Indian 936), Price Range distribution, Avg Rating by Price (Luxury 3.84), Ratings across cuisines |
 
 ### SQL Query Screenshots
