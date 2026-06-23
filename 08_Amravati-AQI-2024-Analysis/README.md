@@ -10,7 +10,7 @@
 ## Project Overview
 
 This project is unique because the data was **personally collected from India's official air quality monitoring authority (CPCB)** — not from Kaggle or any third-party source. Daily AQI readings for Amravati city throughout 2024 were downloaded, cleaned using Python, and then built into a comprehensive Power BI dashboard.
-
+ 
 **Key questions answered:**
 - What is the overall air quality of Amravati in 2024?
 - Which months and quarters have the worst air pollution?
