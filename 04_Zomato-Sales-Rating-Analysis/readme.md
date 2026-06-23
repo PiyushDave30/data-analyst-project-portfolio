@@ -1,4 +1,4 @@
-# Zomato Sales & Rating Analysis 🍽️
+# Zomato Sales & Rating Analysis 
 
 ![Dashboard Preview](Screenshots/Z_1.png)
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes Zomato's restaurant dataset to uncover insights about restaurant performance, customer preferences, cuisine trends, pricing patterns, and delivery/booking behavior across global markets.
 
