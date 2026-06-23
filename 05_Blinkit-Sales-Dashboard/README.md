@@ -4,7 +4,7 @@
 
 > **Self-Made Project** | Resume Project  
 > A comprehensive 5-page Power BI dashboard analyzing Blinkit's sales performance across products, outlets, locations, and customer preferences — with Excel used for data cleaning and preparation.
-
+ 
 ---
 
 ## Project Overview
