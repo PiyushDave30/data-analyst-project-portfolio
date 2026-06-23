@@ -4,7 +4,7 @@
 
 > **Self-Made Project**  
 > A comprehensive bank loan analysis using advanced SQL — covering 20+ queries across EDA, customer profiling, financial risk assessment, stored procedures, views, and window functions on a real-world lending dataset.
-
+ 
 ---
 
 ## Project Overview
