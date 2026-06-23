@@ -4,7 +4,7 @@
 
 > **Internship Project** — AI Variant (ExcelR) | Virtual Internship  
 > A complete HR analytics project analyzing employee attrition, salary distribution, department performance, and work-life balance across 50,000 employees using SQL, Power BI, Tableau, and Excel.
-
+ 
 ---
 
 ## Project Overview
