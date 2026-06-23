@@ -4,7 +4,7 @@
 
 > **Internship Project** — AI Variant (ExcelR) | Virtual Internship  
 > A complete end-to-end hospitality business analysis covering Revenue, Occupancy, Bookings, and Cancellations across 7 Atliq hotel properties in 4 Indian cities — using SQL, Power BI, Tableau, and Excel.
-
+ 
 ---
 
 ## Project Overview
