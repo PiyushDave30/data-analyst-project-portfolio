@@ -1,5 +1,5 @@
 # IPL 18-Season Analysis
-
+ 
 ---
 ![IPL Analysis](Screenshots/ipl_notebook_structure.png)
 
