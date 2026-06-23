@@ -3,7 +3,7 @@
 > **Practice Project** | Beginner Sample Datasets  
 > Two dashboards built using industry-standard sample datasets — Tableau Sample Superstore (USA retail data) and 
 Power BI Finance Dataset — to strengthen dashboard design, visualization, and business reporting skills.
-
+ 
 ---
 
 ## Project Overview
