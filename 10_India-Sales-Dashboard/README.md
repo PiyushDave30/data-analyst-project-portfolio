@@ -4,7 +4,7 @@
 
 > **Self-Made Project**  
 > A comprehensive 5-page Power BI dashboard analyzing India sales performance across managers, regions, categories, sub-categories, cities, and states — covering Sales, Profit, and Manager performance with interactive filters.
-
+ 
 ---
 
 ## Project Overview
