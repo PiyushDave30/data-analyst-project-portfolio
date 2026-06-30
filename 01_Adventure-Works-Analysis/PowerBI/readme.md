@@ -3,7 +3,7 @@
 This folder contains the Power BI dashboard file built for the Adventure Works project.
 
 ---
-
+ 
 ## Files in This Folder
 
 | File Name | Description |
