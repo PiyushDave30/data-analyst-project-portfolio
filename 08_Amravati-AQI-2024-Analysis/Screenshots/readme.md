@@ -1,7 +1,7 @@
 # Screenshots — Amravati AQI 2024 Analysis
 
 This folder contains all screenshots — Power BI dashboard, PDF export, and Jupyter Notebook screenshots.
-
+ 
 ---
 
 ## Files in This Folder
