@@ -1,10 +1,10 @@
-# 🗄️ SQL Queries — Hospitality Analysis
+# SQL Queries — Hospitality Analysis
 
 This folder contains all 11 SQL queries written for the Hospitality project in MySQL Workbench.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -15,7 +15,7 @@ This folder contains all 11 SQL queries written for the Hospitality project in M
 
 ---
 
-## 📋 All 11 Queries
+## All 11 Queries
 
 | # | Query | Description | Key Output |
 |---|-------|-------------|------------|
@@ -33,7 +33,7 @@ This folder contains all 11 SQL queries written for the Hospitality project in M
 
 ---
 
-## 🛠️ SQL Concepts Used
+## SQL Concepts Used
 - `CREATE DATABASE`, `USE`
 - `SUM()`, `COUNT()`, `AVG()`, `ROUND()`, `CONCAT()`
 - `CASE WHEN` — Cancellation Rate, Utilized Capacity calculation
