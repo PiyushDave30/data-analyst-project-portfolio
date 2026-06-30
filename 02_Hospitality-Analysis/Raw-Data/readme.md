@@ -1,10 +1,10 @@
-# 📂 Raw Data — Hospitality Analysis
+# Raw Data — Hospitality Analysis
 
 This folder contains the original Hospitality Analytics dataset used for this project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -15,7 +15,7 @@ This folder contains the original Hospitality Analytics dataset used for this pr
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 | Property | Value |
 |----------|-------|
@@ -28,7 +28,7 @@ This folder contains the original Hospitality Analytics dataset used for this pr
 
 ---
 
-## 🔑 Key Fields — fact_bookings
+## Key Fields — fact_bookings
 
 | Field | Description |
 |-------|-------------|
@@ -46,7 +46,7 @@ This folder contains the original Hospitality Analytics dataset used for this pr
 
 ---
 
-## 🗄️ Star Schema Structure
+## Star Schema Structure
 ```
 fact_bookings (center)
     ├── dim_hotels  (on property_id)
