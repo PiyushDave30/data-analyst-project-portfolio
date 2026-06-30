@@ -35,7 +35,7 @@ plt.savefig('most_balls_faced.png',        dpi=150, bbox_inches='tight')
 plt.savefig('top_wicket_takers.png',       dpi=150, bbox_inches='tight')
 plt.savefig('most_dot_balls.png',          dpi=150, bbox_inches='tight')
 plt.savefig('most_wide_balls.png',         dpi=150, bbox_inches='tight')
-
+ 
 # Team
 plt.savefig('wins_vs_losses.png',          dpi=150, bbox_inches='tight')  # MP version
 
