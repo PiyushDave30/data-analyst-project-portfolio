@@ -1,10 +1,10 @@
-# 📊 Power BI Dashboard — Brew Metric Coffee Shop Analytics
+# Power BI Dashboard — Brew Metric Coffee Shop Analytics
 
 This folder contains the Power BI dashboard for the Brew Metric Coffee Shop project.
 
 --- 
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -19,7 +19,7 @@ This folder contains the Power BI dashboard for the Brew Metric Coffee Shop proj
 
 ---
 
-## 📋 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Landing / Navigation
 ![Landing Page](C1.png)
@@ -88,7 +88,7 @@ This folder contains the Power BI dashboard for the Brew Metric Coffee Shop proj
 
 ---
 
-## 🛠️ Power BI Features Used
+##  Power BI Features Used
 - **7-page navigation** with custom landing page and button navigation
 - **Dynamic Metric + Dimension Selector** — field parameters for instant chart switching
 - **Field Parameters** — Power BI advanced feature for Quick Analysis page
