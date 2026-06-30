@@ -1,4 +1,4 @@
-# Brew Metric — Coffee Shop Analytics ☕
+# Brew Metric — Coffee Shop Analytics 
 
 ![Landing Page](Screenshots/C1.png)
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes coffee shop sales, product performance, customer behaviour, branch efficiency, and time-based trends for **Brew Metric Coffee Shop Analytics**. The dashboard features a custom-designed background built in PowerPoint, a fully branded navigation page, and an advanced **Quick Analysis** page that lets users toggle between 6 metrics and 9 dimensions dynamically.
 
@@ -20,7 +20,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -29,7 +29,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Landing / Navigation
 ![Landing Page](Screenshots/C1.png)
@@ -54,9 +54,9 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 
-### 📊 Overall KPIs
+### Overall KPIs
 | Metric | Value |
 |--------|-------|
 | Total Sales | ₹2M |
@@ -69,7 +69,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 | Total Products | 17 |
 | Data Period | Jan – May 2024 |
 
-### 🏪 Branch Performance
+### Branch Performance
 | Branch | Revenue | Orders | Profit |
 |--------|---------|--------|--------|
 | Banjara Hills | 359K | 1,039 | 160K |
@@ -82,7 +82,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 - **Gachibowli** leads in profit (162K) despite slightly lower revenue
 - **Kondapur** is the lowest performing branch in both revenue and orders
 
-### 🍵 Product Performance
+### Product Performance
 | Product | Revenue | Profit |
 |---------|---------|--------|
 | Iced Latte | 235K | 1,06,550 — Top |
@@ -96,7 +96,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 - **Cold Beverages** is 2nd at 431K (25.4%) — almost equal to Coffee
 - **Lowest selling** products: Americano (424), Cappuccino (490), Mocha (512)
 
-### 👥 Customer Behaviour
+### Customer Behaviour
 | Channel | Orders | Percentage |
 |---------|--------|------------|
 | Walk-in | 1,700 | 34% |
@@ -109,7 +109,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 - **Sunday (140)** is the slowest day
 - **February (897 orders)** — lowest month | **March (1,052)** — highest month
 
-### 💳 Payment Distribution
+### Payment Distribution
 | Payment | Orders | Percentage |
 |---------|--------|------------|
 | UPI | 1,279 | 25.58% |
@@ -120,7 +120,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 - All 4 payment modes are **nearly equally distributed** — no single dominant method
 - UPI leads slightly at 25.58%
 
-### ⏰ Time Analysis
+### Time Analysis
 | Metric | Value |
 |--------|-------|
 | Peak Hour | 22 (10 PM) |
@@ -137,7 +137,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 - **May** is the highest revenue month (356K), **February** the lowest (316K)
 - Weekdays account for **72.08%** of total revenue
 
-### ⚡ Quick Analysis Page
+### Quick Analysis Page
 - **6 Metrics:** Total Sales, Total Profit, Total Orders, Total Quantity, Avg Order Value, Profit Margin %
 - **9 Dimensions:** Branch, Category, Product, Customer Type, Payment Mode, Day, Time of Day, Weekend/Weekday, Month
 - Every chart updates **instantly** when metric or dimension is selected
@@ -145,7 +145,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 12_Coffee-Shop-Analytics/
@@ -175,7 +175,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 | Property | Value |
 |----------|-------|
@@ -189,7 +189,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 
 ---
 
-## 🎨 Design Details
+## Design Details
 
 | Element | Details |
 |---------|---------|
@@ -204,7 +204,7 @@ This project analyzes coffee shop sales, product performance, customer behaviour
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
