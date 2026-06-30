@@ -3,7 +3,7 @@
 This folder contains the Tableau Superstore dashboard.
 
 ---
-
+ 
 ## Files in This Folder
 
 | File Name | Description |
