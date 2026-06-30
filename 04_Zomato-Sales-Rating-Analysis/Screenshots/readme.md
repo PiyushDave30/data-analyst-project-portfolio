@@ -1,10 +1,10 @@
-# 🖼️ Screenshots — Zomato Sales & Rating Analysis
+# Screenshots — Zomato Sales & Rating Analysis
 
 This folder contains all Tableau dashboard and SQL query screenshots for the Zomato project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 ### Tableau Dashboard Screenshots (3 pages)
 | File Name | Page | Content |
@@ -25,7 +25,7 @@ This folder contains all Tableau dashboard and SQL query screenshots for the Zom
 
 ---
 
-## 📌 Quick Reference — Key Numbers
+## Quick Reference — Key Numbers
 
 ### Tableau Dashboard
 | Metric | Value |
