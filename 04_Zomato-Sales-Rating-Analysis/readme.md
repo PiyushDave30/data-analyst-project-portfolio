@@ -20,7 +20,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -29,10 +29,10 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 📊 Tableau Dashboard — 3 Pages
+## Tableau Dashboard — 3 Pages
 
-### 🌐 Live Dashboard
-👉 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/ZomatoGlobalAnalysis/ExecutiveOverview)**
+### Live Dashboard
+**[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/ZomatoGlobalAnalysis/ExecutiveOverview)**
 
 ---
 
@@ -60,9 +60,9 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 🔑 Key Business Insights
+## Key Business Insights
 
-### 📊 Restaurant Overview (from KPI View)
+### Restaurant Overview (from KPI View)
 - **Total Restaurants: 9,551** across **15 countries** and **141 cities**
 - **Total Cuisines: 1,825** unique cuisine types
 - **Average Rating: 2.9** out of 5
@@ -71,14 +71,14 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 - **Online Delivery: 25.66%** (2,451 restaurants)
 - **Table Booking: 12.12%** (1,158 restaurants)
 
-### 🌍 Country Insights (Page 1)
+### Country Insights (Page 1)
 - **India dominates** with **8,652 restaurants** and **11,87,163 votes** — far ahead of all countries
 - **USA** is second with 434 restaurants and 1,85,848 votes
 - **Indonesia** has highest avg cost for two (2,81,190 local currency)
 - Most countries maintain avg rating of **4** — consistent quality
 - Top 5 by votes: India (11,87,163) → USA (1,85,848) → UAE (29,611) → SA (18,910) → UK (16,439)
 
-### ⭐ Customer Experience Insights (Page 2)
+### Customer Experience Insights (Page 2)
 - **Restaurants WITH table booking** avg rating: **3.5** vs WITHOUT: **2.8** — table booking = quality signal
 - **Online Delivery** restaurants get higher ratings (3.3) vs without (2.8)
 - Only **25.66%** restaurants have online delivery — **significant expansion opportunity**
@@ -87,7 +87,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 - **North Indian Mughlai** is most engaging cuisine with **53,747 votes**
 - **Avg votes per restaurant: 157** | **High rated restaurants: 1,380**
 
-### 🍽️ Cuisine & Pricing Insights (Page 3)
+### Cuisine & Pricing Insights (Page 3)
 - **North Indian** is the most common cuisine — **936 restaurants**
 - **Cheap price range** (₹1) has the most restaurants: **4,444**
 - **Luxury restaurants** (₹4) have the highest avg rating: **3.84**
@@ -97,7 +97,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 04_Zomato-Sales-Rating-Analysis/
@@ -129,7 +129,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** Zomato Restaurant Dataset (publicly available)
 - **Table:** `zomato` (MySQL)
@@ -139,7 +139,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
 | Platform | Link |
 |----------|------|
@@ -147,7 +147,7 @@ This project analyzes Zomato's restaurant dataset to uncover insights about rest
 
 ---
 
-## 👤 Author
+## Author
 
 **Piyush Dave**  
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
