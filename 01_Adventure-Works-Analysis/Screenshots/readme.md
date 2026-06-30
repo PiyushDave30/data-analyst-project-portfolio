@@ -3,7 +3,7 @@
 This folder contains all dashboard and query screenshots for the Adventure Works project.  
 Screenshots from each tool are also stored inside their respective tool folders.
 
----
+--- 
 
 ## Files in This Folder
 
