@@ -6,7 +6,7 @@ This folder contains the Power BI Finance dashboard built using Power BI's built
 
 ## Files in This Folder
 
-| File Name | Description |
+| File Name | Description | 
 |-----------|-------------|
 | [PBI Dashboard](Financial_Performance_Dashboard.pbix) | Power BI 2-page dashboard file |
 | [Sales Performance](PBI_Finance2.png) | Screenshot — Sales Performance Overview | 
