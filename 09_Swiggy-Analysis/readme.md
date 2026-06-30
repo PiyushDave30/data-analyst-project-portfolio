@@ -2,7 +2,7 @@
  
 ![SQL Preview](Screenshots/SW1.png)
 
-> **Self-Made Project**  
+> **Self-Made Project**   
 > A comprehensive SQL analysis of Swiggy food order data covering 1,97,430 orders across 993 restaurants, 28 cities, and 59,064 unique dishes — using advanced MySQL with views, stored procedures, window functions, subqueries, and string functions.
 
 ---
