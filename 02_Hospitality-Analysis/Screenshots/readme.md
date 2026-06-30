@@ -21,7 +21,7 @@ This folder contains all dashboard and query screenshots for the Hospitality Ana
 
 ---
 
-## 📌 Quick Reference — Key Numbers
+## Quick Reference — Key Numbers
 
 | Metric | Value |
 |--------|-------|
