@@ -85,7 +85,7 @@ This folder contains all SQL queries for the Zomato project — organized into 6
 - Dynamic SQL — `SET @qry = CONCAT(...)`, `PREPARE stmt FROM @qry`, `EXECUTE stmt`, `DEALLOCATE PREPARE stmt`
 - `COUNT(DISTINCT(...))` for unique counts
 - `ROUND()`, `AVG()`, `COUNT()`, `SUM()`
-
+ 
 ---
 
 ## KPI View Output
