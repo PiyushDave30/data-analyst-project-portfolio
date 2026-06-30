@@ -3,7 +3,7 @@
 ---
 
 ## Files in This Folder
-
+ 
 | File Name | Tool | Content |
 |-----------|------|---------|
 | [Tableau Dashboard](Tableau_Sample_Superstore.png) | Tableau | Full Superstore Analytics Report — KPIs, category bars, sub-category, map, segments donut, top 5 products, sales trend |
