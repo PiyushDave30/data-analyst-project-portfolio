@@ -1,5 +1,5 @@
 # Bank Loan Analysis
-
+ 
 ![SQL Queries Preview](Screenshots/BA4.png)
 
 > **Self-Made Project**  
