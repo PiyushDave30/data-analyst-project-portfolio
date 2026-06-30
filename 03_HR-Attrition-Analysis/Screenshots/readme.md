@@ -1,7 +1,7 @@
 # Screenshots — HR Attrition Analysis
 
 This folder contains all dashboard and query screenshots for the HR Attrition Analysis project.
-
+ 
 ---
 
 ## Files in This Folder
