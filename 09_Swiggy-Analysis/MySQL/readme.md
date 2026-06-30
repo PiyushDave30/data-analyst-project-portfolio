@@ -3,7 +3,7 @@
 **File:** [Swiggy Analysis MySQL](Swiggy%20Analysis.sql)  
 All queries written in **MySQL Workbench** with insights after every query — 8 sections total.
 
----
+--- 
 
 ## Files in This Folder
 
