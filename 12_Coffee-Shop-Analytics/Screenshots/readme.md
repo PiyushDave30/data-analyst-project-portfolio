@@ -1,10 +1,10 @@
-# 🖼️ Screenshots — Brew Metric Coffee Shop Analytics
+# Screenshots — Brew Metric Coffee Shop Analytics
 
 This folder contains all 7 page screenshots of the Brew Metric Power BI dashboard.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Page | Content |
 |-----------|------|---------|
@@ -18,7 +18,7 @@ This folder contains all 7 page screenshots of the Brew Metric Power BI dashboar
 
 ---
 
-## 📌 Quick Reference — All Key Numbers
+## Quick Reference — All Key Numbers
 
 | Metric | Value |
 |--------|-------|
