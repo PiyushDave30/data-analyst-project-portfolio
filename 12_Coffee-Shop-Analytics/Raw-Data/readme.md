@@ -1,10 +1,10 @@
-# 📂 Raw Data — Brew Metric Coffee Shop Analytics
+# Raw Data — Brew Metric Coffee Shop Analytics
 
 This folder contains the dataset used for the Brew Metric Coffee Shop Analytics project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -12,7 +12,7 @@ This folder contains the dataset used for the Brew Metric Coffee Shop Analytics 
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 | Property | Value |
 |----------|-------|
@@ -25,7 +25,7 @@ This folder contains the dataset used for the Brew Metric Coffee Shop Analytics 
 
 ---
 
-## 🔑 Key Fields
+## Key Fields
 
 | Field | Description |
 |-------|-------------|
