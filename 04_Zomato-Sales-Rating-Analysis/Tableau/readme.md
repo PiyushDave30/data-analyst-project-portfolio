@@ -1,10 +1,10 @@
-# 📈 Tableau Dashboard — Zomato Sales & Rating Analysis
+# Tableau Dashboard — Zomato Sales & Rating Analysis
 
 This folder contains the 3-page Tableau dashboard for the Zomato project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -15,13 +15,13 @@ This folder contains the 3-page Tableau dashboard for the Zomato project.
 
 ---
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
-👉 **[Click here to view the live 3-Page Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/ZomatoGlobalAnalysis/ExecutiveOverview)**
+**[Click here to view the live 3-Page Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/ZomatoGlobalAnalysis/ExecutiveOverview)**
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Executive Overview
 ![Executive Overview](Z_1.png)
@@ -99,7 +99,7 @@ This folder contains the 3-page Tableau dashboard for the Zomato project.
 
 ---
 
-## 🛠️ Tableau Features Used
+## Tableau Features Used
 - **3-page navigation** — Next/Back buttons between pages
 - **Dynamic parameter toggle** — switch metrics (Avg Rating/Total Votes/Avg Cost/Total Restaurants)
 - **Dynamic KPI** — Selected Metric Value updates on country click
@@ -113,7 +113,7 @@ This folder contains the 3-page Tableau dashboard for the Zomato project.
 
 ---
 
-## 💡 Key Insights Summary
+## Key Insights Summary
 - India has 90%+ of all restaurants in dataset
 - Table booking restaurants rate **0.7 points higher** than non-booking
 - Only 25.66% have online delivery — **expansion opportunity**
