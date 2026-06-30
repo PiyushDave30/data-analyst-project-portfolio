@@ -1,4 +1,4 @@
-# Screenshots — Blinkit Sales Performance Dashboard
+# Screenshots — Blinkit Sales Performance Dashboard 
 
 This folder contains all screenshots of the 5-page Blinkit Power BI dashboard.
 
