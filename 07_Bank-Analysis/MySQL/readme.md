@@ -1,7 +1,7 @@
 # SQL Queries — Bank Loan Analysis
 
 All queries are written in **MySQL Workbench** on the `finance1` and `finance2` tables organized into 3 sections + stored procedures + views.
-
+ 
 ---
 
 ## Files in This Folder
