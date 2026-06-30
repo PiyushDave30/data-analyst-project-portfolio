@@ -2,7 +2,7 @@
 
 This folder contains the Excel dashboard for the Hospitality Analysis project.
 
----
+--- 
 
 ## 📄 Files in This Folder
 
