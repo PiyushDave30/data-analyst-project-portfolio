@@ -4,7 +4,7 @@ This folder contains all 5 dashboard page screenshots.
 
 ---
 
-## Files in This Folder
+## Files in This Folder 
 
 | File Name | Page | Key Content |
 |-----------|------|-------------|
