@@ -4,7 +4,7 @@ This folder contains the Tableau dashboard link and screenshot for the Adventure
 
 ---
 
-## Files in This Folder
+## Files in This Folder 
 
 | File Name | Description |
 |-----------|-------------|
