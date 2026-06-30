@@ -3,7 +3,7 @@
 ---
 ![IPL Analysis](Screenshots/ipl_notebook_structure.png)
 
----
+--- 
 
 > **Self-Made Project**  
 > A complete end-to-end data analytics project on Indian Premier League (IPL) cricket data covering 18 seasons (2008–2025), 1,169 matches, and 2,78,205 ball-by-ball deliveries — using Python with Pandas, NumPy, Matplotlib, and Seaborn in Jupyter Notebook. 
