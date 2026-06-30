@@ -2,7 +2,7 @@
 
 This folder contains the Excel Sales Performance Dashboard built for the Adventure Works project.
 
----
+--- 
 
 ## Files in This Folder
 
