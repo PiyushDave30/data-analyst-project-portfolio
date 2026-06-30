@@ -3,7 +3,7 @@
 This folder contains all SQL queries written for the HR Attrition project using **MySQL Workbench**.
 
 ---
-
+ 
 ## Files in This Folder
 
 | File Name | Description |
