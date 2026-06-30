@@ -1,4 +1,4 @@
-# Hospitality Analysis 
+# Hospitality Analysis  
 
 ![Dashboard Preview](Screenshots/HA1.png)
 
