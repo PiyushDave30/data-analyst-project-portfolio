@@ -1,10 +1,10 @@
-# 📊 Power BI Dashboard — Hospitality Analysis
+# Power BI Dashboard — Hospitality Analysis
 
 This folder contains the 4-page Power BI dashboard for the Hospitality project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -17,7 +17,7 @@ This folder contains the 4-page Power BI dashboard for the Hospitality project.
 
 ---
 
-## 📋 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Overview
 ![Overview](HA1.png)
@@ -80,7 +80,7 @@ This folder contains the 4-page Power BI dashboard for the Hospitality project.
 
 ---
 
-## 🛠️ Power BI Features Used
+## Power BI Features Used
 - **Star Schema** data model — fact_bookings + 3 dimension tables
 - **Toggle buttons** — switch between metrics on each page
 - **Page navigation** — Overview → Revenue → Occupancy → Booking
@@ -91,7 +91,7 @@ This folder contains the 4-page Power BI dashboard for the Hospitality project.
 
 ---
 
-## 🔗 How to Open
+## How to Open
 1. Download `Hospitality_Analysis.pbix`
 2. Open with **Microsoft Power BI Desktop**
 3. Data is embedded — no external connections needed
