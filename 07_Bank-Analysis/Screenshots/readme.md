@@ -3,7 +3,7 @@
 This folder contains all SQL query and output screenshots for the Bank Analysis project.
 
 ---
-
+ 
 ## Files in This Folder
 
 | File Name | Content |
