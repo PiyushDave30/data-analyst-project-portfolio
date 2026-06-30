@@ -2,7 +2,7 @@
 
 Take exactly **8 screenshots** in MySQL Workbench. Here is exactly which query to run for each, and why it's worth screenshotting.
 
----
+--- 
 
 ### SW1 — Dataset Scale (Most Important — Take This First)
 **Run this, screenshot the RESULT GRID:**
