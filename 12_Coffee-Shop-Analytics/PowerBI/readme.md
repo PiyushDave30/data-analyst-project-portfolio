@@ -2,7 +2,7 @@
 
 This folder contains the Power BI dashboard for the Brew Metric Coffee Shop project.
 
----
+--- 
 
 ## 📄 Files in This Folder
 
