@@ -1,10 +1,10 @@
-# 📈 Tableau Dashboard — Hospitality Analysis
+# Tableau Dashboard — Hospitality Analysis
 
 This folder contains the Tableau dashboard for the Hospitality Analysis project.
 
 ---
 
-## 📄 Files in This Folder
+## Files in This Folder
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,13 +13,13 @@ This folder contains the Tableau dashboard for the Hospitality Analysis project.
 
 ---
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
-👉 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/Hospitality_Analytics_Dashboard_Tableau/Dashboard1)**
+**[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/Hospitality_Analytics_Dashboard_Tableau/Dashboard1)**
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Hospitality Analysis Dashboard](HA6.png)
 
@@ -66,7 +66,7 @@ This folder contains the Tableau dashboard for the Hospitality Analysis project.
 
 ---
 
-## 🛠️ Tableau Features Used
+## Tableau Features Used
 - 5 dropdown slicers — City, Room Class, Quarter, Category, Booking Status
 - Treemap for booking status revenue distribution
 - Pie chart for weekday vs weekend comparison
