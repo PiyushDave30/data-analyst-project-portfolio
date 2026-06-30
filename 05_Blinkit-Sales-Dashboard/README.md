@@ -6,7 +6,7 @@
 > A comprehensive 5-page Power BI dashboard analyzing Blinkit's sales performance across products, outlets, locations, and customer preferences — with Excel used for data cleaning and preparation.
  
 ---
-
+ 
 ## Project Overview
 
 This project analyzes BlinkIT grocery delivery sales data to uncover performance trends across product categories, outlet types, tier locations, and outlet sizes. The dashboard is designed as an **executive-level report** with 5 interactive pages covering everything from a high-level overview to a granular decomposition tree.
