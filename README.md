@@ -75,6 +75,7 @@ I am a **Data Analyst** with hands-on experience through a virtual internship at
 | 10 | [India Sales Dashboard](./10_India-Sales-Dashboard/) | Power BI | 5-page manager/region/category dashboard — ₹589.65K sales, 3 managers, decomposition tree |
 | 11 | [Practice Dashboards](./11_Practice_Dashboards) | Tableau · Power BI | Superstore USA + Finance Dataset — practice dashboards for skill building |
 | 12 | [Brew Metric Coffee Shop Analysis](./12_Coffee-Shop-Analytics/) | Power BI · PowerPoint | 7-page branded dashboard — 5,000 orders, 5 branches, 17 products, Custom PPT background |
+| 13 | [BMW Sales Analytics](./13_BMW-Sales-Analytics/) | Tableau · PowerPoint | 7-page premium Tableau dashboard — 6 BMW models, 4 regions, $117.28M revenue, 28.03% profit margin, custom PowerPoint background |
 
 ---
 
@@ -84,13 +85,14 @@ I am a **Data Analyst** with hands-on experience through a virtual internship at
 
 | Metric | Value |
 |--------|-------|
-| Total Projects | 10 |
-| Tools Mastered | SQL · Power BI · Tableau · Excel · Python |
-| Total Dashboards Built | 15+ |
+| Total Projects | 13 |
+| Tools Mastered | SQL · Power BI · Tableau · Excel · Python · PowerPoint |
+| Total Dashboards Built | 20+ |
 | Total SQL Queries Written | 150+ |
 | Python Charts Created | 44+ |
 | Largest Dataset Analyzed | 2,78,205 IPL deliveries |
 | Original Data Collection | Amravati AQI from CPCB Govt Website |
+| Custom Dashboard Design | Brew Metric + BMW — custom PPT backgrounds |
 
 </div>
 
