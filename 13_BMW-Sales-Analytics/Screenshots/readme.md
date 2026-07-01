@@ -9,12 +9,12 @@ This folder contains all 7 page screenshots of the BMW Sales Analytics Tableau d
 | File Name | Page | Content |
 |-----------|------|---------|
 | [Home](1.%20Home.png) | Page 1 — Landing | BMW logo, 6 navigation cards (Overview/Model/Region/Revenue/Time/Quick), data summary footer |
-| [Executive Overview](Overview.png) | Page 2 — Executive Overview | 5 KPIs, Revenue by Model bar, Revenue by Region bar, Sales Trend stacked bar |
-| [Model Analysis](BMW_Model.png) | Page 3 — Model Analysis | 5 KPIs, Units lollipop, Revenue bar, Profit green bar, Avg Price horizontal bar |
-| [Region Analysis](BMW_Region.png) | Page 4 — Region Analysis | 5 KPIs, Units lollipop, Revenue horizontal bar, Model×Region table, Profit green bar |
-| [Revenue Analysis](BMW_Revenue.png) | Page 5 — Revenue & Profit | 5 KPIs, Revenue vs Profit grouped bar, Profit Margin bar, Revenue vs Cost bar, Treemap |
-| [TTime Analysis](BMW_Time.png) | Page 6 — Time Analysis | 5 KPIs, Price Distribution histogram, Units Distribution histogram, Scatter with trend lines |
-| [Quick Analysis](BMW_Quick.png) | Page 7 — Quick Analysis | Metric selector, Dimension selector, Dynamic bar chart, KPI card, Distribution donut |
+| [Executive Overview](2.%20Overview.png) | Page 2 — Executive Overview | 5 KPIs, Revenue by Model bar, Revenue by Region bar, Sales Trend stacked bar |
+| [Model Analysis](3.%20Model.png) | Page 3 — Model Analysis | 5 KPIs, Units lollipop, Revenue bar, Profit green bar, Avg Price horizontal bar |
+| [Region Analysis](4.%20Region.png) | Page 4 — Region Analysis | 5 KPIs, Units lollipop, Revenue horizontal bar, Model×Region table, Profit green bar |
+| [Revenue Analysis](5.%20Revenue.png) | Page 5 — Revenue & Profit | 5 KPIs, Revenue vs Profit grouped bar, Profit Margin bar, Revenue vs Cost bar, Treemap |
+| [Time Analysis](6.%20Time.png) | Page 6 — Time Analysis | 5 KPIs, Price Distribution histogram, Units Distribution histogram, Scatter with trend lines |
+| [Quick Analysis](7.%20Quick.png) | Page 7 — Quick Analysis | Metric selector, Dimension selector, Dynamic bar chart, KPI card, Distribution donut |
 
 ---
 
