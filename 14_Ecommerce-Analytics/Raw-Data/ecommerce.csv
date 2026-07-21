@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,customer_segment,product_id,category,sub_category,quantity,unit_price,unit_cost,discount_pct,gross_amount,discount_amount,net_revenue,profit,payment_method,marketing_channel,shipping_mode,shipping_cost,delivery_days,country,region,city,is_returned
+ORD300176,01-01-2024,C50270,Consumer,P2205,Beauty,Makeup,1,72.2,28.95,0,72.2,0,72.2,43.25,Credit Card,Social,Standard,3.99,8,India,East,Kolkata,FALSE
+ORD300665,01-01-2024,C50304,Consumer,P7734,Beauty,Fragrance,2,11.56,4.16,0.3,23.12,6.94,16.18,7.86,Credit Card,Direct,Standard,3.99,6,United States,Central,Kansas City,FALSE
+ORD300733,01-01-2024,C50184,Home Office,P2390,Electronics,Laptops,2,27.84,20.68,0.05,55.68,2.78,52.9,11.54,Digital Wallet,Social,Express,9.99,4,United States,West,San Francisco,FALSE
+ORD300056,02-01-2024,C50145,Corporate,P5317,Electronics,Cameras,3,62.49,50.49,0.3,187.47,56.24,131.23,-20.24,Debit Card,Affiliate,Express,9.99,2,United States,West,Denver,FALSE
+ORD300121,02-01-2024,C50059,Consumer,P1106,Beauty,Skincare,1,138.5,57.26,0.1,138.5,13.85,124.65,67.39,Credit Card,Organic Search,Standard,3.99,6,India,West,Pune,FALSE
+ORD300370,07-01-2024,C50133,Consumer,P3602,Electronics,Cameras,1,67.31,57.14,0.2,67.31,13.46,53.85,-3.29,Credit Card,Organic Search,Express,9.99,3,United Kingdom,Wales,Swansea,FALSE
+ORD300427,09-01-2024,C50111,Consumer,P3866,Electronics,Laptops,1,94.98,75.12,0.1,94.98,9.5,85.48,10.36,Debit Card,Organic Search,Express,9.99,4,United Kingdom,Wales,Cardiff,FALSE
+ORD300504,10-01-2024,C50157,Corporate,P8521,Beauty,Skincare,1,31.65,12.99,0,31.65,0,31.65,18.66,Digital Wallet,Organic Search,Standard,3.99,5,United Kingdom,Scotland,Glasgow,FALSE
+ORD300677,11-01-2024,C50113,Home Office,P4744,Fashion,Women's Apparel,1,138.51,63.62,0,138.51,0,138.51,74.89,Cash on Delivery,Paid Search,Standard,3.99,5,United States,West,Denver,FALSE
+ORD300404,12-01-2024,C50254,Corporate,P3484,Home & Kitchen,Decor,1,25.52,15.21,0.15,25.52,3.83,21.69,6.48,Digital Wallet,Email,Standard,3.99,7,United States,Central,Chicago,FALSE
+ORD300592,12-01-2024,C50056,Consumer,P8007,Fashion,Footwear,1,78.86,31.13,0.1,78.86,7.89,70.97,39.84,Digital Wallet,Paid Search,Standard,3.99,8,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300372,12-01-2024,C50034,Consumer,P8684,Electronics,Laptops,1,203.62,150,0.05,203.62,10.18,193.44,43.44,Cash on Delivery,Organic Search,Standard,3.99,6,United States,South,Atlanta,FALSE
+ORD300203,13-01-2024,C50182,Consumer,P5870,Electronics,Cameras,1,45.66,36,0,45.66,0,45.66,9.66,Credit Card,Paid Search,Express,9.99,4,United Kingdom,England,London,TRUE
+ORD300963,13-01-2024,C50264,Home Office,P1744,Beauty,Skincare,1,92.83,37.48,0,92.83,0,92.83,55.35,PayPal,Social,Standard,3.99,8,United States,Central,Kansas City,FALSE
+ORD300251,13-01-2024,C50218,Home Office,P3708,Beauty,Fragrance,2,35.29,12.59,0.05,70.58,3.53,67.05,41.87,Digital Wallet,Direct,Standard,3.99,8,United States,East,New York,FALSE
+ORD300847,13-01-2024,C50054,Corporate,P2795,Home & Kitchen,Cookware,1,512.41,317.09,0,512.41,0,512.41,195.32,Cash on Delivery,Direct,Standard,3.99,7,Germany,Hesse,Wiesbaden,FALSE
+ORD300462,13-01-2024,C50325,Home Office,P4656,Home & Kitchen,Appliances,2,36.96,18.97,0,73.92,0,73.92,35.98,Credit Card,Direct,Express,9.99,2,India,East,Bhubaneswar,FALSE
+ORD300109,14-01-2024,C50242,Consumer,P7946,Beauty,Fragrance,1,74.27,27.59,0,74.27,0,74.27,46.68,Debit Card,Organic Search,Standard,3.99,7,India,South,Chennai,FALSE
+ORD300156,15-01-2024,C50208,Consumer,P1867,Electronics,Smartphones,1,84.15,72.95,0,84.15,0,84.15,11.2,Credit Card,Paid Search,Same-Day,19.99,1,United States,South,Atlanta,FALSE
+ORD300329,15-01-2024,C50051,Corporate,P9413,Sports,Fitness,2,72.02,50.6,0,144.04,0,144.04,42.84,Cash on Delivery,Social,Standard,3.99,4,United States,Central,Kansas City,FALSE
+ORD300696,15-01-2024,C50151,Consumer,P7413,Home & Kitchen,Furniture,1,47.63,26.72,0.2,47.63,9.53,38.1,11.38,Cash on Delivery,Paid Search,Standard,3.99,7,India,South,Chennai,FALSE
+ORD300873,15-01-2024,C50134,Home Office,P6682,Sports,Outdoor,3,363.84,208.95,0.3,1091.52,327.46,764.06,137.21,PayPal,Direct,Standard,3.99,6,India,West,Pune,FALSE
+ORD300810,16-01-2024,C50191,Consumer,P6784,Beauty,Fragrance,1,24.09,10.23,0,24.09,0,24.09,13.86,PayPal,Email,Same-Day,19.99,0,India,East,Bhubaneswar,FALSE
+ORD300268,18-01-2024,C50272,Corporate,P6111,Fashion,Men's Apparel,3,25.06,10.45,0,75.18,0,75.18,43.83,Debit Card,Organic Search,Same-Day,19.99,1,United States,West,San Francisco,FALSE
+ORD300751,19-01-2024,C50338,Consumer,P2054,Fashion,Women's Apparel,1,18.22,9.96,0,18.22,0,18.22,8.26,Credit Card,Organic Search,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300347,19-01-2024,C50071,Consumer,P9575,Electronics,Accessories,2,184.85,138.26,0,369.7,0,369.7,93.18,Credit Card,Organic Search,Express,9.99,3,Australia,NSW,Sydney,FALSE
+ORD300849,22-01-2024,C50225,Corporate,P1902,Electronics,Cameras,4,520.7,418.99,0.1,2082.8,208.28,1874.52,198.56,Credit Card,Affiliate,Express,9.99,4,Australia,Queensland,Brisbane,FALSE
+ORD300907,23-01-2024,C50008,Home Office,P5560,Electronics,Headphones,1,441.69,342.37,0,441.69,0,441.69,99.32,Credit Card,Email,Same-Day,19.99,0,United States,West,San Francisco,TRUE
+ORD300016,24-01-2024,C50133,Consumer,P9095,Fashion,Men's Apparel,1,51.56,25.19,0,51.56,0,51.56,26.37,Credit Card,Organic Search,Standard,3.99,4,United Kingdom,Wales,Swansea,FALSE
+ORD300917,28-01-2024,C50326,Consumer,P1652,Electronics,Accessories,3,188.53,141.02,0.2,565.59,113.12,452.47,29.41,Debit Card,Affiliate,Standard,3.99,7,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300444,28-01-2024,C50237,Consumer,P2960,Beauty,Fragrance,1,110.72,44.49,0,110.72,0,110.72,66.23,Debit Card,Email,Standard,3.99,7,Australia,Queensland,Gold Coast,FALSE
+ORD300003,28-01-2024,C50201,Consumer,P2286,Home & Kitchen,Cookware,2,267.43,166.5,0.1,534.86,53.49,481.37,148.37,Credit Card,Affiliate,Standard,3.99,8,United Kingdom,England,London,FALSE
+ORD300355,29-01-2024,C50204,Consumer,P7449,Fashion,Men's Apparel,1,60.34,22.09,0.1,60.34,6.03,54.31,32.22,Digital Wallet,Organic Search,Standard,3.99,8,India,West,Mumbai,FALSE
+ORD300609,29-01-2024,C50203,Consumer,P8302,Home & Kitchen,Appliances,3,882.67,526.54,0,2648.01,0,2648.01,1068.39,Debit Card,Organic Search,Standard,3.99,6,United Kingdom,England,Manchester,FALSE
+ORD300351,01-02-2024,C50244,Consumer,P2632,Electronics,Accessories,1,66.79,54.97,0.2,66.79,13.36,53.43,-1.54,Credit Card,Affiliate,Standard,3.99,5,United States,West,Denver,FALSE
+ORD300780,01-02-2024,C50109,Consumer,P2508,Fashion,Bags,1,147.97,73.76,0,147.97,0,147.97,74.21,Credit Card,Direct,Same-Day,19.99,1,India,South,Bengaluru,TRUE
+ORD300718,03-02-2024,C50326,Consumer,P7323,Fashion,Bags,1,22,11.19,0,22,0,22,10.81,Debit Card,Organic Search,Standard,3.99,6,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300338,04-02-2024,C50085,Consumer,P8345,Fashion,Bags,1,167.83,79.69,0,167.83,0,167.83,88.14,Credit Card,Direct,Standard,3.99,8,Australia,Victoria,Melbourne,TRUE
+ORD300434,04-02-2024,C50242,Consumer,P7298,Sports,Outdoor,2,199.39,114.2,0.05,398.78,19.94,378.84,150.44,PayPal,Organic Search,Standard,3.99,8,India,South,Chennai,FALSE
+ORD300080,07-02-2024,C50089,Consumer,P6748,Beauty,Makeup,4,13.33,4.86,0.15,53.32,8,45.32,25.88,PayPal,Email,Standard,3.99,5,India,South,Bengaluru,FALSE
+ORD300337,07-02-2024,C50322,Consumer,P9302,Fashion,Footwear,2,78.11,37.17,0.1,156.22,15.62,140.6,66.26,PayPal,Organic Search,Standard,3.99,6,United Kingdom,England,London,FALSE
+ORD300083,08-02-2024,C50274,Corporate,P8104,Fashion,Footwear,2,46.87,21.21,0,93.74,0,93.74,51.32,Credit Card,Paid Search,Express,9.99,2,United States,Central,Chicago,FALSE
+ORD300429,10-02-2024,C50014,Consumer,P4081,Beauty,Skincare,2,30.54,12.58,0.15,61.08,9.16,51.92,26.76,Debit Card,Direct,Standard,3.99,6,India,East,Kolkata,FALSE
+ORD300827,11-02-2024,C50037,Consumer,P7592,Electronics,Headphones,2,650.34,551.62,0,1300.68,0,1300.68,197.44,Credit Card,Affiliate,Express,9.99,4,United States,Central,Kansas City,FALSE
+ORD300913,11-02-2024,C50175,Corporate,P2634,Sports,Cycling,1,51.78,32.17,0,51.78,0,51.78,19.61,Credit Card,Direct,Standard,3.99,7,India,South,Bengaluru,FALSE
+ORD300194,12-02-2024,C50090,Consumer,P8635,Home & Kitchen,Cookware,1,157.35,90.75,0.15,157.35,23.6,133.75,43,Digital Wallet,Social,Same-Day,19.99,1,India,West,Pune,FALSE
+ORD300465,12-02-2024,C50042,Consumer,P8072,Electronics,Accessories,1,508.48,361.14,0.05,508.48,25.42,483.06,121.92,Credit Card,Affiliate,Express,9.99,2,United States,Central,Chicago,FALSE
+ORD300320,13-02-2024,C50271,Consumer,P6693,Electronics,Headphones,1,548.36,421.67,0.05,548.36,27.42,520.94,99.27,Credit Card,Email,Standard,3.99,5,United States,South,Austin,FALSE
+ORD300897,16-02-2024,C50044,Home Office,P7932,Fashion,Women's Apparel,1,14.04,5.84,0.3,14.04,4.21,9.83,3.99,Debit Card,Organic Search,Standard,3.99,6,Germany,Bavaria,Nuremberg,FALSE
+ORD300986,17-02-2024,C50270,Consumer,P5288,Books,Fiction,2,8.28,4.68,0.05,16.56,0.83,15.73,6.37,Digital Wallet,Paid Search,Standard,3.99,5,India,East,Kolkata,FALSE
+ORD300343,18-02-2024,C50189,Consumer,P5785,Fashion,Bags,1,18.51,8.38,0,18.51,0,18.51,10.13,Credit Card,Direct,Standard,3.99,6,India,West,Pune,FALSE
+ORD300348,18-02-2024,C50187,Consumer,P9904,Beauty,Skincare,1,86.73,37.49,0.05,86.73,4.34,82.39,44.9,Credit Card,Paid Search,Standard,3.99,5,Germany,Hesse,Wiesbaden,FALSE
+ORD300944,19-02-2024,C50070,Corporate,P6099,Beauty,Makeup,2,10.07,4.08,0.15,20.14,3.02,17.12,8.96,Debit Card,Email,Standard,3.99,7,United States,West,Seattle,FALSE
+ORD300228,19-02-2024,C50259,Corporate,P8961,Fashion,Bags,1,47.53,22.35,0.15,47.53,7.13,40.4,18.05,Digital Wallet,Direct,Express,9.99,3,India,North,Jaipur,FALSE
+ORD300624,19-02-2024,C50188,Corporate,P8709,Fashion,Bags,3,16.92,7.99,0.15,50.76,7.61,43.15,19.18,Credit Card,Organic Search,Express,9.99,3,United States,West,San Francisco,FALSE
+ORD300514,19-02-2024,C50102,Corporate,P9084,Beauty,Fragrance,1,31.75,9.8,0,31.75,0,31.75,21.95,Cash on Delivery,Social,Express,9.99,2,Germany,Bavaria,Nuremberg,FALSE
+ORD300184,23-02-2024,C50141,Consumer,P2894,Electronics,Cameras,1,251.22,223.81,0,251.22,0,251.22,27.41,Credit Card,Social,Standard,3.99,4,United States,East,New York,FALSE
+ORD300712,23-02-2024,C50310,Consumer,P3477,Fashion,Women's Apparel,2,245.63,103.29,0,491.26,0,491.26,284.68,Credit Card,Social,Express,9.99,2,United Kingdom,England,Manchester,FALSE
+ORD300458,23-02-2024,C50238,Consumer,P9416,Home & Kitchen,Appliances,2,164.85,93.52,0,329.7,0,329.7,142.66,Credit Card,Direct,Standard,3.99,4,Germany,Berlin,Berlin,FALSE
+ORD300769,25-02-2024,C50180,Consumer,P9668,Fashion,Bags,3,42.99,17.54,0,128.97,0,128.97,76.35,Credit Card,Organic Search,Same-Day,19.99,0,India,South,Chennai,FALSE
+ORD300188,26-02-2024,C50188,Corporate,P9702,Fashion,Women's Apparel,1,226.03,106.47,0,226.03,0,226.03,119.56,Debit Card,Paid Search,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300611,27-02-2024,C50257,Consumer,P7845,Home & Kitchen,Decor,2,41.91,23.52,0.15,83.82,12.57,71.25,24.21,Debit Card,Social,Same-Day,19.99,0,United States,South,Austin,FALSE
+ORD300246,01-03-2024,C50311,Consumer,P7425,Fashion,Women's Apparel,1,95.38,42.16,0.15,95.38,14.31,81.07,38.91,Digital Wallet,Direct,Express,9.99,2,United States,Central,Chicago,FALSE
+ORD300499,01-03-2024,C50277,Home Office,P2704,Beauty,Makeup,1,15.4,4.73,0,15.4,0,15.4,10.67,Debit Card,Organic Search,Standard,3.99,7,Germany,Hesse,Frankfurt,FALSE
+ORD300245,02-03-2024,C50298,Consumer,P5340,Beauty,Fragrance,1,19.38,7.2,0,19.38,0,19.38,12.18,Debit Card,Affiliate,Standard,3.99,6,India,North,Delhi,FALSE
+ORD300281,04-03-2024,C50244,Consumer,P7530,Fashion,Women's Apparel,1,16.5,7.84,0,16.5,0,16.5,8.66,Cash on Delivery,Direct,Standard,3.99,7,United States,West,Denver,FALSE
+ORD300896,04-03-2024,C50319,Consumer,P4371,Fashion,Bags,1,64.96,29.53,0,64.96,0,64.96,35.43,PayPal,Organic Search,Express,9.99,3,United Kingdom,Wales,Cardiff,TRUE
+ORD300642,05-03-2024,C50138,Corporate,P2937,Fashion,Men's Apparel,1,37.67,20.06,0,37.67,0,37.67,17.61,Credit Card,Paid Search,Express,9.99,4,United States,East,Boston,FALSE
+ORD300359,06-03-2024,C50248,Home Office,P9109,Home & Kitchen,Furniture,1,341.75,222.12,0.2,341.75,68.35,273.4,51.28,PayPal,Paid Search,Standard,3.99,7,United Kingdom,Wales,Swansea,FALSE
+ORD300876,06-03-2024,C50059,Consumer,P9445,Electronics,Headphones,1,190.18,143.81,0,190.18,0,190.18,46.37,Cash on Delivery,Affiliate,Standard,3.99,7,India,West,Pune,FALSE
+ORD300317,06-03-2024,C50093,Consumer,P7203,Home & Kitchen,Decor,4,29.38,18.89,0,117.52,0,117.52,41.96,Credit Card,Direct,Standard,3.99,5,United Kingdom,England,London,FALSE
+ORD300445,07-03-2024,C50245,Consumer,P8476,Beauty,Fragrance,5,77.96,26.95,0,389.8,0,389.8,255.05,Debit Card,Organic Search,Standard,3.99,8,India,South,Bengaluru,FALSE
+ORD300639,07-03-2024,C50030,Consumer,P6598,Beauty,Makeup,3,16.99,7.67,0.15,50.97,7.65,43.32,20.31,PayPal,Paid Search,Standard,3.99,6,Australia,Queensland,Brisbane,FALSE
+ORD300272,07-03-2024,C50231,Consumer,P6935,Sports,Outdoor,1,275.38,169.43,0.4,275.38,110.15,165.23,-4.2,Credit Card,Direct,Same-Day,19.99,1,United Kingdom,Wales,Cardiff,FALSE
+ORD300842,09-03-2024,C50017,Consumer,P7584,Electronics,Headphones,1,172.31,134.37,0,172.31,0,172.31,37.94,Credit Card,Social,Standard,3.99,5,United States,West,Denver,FALSE
+ORD300951,10-03-2024,C50221,Consumer,P9316,Home & Kitchen,Cookware,1,30.58,17.95,0,30.58,0,30.58,12.63,Debit Card,Paid Search,Standard,3.99,5,Australia,NSW,Sydney,FALSE
+ORD300095,10-03-2024,C50185,Corporate,P4341,Electronics,Headphones,1,687.3,585.98,0,687.3,0,687.3,101.32,PayPal,Email,Standard,3.99,8,Germany,Hesse,Frankfurt,FALSE
+ORD300587,11-03-2024,C50062,Consumer,P2494,Electronics,Smartphones,1,179.46,142.69,0.05,179.46,8.97,170.49,27.8,Debit Card,Organic Search,Standard,3.99,5,United States,West,San Francisco,FALSE
+ORD300400,11-03-2024,C50052,Consumer,P5738,Fashion,Women's Apparel,2,205.05,72.14,0.15,410.1,61.52,348.58,204.3,Credit Card,Paid Search,Express,9.99,4,India,West,Pune,FALSE
+ORD300936,11-03-2024,C50281,Home Office,P3383,Electronics,Accessories,1,78.73,69.15,0,78.73,0,78.73,9.58,Credit Card,Organic Search,Express,9.99,4,United States,South,Atlanta,FALSE
+ORD300255,11-03-2024,C50150,Consumer,P2973,Electronics,Accessories,1,86.58,74.28,0,86.58,0,86.58,12.3,Digital Wallet,Paid Search,Standard,3.99,6,Germany,Berlin,Berlin,FALSE
+ORD300908,12-03-2024,C50205,Corporate,P9682,Beauty,Fragrance,1,47.61,17.81,0,47.61,0,47.61,29.8,Credit Card,Social,Standard,3.99,7,United States,East,New York,FALSE
+ORD300650,13-03-2024,C50009,Corporate,P3532,Home & Kitchen,Decor,1,25.14,14.03,0,25.14,0,25.14,11.11,Credit Card,Social,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300221,14-03-2024,C50025,Consumer,P1138,Beauty,Makeup,2,125.17,41.23,0.05,250.34,12.52,237.82,155.36,Credit Card,Email,Express,9.99,3,United States,East,Boston,FALSE
+ORD300381,14-03-2024,C50055,Consumer,P8428,Home & Kitchen,Cookware,2,32.92,20.09,0.05,65.84,3.29,62.55,22.37,Credit Card,Organic Search,Standard,3.99,5,India,West,Pune,FALSE
+ORD300126,14-03-2024,C50148,Corporate,P5263,Electronics,Laptops,1,62.94,43.45,0,62.94,0,62.94,19.49,Digital Wallet,Email,Standard,3.99,6,United States,Central,Kansas City,FALSE
+ORD300903,15-03-2024,C50067,Consumer,P7842,Home & Kitchen,Furniture,1,84.08,49.74,0,84.08,0,84.08,34.34,Debit Card,Social,Standard,3.99,8,Australia,Victoria,Melbourne,FALSE
+ORD300872,15-03-2024,C50279,Consumer,P8117,Electronics,Laptops,2,151.2,125.87,0,302.4,0,302.4,50.66,Digital Wallet,Direct,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300090,16-03-2024,C50245,Consumer,P8401,Home & Kitchen,Appliances,1,45.2,25.14,0.1,45.2,4.52,40.68,15.54,Credit Card,Organic Search,Standard,3.99,8,India,South,Bengaluru,FALSE
+ORD300113,17-03-2024,C50208,Consumer,P2719,Home & Kitchen,Decor,1,243.4,155.02,0,243.4,0,243.4,88.38,Cash on Delivery,Affiliate,Standard,3.99,8,United States,South,Atlanta,FALSE
+ORD300900,18-03-2024,C50192,Consumer,P1163,Home & Kitchen,Appliances,1,204.31,128.02,0,204.31,0,204.31,76.29,Cash on Delivery,Direct,Standard,3.99,8,India,South,Chennai,FALSE
+ORD300041,20-03-2024,C50117,Consumer,P6065,Fashion,Bags,1,92.17,45.3,0.2,92.17,18.43,73.74,28.44,Debit Card,Paid Search,Standard,3.99,4,Australia,Victoria,Melbourne,FALSE
+ORD300168,21-03-2024,C50080,Consumer,P9698,Home & Kitchen,Furniture,3,424.14,245.83,0.1,1272.42,127.24,1145.18,407.69,Credit Card,Organic Search,Standard,3.99,5,India,South,Bengaluru,FALSE
+ORD300744,24-03-2024,C50252,Home Office,P3109,Electronics,Laptops,1,391.3,322.97,0,391.3,0,391.3,68.33,Credit Card,Paid Search,Express,9.99,2,United States,East,Boston,FALSE
+ORD300674,24-03-2024,C50149,Consumer,P5814,Fashion,Men's Apparel,2,59.15,34.44,0,118.3,0,118.3,49.42,Cash on Delivery,Organic Search,Standard,3.99,5,United States,East,New York,FALSE
+ORD300395,25-03-2024,C50135,Home Office,P4405,Electronics,Cameras,2,864.93,695.91,0.4,1729.86,691.94,1037.92,-353.9,Credit Card,Organic Search,Standard,3.99,5,Germany,Berlin,Berlin,FALSE
+ORD300558,26-03-2024,C50126,Consumer,P9734,Books,Children's,1,5.42,4.21,0,5.42,0,5.42,1.21,Credit Card,Organic Search,Standard,3.99,8,United States,West,Denver,FALSE
+ORD300667,27-03-2024,C50117,Consumer,P1279,Fashion,Men's Apparel,1,255.46,125.46,0,255.46,0,255.46,130,Digital Wallet,Social,Standard,3.99,8,Australia,Victoria,Melbourne,FALSE
+ORD300877,27-03-2024,C50300,Consumer,P2313,Beauty,Makeup,1,118.97,48.37,0,118.97,0,118.97,70.6,Debit Card,Paid Search,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300886,27-03-2024,C50095,Corporate,P3026,Beauty,Fragrance,1,63.21,24.95,0,63.21,0,63.21,38.26,Digital Wallet,Organic Search,Standard,3.99,7,Germany,Bavaria,Munich,FALSE
+ORD300289,27-03-2024,C50055,Consumer,P3808,Electronics,Laptops,1,242.36,190.11,0,242.36,0,242.36,52.25,PayPal,Affiliate,Standard,3.99,7,India,West,Pune,FALSE
+ORD300596,28-03-2024,C50229,Home Office,P8709,Electronics,Headphones,3,27.66,21.74,0.2,82.98,16.6,66.38,1.16,PayPal,Email,Express,9.99,4,United States,Central,Chicago,FALSE
+ORD300144,29-03-2024,C50000,Consumer,P2920,Beauty,Fragrance,1,29.67,11.06,0,29.67,0,29.67,18.61,Debit Card,Paid Search,Standard,3.99,4,United Kingdom,England,London,FALSE
+ORD300539,29-03-2024,C50243,Corporate,P8984,Books,Fiction,1,30.45,23.09,0,30.45,0,30.45,7.36,Cash on Delivery,Organic Search,Standard,3.99,6,United States,Central,Chicago,FALSE
+ORD300135,30-03-2024,C50036,Corporate,P3918,Electronics,Laptops,4,830.3,566.44,0,3321.2,0,3321.2,1055.44,Debit Card,Direct,Same-Day,19.99,1,United States,South,Austin,FALSE
+ORD300998,31-03-2024,C50030,Consumer,P5432,Fashion,Men's Apparel,1,35.61,19.49,0.15,35.61,5.34,30.27,10.78,Digital Wallet,Email,Same-Day,19.99,1,Australia,Queensland,Brisbane,FALSE
+ORD300748,01-04-2024,C50134,Home Office,P1768,Sports,Fitness,1,438.88,251.31,0,438.88,0,438.88,187.57,Cash on Delivery,Direct,Standard,3.99,4,India,West,Pune,FALSE
+ORD300488,01-04-2024,C50184,Home Office,P3355,Electronics,Accessories,1,25.95,20.87,0.05,25.95,1.3,24.65,3.78,Credit Card,Organic Search,Standard,3.99,4,United States,West,San Francisco,FALSE
+ORD300332,04-04-2024,C50212,Consumer,P2266,Books,Fiction,2,10.32,6.47,0,20.64,0,20.64,7.7,Digital Wallet,Email,Express,9.99,4,United States,West,Denver,TRUE
+ORD300521,05-04-2024,C50324,Consumer,P2877,Sports,Cycling,1,29.08,21.38,0,29.08,0,29.08,7.7,Debit Card,Email,Standard,3.99,6,United States,South,Atlanta,FALSE
+ORD300186,06-04-2024,C50161,Corporate,P1602,Electronics,Accessories,2,32.03,27.53,0,64.06,0,64.06,9,Debit Card,Affiliate,Express,9.99,3,United Kingdom,Wales,Swansea,FALSE
+ORD300235,07-04-2024,C50186,Corporate,P8790,Sports,Fitness,3,89.04,55.56,0,267.12,0,267.12,100.44,Credit Card,Email,Standard,3.99,7,United Kingdom,Scotland,Glasgow,FALSE
+ORD300919,07-04-2024,C50117,Consumer,P5025,Sports,Outdoor,5,481.22,239.81,0.1,2406.1,240.61,2165.49,966.44,Credit Card,Social,Standard,3.99,7,Australia,Victoria,Melbourne,FALSE
+ORD300207,07-04-2024,C50096,Corporate,P3644,Electronics,Cameras,1,483.73,340.24,0,483.73,0,483.73,143.49,Debit Card,Paid Search,Standard,3.99,4,United Kingdom,Wales,Swansea,FALSE
+ORD300806,08-04-2024,C50151,Consumer,P9157,Sports,Outdoor,3,532.01,366.25,0.05,1596.03,79.8,1516.23,417.48,Credit Card,Social,Standard,3.99,8,India,South,Chennai,FALSE
+ORD300211,08-04-2024,C50286,Consumer,P1709,Fashion,Men's Apparel,1,65.85,29.13,0.05,65.85,3.29,62.56,33.43,Credit Card,Organic Search,Standard,3.99,8,United States,Central,Kansas City,FALSE
+ORD300138,09-04-2024,C50006,Consumer,P7889,Beauty,Skincare,2,30.4,13.16,0.2,60.8,12.16,48.64,22.32,Digital Wallet,Social,Express,9.99,2,Australia,NSW,Sydney,FALSE
+ORD300533,12-04-2024,C50082,Home Office,P7358,Electronics,Cameras,3,178.99,135.86,0,536.97,0,536.97,129.39,Cash on Delivery,Paid Search,Standard,3.99,7,United States,East,New York,FALSE
+ORD300575,12-04-2024,C50300,Consumer,P8543,Home & Kitchen,Cookware,1,78.45,47.3,0,78.45,0,78.45,31.15,Credit Card,Affiliate,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300561,13-04-2024,C50146,Corporate,P1147,Sports,Fitness,4,16.28,11.71,0,65.12,0,65.12,18.28,Credit Card,Paid Search,Standard,3.99,7,Germany,Berlin,Berlin,TRUE
+ORD300622,16-04-2024,C50048,Consumer,P9945,Home & Kitchen,Decor,1,64.79,39.68,0,64.79,0,64.79,25.11,Credit Card,Direct,Standard,3.99,6,India,North,Jaipur,FALSE
+ORD300843,18-04-2024,C50220,Home Office,P6002,Books,Children's,1,5.17,3.24,0,5.17,0,5.17,1.93,Debit Card,Paid Search,Standard,3.99,7,India,West,Mumbai,FALSE
+ORD300768,19-04-2024,C50207,Consumer,P4119,Beauty,Makeup,2,132.68,58.25,0.3,265.36,79.61,185.75,69.25,Digital Wallet,Organic Search,Standard,3.99,6,United States,South,Atlanta,FALSE
+ORD300551,19-04-2024,C50049,Home Office,P8493,Beauty,Fragrance,1,32.21,12.65,0,32.21,0,32.21,19.56,Credit Card,Social,Standard,3.99,5,India,North,Delhi,FALSE
+ORD300983,20-04-2024,C50047,Consumer,P4131,Electronics,Accessories,1,28.04,21.84,0,28.04,0,28.04,6.2,Debit Card,Paid Search,Standard,3.99,6,India,North,Delhi,FALSE
+ORD300894,21-04-2024,C50159,Corporate,P6759,Fashion,Women's Apparel,2,69.92,32.52,0.15,139.84,20.98,118.86,53.82,PayPal,Organic Search,Standard,3.99,8,India,West,Pune,FALSE
+ORD300076,21-04-2024,C50093,Consumer,P9807,Beauty,Skincare,1,8.38,4.09,0,8.38,0,8.38,4.29,Debit Card,Paid Search,Standard,3.99,7,United Kingdom,England,London,FALSE
+ORD300087,22-04-2024,C50225,Corporate,P5319,Books,Non-fiction,1,12.74,9.59,0,12.74,0,12.74,3.15,PayPal,Social,Standard,3.99,5,Australia,Queensland,Brisbane,FALSE
+ORD300979,22-04-2024,C50281,Home Office,P2348,Beauty,Makeup,1,9.09,3.9,0,9.09,0,9.09,5.19,Debit Card,Paid Search,Standard,3.99,7,United States,South,Atlanta,TRUE
+ORD300189,23-04-2024,C50292,Home Office,P5997,Electronics,Smartphones,2,1551.84,1186.12,0.1,3103.68,310.37,2793.31,421.07,Cash on Delivery,Paid Search,Standard,3.99,4,United States,Central,Kansas City,FALSE
+ORD300474,23-04-2024,C50269,Consumer,P4925,Sports,Outdoor,1,32.38,19.54,0,32.38,0,32.38,12.84,Credit Card,Social,Standard,3.99,8,United Kingdom,Scotland,Glasgow,FALSE
+ORD300397,25-04-2024,C50015,Corporate,P1324,Books,Children's,1,10.56,6.84,0,10.56,0,10.56,3.72,Credit Card,Organic Search,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300227,28-04-2024,C50053,Consumer,P5579,Beauty,Makeup,2,37.94,16.09,0,75.88,0,75.88,43.7,Cash on Delivery,Organic Search,Standard,3.99,8,India,South,Bengaluru,FALSE
+ORD300048,28-04-2024,C50098,Consumer,P2075,Fashion,Footwear,1,122.6,64.5,0,122.6,0,122.6,58.1,Credit Card,Organic Search,Same-Day,19.99,0,United States,West,San Francisco,TRUE
+ORD300266,28-04-2024,C50133,Consumer,P9543,Sports,Cycling,1,75.77,44.37,0,75.77,0,75.77,31.4,Credit Card,Social,Standard,3.99,5,United Kingdom,Wales,Swansea,FALSE
+ORD300218,29-04-2024,C50320,Consumer,P4539,Fashion,Women's Apparel,2,26.36,10.25,0.2,52.72,10.54,42.18,21.68,Credit Card,Organic Search,Standard,3.99,6,United States,South,Austin,FALSE
+ORD300410,30-04-2024,C50070,Corporate,P4599,Home & Kitchen,Decor,1,27.6,14.71,0,27.6,0,27.6,12.89,Credit Card,Paid Search,Standard,3.99,8,United States,West,Seattle,FALSE
+ORD300271,01-05-2024,C50165,Consumer,P6994,Electronics,Headphones,1,96.52,74.61,0,96.52,0,96.52,21.91,PayPal,Social,Express,9.99,2,Australia,Victoria,Geelong,FALSE
+ORD300660,01-05-2024,C50154,Consumer,P9105,Beauty,Fragrance,1,10.88,4.59,0,10.88,0,10.88,6.29,Credit Card,Organic Search,Standard,3.99,5,United States,Central,Chicago,FALSE
+ORD300489,02-05-2024,C50286,Consumer,P4239,Fashion,Women's Apparel,1,20.11,9.31,0.1,20.11,2.01,18.1,8.79,Debit Card,Direct,Express,9.99,3,United States,Central,Kansas City,FALSE
+ORD300772,03-05-2024,C50067,Consumer,P9096,Electronics,Headphones,1,163.13,128.66,0,163.13,0,163.13,34.47,Cash on Delivery,Social,Express,9.99,4,Australia,Victoria,Melbourne,FALSE
+ORD300106,05-05-2024,C50080,Consumer,P2671,Electronics,Accessories,1,320.13,242.68,0.05,320.13,16.01,304.12,61.44,Debit Card,Organic Search,Standard,3.99,4,India,South,Bengaluru,FALSE
+ORD300612,05-05-2024,C50087,Consumer,P9046,Electronics,Accessories,1,181.15,148.16,0,181.15,0,181.15,32.99,Cash on Delivery,Paid Search,Standard,3.99,7,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300215,06-05-2024,C50216,Consumer,P3053,Electronics,Cameras,1,133.73,97.12,0,133.73,0,133.73,36.61,PayPal,Paid Search,Standard,3.99,4,United States,South,Atlanta,FALSE
+ORD300901,06-05-2024,C50178,Consumer,P7458,Fashion,Bags,2,120.82,52.56,0.2,241.64,48.33,193.31,88.19,PayPal,Paid Search,Standard,3.99,5,India,South,Bengaluru,FALSE
+ORD300260,07-05-2024,C50053,Consumer,P4106,Electronics,Cameras,3,167.32,157.2,0.05,501.96,25.1,476.86,5.26,Credit Card,Direct,Express,9.99,3,India,South,Bengaluru,FALSE
+ORD300091,08-05-2024,C50041,Consumer,P8122,Sports,Cycling,1,54.19,36.98,0.15,54.19,8.13,46.06,9.08,Debit Card,Affiliate,Express,9.99,3,United States,West,Seattle,FALSE
+ORD300635,08-05-2024,C50005,Home Office,P8971,Fashion,Men's Apparel,1,242.67,106.85,0,242.67,0,242.67,135.82,PayPal,Email,Standard,3.99,6,Germany,Hesse,Frankfurt,FALSE
+ORD300956,09-05-2024,C50050,Consumer,P9882,Sports,Outdoor,1,23.37,13.81,0,23.37,0,23.37,9.56,Credit Card,Affiliate,Standard,3.99,8,United States,Central,Kansas City,FALSE
+ORD300470,09-05-2024,C50275,Consumer,P9545,Books,Fiction,1,5.82,4.81,0,5.82,0,5.82,1.01,PayPal,Email,Standard,3.99,7,United States,East,New York,FALSE
+ORD300950,09-05-2024,C50224,Consumer,P6256,Electronics,Laptops,1,70.3,56.6,0,70.3,0,70.3,13.7,Credit Card,Paid Search,Standard,3.99,8,Australia,Queensland,Gold Coast,FALSE
+ORD300467,12-05-2024,C50214,Consumer,P4087,Home & Kitchen,Decor,1,217.65,114.01,0.15,217.65,32.65,185,70.99,PayPal,Organic Search,Standard,3.99,7,United States,South,Austin,FALSE
+ORD300812,14-05-2024,C50306,Consumer,P8429,Home & Kitchen,Cookware,2,186.58,116.08,0,373.16,0,373.16,141,Credit Card,Paid Search,Standard,3.99,7,Germany,Bavaria,Nuremberg,FALSE
+ORD300576,14-05-2024,C50214,Consumer,P2975,Books,Fiction,1,29.45,21.89,0.3,29.45,8.83,20.62,-1.27,Debit Card,Affiliate,Standard,3.99,7,United States,South,Austin,FALSE
+ORD300485,17-05-2024,C50141,Consumer,P7570,Books,Children's,1,9.45,6.85,0,9.45,0,9.45,2.6,Cash on Delivery,Organic Search,Express,9.99,3,United States,East,New York,FALSE
+ORD300357,18-05-2024,C50187,Consumer,P5406,Electronics,Headphones,1,55.68,41.24,0,55.68,0,55.68,14.44,PayPal,Social,Standard,3.99,4,Germany,Hesse,Wiesbaden,FALSE
+ORD300505,18-05-2024,C50143,Corporate,P5857,Fashion,Men's Apparel,2,57.69,28.86,0,115.38,0,115.38,57.66,Digital Wallet,Direct,Standard,3.99,7,United Kingdom,England,Manchester,FALSE
+ORD300829,19-05-2024,C50216,Consumer,P6442,Home & Kitchen,Appliances,1,173.78,93.24,0.15,173.78,26.07,147.71,54.47,PayPal,Paid Search,Standard,3.99,5,United States,South,Atlanta,FALSE
+ORD300564,20-05-2024,C50148,Corporate,P3307,Fashion,Women's Apparel,1,28.84,12.61,0,28.84,0,28.84,16.23,Credit Card,Organic Search,Standard,3.99,4,United States,Central,Kansas City,FALSE
+ORD300240,20-05-2024,C50261,Home Office,P9552,Home & Kitchen,Decor,1,34.99,21.26,0,34.99,0,34.99,13.73,Credit Card,Paid Search,Express,9.99,4,United States,East,Boston,FALSE
+ORD300415,21-05-2024,C50171,Consumer,P4473,Electronics,Accessories,3,176.21,136.64,0.1,528.63,52.86,475.77,65.85,Credit Card,Organic Search,Standard,3.99,7,United Kingdom,Wales,Cardiff,FALSE
+ORD300140,22-05-2024,C50088,Consumer,P9161,Books,Fiction,1,9.56,7.24,0,9.56,0,9.56,2.32,Debit Card,Organic Search,Standard,3.99,5,United States,South,Atlanta,FALSE
+ORD300450,23-05-2024,C50118,Consumer,P9289,Beauty,Makeup,1,103.41,45.08,0.1,103.41,10.34,93.07,47.99,PayPal,Social,Standard,3.99,5,United States,West,Denver,FALSE
+ORD300301,24-05-2024,C50046,Consumer,P1609,Sports,Fitness,1,39.26,21.08,0,39.26,0,39.26,18.18,PayPal,Organic Search,Standard,3.99,6,United States,West,Seattle,FALSE
+ORD300454,27-05-2024,C50175,Corporate,P3527,Electronics,Headphones,1,33.02,26.59,0,33.02,0,33.02,6.43,Debit Card,Direct,Standard,3.99,5,India,South,Bengaluru,FALSE
+ORD300206,28-05-2024,C50173,Corporate,P4325,Home & Kitchen,Furniture,1,516.64,284.22,0,516.64,0,516.64,232.42,Credit Card,Direct,Standard,3.99,7,United Kingdom,England,Manchester,FALSE
+ORD300452,01-06-2024,C50338,Consumer,P7860,Beauty,Makeup,1,60.87,25.75,0,60.87,0,60.87,35.12,Credit Card,Email,Standard,3.99,7,United States,East,Boston,TRUE
+ORD300321,01-06-2024,C50069,Consumer,P2265,Home & Kitchen,Cookware,1,189.22,107.68,0.05,189.22,9.46,179.76,72.08,Credit Card,Social,Standard,3.99,4,United States,West,San Francisco,FALSE
+ORD300967,02-06-2024,C50197,Home Office,P8419,Fashion,Women's Apparel,1,21.45,8.36,0.1,21.45,2.15,19.3,10.94,Digital Wallet,Social,Standard,3.99,6,Australia,NSW,Newcastle,TRUE
+ORD300702,03-06-2024,C50145,Corporate,P8193,Electronics,Smartphones,4,126.11,96.96,0,504.44,0,504.44,116.6,Credit Card,Paid Search,Standard,3.99,5,United States,West,Denver,FALSE
+ORD300846,04-06-2024,C50009,Corporate,P3638,Electronics,Laptops,1,47.55,37.19,0,47.55,0,47.55,10.36,Credit Card,Social,Same-Day,19.99,1,United States,East,Boston,FALSE
+ORD300594,04-06-2024,C50199,Home Office,P9197,Books,Fiction,4,38.97,26.39,0,155.88,0,155.88,50.32,Credit Card,Email,Standard,3.99,8,United States,West,Seattle,FALSE
+ORD300335,04-06-2024,C50152,Consumer,P3456,Electronics,Accessories,1,47.04,36.17,0.3,47.04,14.11,32.93,-3.24,PayPal,Organic Search,Express,9.99,2,India,East,Kolkata,FALSE
+ORD300782,05-06-2024,C50087,Consumer,P3425,Books,Fiction,1,28.09,19.09,0,28.09,0,28.09,9,Digital Wallet,Email,Standard,3.99,5,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300377,06-06-2024,C50127,Consumer,P4363,Electronics,Smartphones,4,103.19,87.1,0,412.76,0,412.76,64.36,Credit Card,Social,Standard,3.99,6,United States,West,Seattle,FALSE
+ORD300449,06-06-2024,C50008,Home Office,P9364,Sports,Cycling,2,24.02,13.85,0,48.04,0,48.04,20.34,Credit Card,Paid Search,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300398,06-06-2024,C50204,Consumer,P3417,Books,Fiction,3,38.31,26.13,0.1,114.93,11.49,103.44,25.05,Credit Card,Direct,Standard,3.99,5,India,West,Mumbai,FALSE
+ORD300319,06-06-2024,C50318,Consumer,P4777,Home & Kitchen,Decor,2,77.44,50.58,0,154.88,0,154.88,53.72,Cash on Delivery,Direct,Standard,3.99,8,United States,East,New York,FALSE
+ORD300482,06-06-2024,C50294,Home Office,P8935,Fashion,Men's Apparel,1,180.37,72.07,0,180.37,0,180.37,108.3,Cash on Delivery,Email,Express,9.99,3,United Kingdom,Wales,Cardiff,FALSE
+ORD300800,08-06-2024,C50077,Corporate,P6792,Electronics,Laptops,2,40.3,30.82,0.05,80.6,4.03,76.57,14.93,Debit Card,Organic Search,Standard,3.99,7,Germany,Berlin,Berlin,FALSE
+ORD300984,09-06-2024,C50286,Consumer,P5053,Sports,Fitness,1,61.83,32.78,0,61.83,0,61.83,29.05,Debit Card,Direct,Standard,3.99,5,United States,Central,Kansas City,FALSE
+ORD300158,09-06-2024,C50011,Consumer,P6778,Home & Kitchen,Appliances,1,59.56,36.21,0,59.56,0,59.56,23.35,Credit Card,Direct,Standard,3.99,6,India,South,Bengaluru,TRUE
+ORD300326,10-06-2024,C50309,Consumer,P7414,Electronics,Cameras,2,162.81,133.46,0,325.62,0,325.62,58.7,Digital Wallet,Organic Search,Standard,3.99,8,United States,South,Austin,FALSE
+ORD300132,12-06-2024,C50022,Consumer,P2719,Fashion,Women's Apparel,1,52.96,27.02,0.1,52.96,5.3,47.66,20.64,Credit Card,Email,Same-Day,19.99,0,United States,Central,Chicago,FALSE
+ORD300349,12-06-2024,C50137,Consumer,P4496,Electronics,Laptops,1,370.66,268.17,0,370.66,0,370.66,102.49,Debit Card,Paid Search,Express,9.99,3,United Kingdom,England,London,FALSE
+ORD300443,14-06-2024,C50206,Consumer,P9950,Fashion,Bags,1,53.21,23.37,0,53.21,0,53.21,29.84,Credit Card,Paid Search,Express,9.99,2,Germany,Berlin,Berlin,FALSE
+ORD300585,14-06-2024,C50197,Home Office,P2533,Home & Kitchen,Cookware,1,36.51,19.44,0,36.51,0,36.51,17.07,Debit Card,Organic Search,Standard,3.99,6,Australia,NSW,Newcastle,FALSE
+ORD300969,15-06-2024,C50197,Home Office,P1707,Electronics,Cameras,2,198.94,146.72,0,397.88,0,397.88,104.44,Credit Card,Email,Standard,3.99,7,Australia,NSW,Newcastle,FALSE
+ORD300885,16-06-2024,C50299,Consumer,P6710,Fashion,Women's Apparel,2,229.14,116.29,0.4,458.28,183.31,274.97,42.39,PayPal,Organic Search,Standard,3.99,5,India,East,Bhubaneswar,FALSE
+ORD300974,18-06-2024,C50017,Consumer,P5526,Electronics,Accessories,1,299.5,225.17,0,299.5,0,299.5,74.33,Credit Card,Paid Search,Standard,3.99,7,United States,West,Denver,FALSE
+ORD300226,22-06-2024,C50049,Home Office,P2977,Sports,Outdoor,1,22.75,14.51,0,22.75,0,22.75,8.24,Debit Card,Direct,Express,9.99,2,India,North,Delhi,FALSE
+ORD300832,23-06-2024,C50010,Consumer,P2873,Beauty,Makeup,1,60.84,20.82,0,60.84,0,60.84,40.02,Credit Card,Social,Standard,3.99,5,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300657,24-06-2024,C50118,Consumer,P6926,Electronics,Smartphones,1,345.95,271.97,0,345.95,0,345.95,73.98,Digital Wallet,Affiliate,Standard,3.99,7,United States,West,Denver,FALSE
+ORD300714,26-06-2024,C50250,Consumer,P7885,Electronics,Cameras,1,102.88,80.63,0.05,102.88,5.14,97.74,17.11,Credit Card,Affiliate,Express,9.99,2,United Kingdom,Wales,Swansea,FALSE
+ORD300230,27-06-2024,C50283,Consumer,P6115,Fashion,Women's Apparel,1,21.84,10.88,0,21.84,0,21.84,10.96,Credit Card,Direct,Express,9.99,2,United States,South,Austin,FALSE
+ORD300880,27-06-2024,C50157,Corporate,P3502,Beauty,Fragrance,1,85.67,34.37,0.05,85.67,4.28,81.39,47.02,Cash on Delivery,Direct,Express,9.99,4,United Kingdom,Scotland,Glasgow,FALSE
+ORD300700,30-06-2024,C50318,Consumer,P2949,Sports,Cycling,1,497.24,310.35,0,497.24,0,497.24,186.89,Credit Card,Direct,Express,9.99,2,United States,East,New York,FALSE
+ORD300305,02-07-2024,C50176,Home Office,P5423,Electronics,Smartphones,1,36.82,28.73,0.05,36.82,1.84,34.98,6.25,Credit Card,Direct,Express,9.99,4,India,North,Jaipur,TRUE
+ORD300293,02-07-2024,C50307,Consumer,P9506,Sports,Outdoor,1,11.83,6.57,0,11.83,0,11.83,5.26,Debit Card,Paid Search,Standard,3.99,5,India,East,Bhubaneswar,FALSE
+ORD300066,02-07-2024,C50276,Consumer,P1938,Home & Kitchen,Appliances,3,47.01,28.17,0.1,141.03,14.1,126.93,42.42,Credit Card,Social,Standard,3.99,7,United Kingdom,England,London,FALSE
+ORD300742,03-07-2024,C50025,Consumer,P9584,Fashion,Footwear,2,24.6,11.98,0,49.2,0,49.2,25.24,Credit Card,Social,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300527,03-07-2024,C50119,Consumer,P8425,Electronics,Laptops,2,74.28,61.96,0,148.56,0,148.56,24.64,Debit Card,Organic Search,Express,9.99,2,Germany,Hesse,Frankfurt,TRUE
+ORD300822,04-07-2024,C50085,Consumer,P3585,Electronics,Accessories,1,28.41,22.3,0.1,28.41,2.84,25.57,3.27,Credit Card,Affiliate,Standard,3.99,8,Australia,Victoria,Melbourne,FALSE
+ORD300336,06-07-2024,C50241,Consumer,P6633,Books,Fiction,1,24,17.24,0,24,0,24,6.76,Credit Card,Affiliate,Express,9.99,4,India,East,Bhubaneswar,FALSE
+ORD300840,06-07-2024,C50308,Corporate,P7965,Home & Kitchen,Appliances,2,157.12,104.93,0,314.24,0,314.24,104.38,Credit Card,Paid Search,Standard,3.99,6,India,South,Chennai,FALSE
+ORD300670,07-07-2024,C50049,Home Office,P4292,Fashion,Footwear,1,201.9,74.4,0.3,201.9,60.57,141.33,66.93,Cash on Delivery,Paid Search,Standard,3.99,5,India,North,Delhi,FALSE
+ORD300693,07-07-2024,C50252,Home Office,P8379,Books,Non-fiction,1,8.28,5.38,0,8.28,0,8.28,2.9,Digital Wallet,Organic Search,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300031,10-07-2024,C50269,Consumer,P9531,Fashion,Bags,1,192.26,80.3,0,192.26,0,192.26,111.96,Credit Card,Affiliate,Standard,3.99,7,United Kingdom,Scotland,Glasgow,FALSE
+ORD300269,11-07-2024,C50296,Consumer,P4049,Home & Kitchen,Cookware,2,124.43,77.65,0,248.86,0,248.86,93.56,Credit Card,Paid Search,Standard,3.99,7,Australia,Queensland,Gold Coast,FALSE
+ORD300629,11-07-2024,C50172,Consumer,P7440,Fashion,Footwear,2,149.35,52.87,0,298.7,0,298.7,192.96,Cash on Delivery,Organic Search,Same-Day,19.99,1,United States,East,New York,FALSE
+ORD300562,12-07-2024,C50141,Consumer,P8375,Home & Kitchen,Appliances,1,58.94,33.6,0.05,58.94,2.95,55.99,22.39,Credit Card,Email,Standard,3.99,5,United States,East,New York,FALSE
+ORD300799,12-07-2024,C50098,Consumer,P4749,Sports,Fitness,1,74.7,43.86,0,74.7,0,74.7,30.84,PayPal,Social,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300049,13-07-2024,C50249,Home Office,P8345,Fashion,Bags,1,221.47,91.69,0,221.47,0,221.47,129.78,PayPal,Affiliate,Same-Day,19.99,1,United States,East,Boston,FALSE
+ORD300852,15-07-2024,C50329,Consumer,P9093,Electronics,Accessories,1,80.71,63.4,0,80.71,0,80.71,17.31,Credit Card,Email,Express,9.99,2,United States,West,San Francisco,FALSE
+ORD300416,16-07-2024,C50234,Home Office,P6683,Fashion,Women's Apparel,1,191.98,82.48,0,191.98,0,191.98,109.5,Credit Card,Email,Express,9.99,3,United States,East,Boston,FALSE
+ORD300992,17-07-2024,C50236,Consumer,P2250,Fashion,Men's Apparel,1,70.56,29.35,0.2,70.56,14.11,56.45,27.1,Credit Card,Paid Search,Same-Day,19.99,0,India,West,Pune,FALSE
+ORD300322,18-07-2024,C50101,Consumer,P6974,Sports,Fitness,1,365.11,245.26,0.05,365.11,18.26,346.85,101.59,Credit Card,Social,Standard,3.99,6,United States,East,New York,TRUE
+ORD300761,19-07-2024,C50299,Consumer,P4650,Books,Children's,1,34.05,22.64,0,34.05,0,34.05,11.41,Debit Card,Organic Search,Standard,3.99,6,India,East,Bhubaneswar,FALSE
+ORD300543,20-07-2024,C50133,Consumer,P9206,Home & Kitchen,Decor,2,78.38,52.18,0,156.76,0,156.76,52.4,Credit Card,Email,Express,9.99,3,United Kingdom,Wales,Swansea,FALSE
+ORD300134,21-07-2024,C50068,Home Office,P5826,Beauty,Skincare,1,8.91,3.36,0.15,8.91,1.34,7.57,4.21,Credit Card,Social,Same-Day,19.99,1,Germany,Berlin,Berlin,FALSE
+ORD300334,23-07-2024,C50290,Consumer,P2300,Fashion,Footwear,1,106.61,45.37,0,106.61,0,106.61,61.24,Credit Card,Organic Search,Standard,3.99,8,Australia,NSW,Newcastle,FALSE
+ORD300139,25-07-2024,C50332,Consumer,P2785,Fashion,Footwear,1,18.1,8.65,0.1,18.1,1.81,16.29,7.64,Credit Card,Direct,Express,9.99,3,United States,South,Atlanta,FALSE
+ORD300762,26-07-2024,C50241,Consumer,P3741,Sports,Cycling,1,19.67,12.25,0,19.67,0,19.67,7.42,PayPal,Paid Search,Standard,3.99,6,India,East,Bhubaneswar,FALSE
+ORD300749,26-07-2024,C50287,Consumer,P5079,Sports,Cycling,2,409.94,234.65,0.1,819.88,81.99,737.89,268.59,PayPal,Social,Standard,3.99,7,India,West,Mumbai,FALSE
+ORD300354,27-07-2024,C50301,Corporate,P3764,Sports,Cycling,1,12.96,8.26,0.05,12.96,0.65,12.31,4.05,Cash on Delivery,Email,Same-Day,19.99,1,India,North,Delhi,FALSE
+ORD300958,28-07-2024,C50153,Consumer,P4615,Electronics,Headphones,2,253.16,212.66,0,506.32,0,506.32,81,Credit Card,Social,Express,9.99,2,Australia,NSW,Sydney,TRUE
+ORD300614,29-07-2024,C50136,Corporate,P9779,Electronics,Smartphones,1,418.78,322.61,0.2,418.78,83.76,335.02,12.41,PayPal,Organic Search,Standard,3.99,4,United States,East,New York,FALSE
+ORD300052,29-07-2024,C50073,Consumer,P6115,Books,Non-fiction,1,21,15.27,0,21,0,21,5.73,Digital Wallet,Organic Search,Standard,3.99,6,Germany,Bavaria,Munich,FALSE
+ORD300232,29-07-2024,C50047,Consumer,P4947,Sports,Cycling,1,103.3,70.88,0,103.3,0,103.3,32.42,Credit Card,Affiliate,Standard,3.99,8,India,North,Delhi,FALSE
+ORD300414,29-07-2024,C50097,Home Office,P3874,Sports,Fitness,1,13.79,7.92,0.1,13.79,1.38,12.41,4.49,Credit Card,Direct,Express,9.99,4,United Kingdom,England,Manchester,FALSE
+ORD300484,30-07-2024,C50161,Corporate,P7120,Beauty,Fragrance,1,20.17,8.27,0,20.17,0,20.17,11.9,PayPal,Social,Express,9.99,4,United Kingdom,Wales,Swansea,FALSE
+ORD300721,02-08-2024,C50038,Home Office,P4410,Fashion,Bags,1,46.34,20.23,0,46.34,0,46.34,26.11,Credit Card,Organic Search,Express,9.99,3,United States,South,Austin,FALSE
+ORD300201,02-08-2024,C50069,Consumer,P8066,Sports,Fitness,1,656.07,428.75,0,656.07,0,656.07,227.32,PayPal,Direct,Standard,3.99,7,United States,West,San Francisco,FALSE
+ORD300223,02-08-2024,C50089,Consumer,P8989,Sports,Cycling,2,34.79,21.67,0.05,69.58,3.48,66.1,22.76,Digital Wallet,Organic Search,Same-Day,19.99,0,India,South,Bengaluru,FALSE
+ORD300469,03-08-2024,C50223,Consumer,P3094,Sports,Outdoor,1,480.11,273.62,0.2,480.11,96.02,384.09,110.47,Credit Card,Organic Search,Standard,3.99,8,India,North,Delhi,FALSE
+ORD300566,04-08-2024,C50233,Corporate,P6328,Fashion,Footwear,1,139.67,70.53,0,139.67,0,139.67,69.14,Digital Wallet,Social,Standard,3.99,6,United States,East,Boston,FALSE
+ORD300524,04-08-2024,C50075,Corporate,P3503,Electronics,Headphones,1,1280.04,1073.95,0,1280.04,0,1280.04,206.09,Debit Card,Organic Search,Express,9.99,3,United Kingdom,Scotland,Glasgow,TRUE
+ORD300610,05-08-2024,C50210,Consumer,P6054,Home & Kitchen,Furniture,1,19.73,12.32,0.3,19.73,5.92,13.81,1.49,Cash on Delivery,Direct,Same-Day,19.99,1,Australia,NSW,Sydney,FALSE
+ORD300146,07-08-2024,C50097,Home Office,P5487,Home & Kitchen,Decor,2,722.27,399.39,0,1444.54,0,1444.54,645.76,Debit Card,Organic Search,Standard,3.99,4,United Kingdom,England,Manchester,FALSE
+ORD300601,07-08-2024,C50242,Consumer,P3745,Electronics,Headphones,1,52.52,38.47,0,52.52,0,52.52,14.05,PayPal,Affiliate,Standard,3.99,5,India,South,Chennai,FALSE
+ORD300239,09-08-2024,C50105,Consumer,P6409,Home & Kitchen,Furniture,1,130.94,72.71,0,130.94,0,130.94,58.23,Credit Card,Paid Search,Standard,3.99,7,United States,South,Atlanta,FALSE
+ORD300225,14-08-2024,C50240,Consumer,P7808,Electronics,Accessories,1,28.5,22.19,0,28.5,0,28.5,6.31,Credit Card,Paid Search,Express,9.99,4,India,North,Delhi,FALSE
+ORD300366,19-08-2024,C50223,Consumer,P5530,Home & Kitchen,Cookware,1,215.85,138.87,0,215.85,0,215.85,76.98,Debit Card,Social,Standard,3.99,6,India,North,Delhi,FALSE
+ORD300179,20-08-2024,C50138,Corporate,P9619,Fashion,Women's Apparel,5,194.79,79.05,0,973.95,0,973.95,578.7,Debit Card,Organic Search,Standard,3.99,8,United States,East,Boston,TRUE
+ORD300784,20-08-2024,C50025,Consumer,P7037,Beauty,Fragrance,1,8.17,2.55,0,8.17,0,8.17,5.62,PayPal,Social,Express,9.99,3,United States,East,Boston,FALSE
+ORD300328,20-08-2024,C50234,Home Office,P4964,Fashion,Footwear,1,30.39,13.58,0,30.39,0,30.39,16.81,Digital Wallet,Email,Standard,3.99,7,United States,East,Boston,TRUE
+ORD300373,21-08-2024,C50119,Consumer,P6625,Fashion,Women's Apparel,1,33.8,15.05,0.15,33.8,5.07,28.73,13.68,PayPal,Social,Standard,3.99,7,Germany,Hesse,Frankfurt,FALSE
+ORD300962,22-08-2024,C50250,Consumer,P4394,Home & Kitchen,Decor,3,21.51,13.12,0,64.53,0,64.53,25.17,PayPal,Email,Standard,3.99,8,United Kingdom,Wales,Swansea,FALSE
+ORD300162,22-08-2024,C50198,Consumer,P8746,Fashion,Footwear,1,182.9,79.23,0.1,182.9,18.29,164.61,85.38,Credit Card,Organic Search,Standard,3.99,7,India,East,Bhubaneswar,FALSE
+ORD300045,22-08-2024,C50249,Home Office,P3552,Fashion,Footwear,3,46.48,20.06,0,139.44,0,139.44,79.26,Credit Card,Organic Search,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300604,23-08-2024,C50328,Consumer,P7496,Beauty,Skincare,5,74.53,30.08,0.1,372.65,37.27,335.38,184.98,PayPal,Paid Search,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300345,24-08-2024,C50174,Corporate,P2926,Electronics,Laptops,1,32.14,25.68,0.15,32.14,4.82,27.32,1.64,Digital Wallet,Organic Search,Standard,3.99,6,India,West,Mumbai,FALSE
+ORD300888,24-08-2024,C50304,Consumer,P8095,Home & Kitchen,Appliances,1,437.28,268.73,0,437.28,0,437.28,168.55,Debit Card,Organic Search,Standard,3.99,8,United States,Central,Kansas City,FALSE
+ORD300823,27-08-2024,C50076,Consumer,P9584,Books,Non-fiction,1,19.09,13.4,0.05,19.09,0.95,18.14,4.74,Credit Card,Organic Search,Standard,3.99,5,United Kingdom,Wales,Cardiff,FALSE
+ORD300249,28-08-2024,C50201,Consumer,P6764,Home & Kitchen,Appliances,1,290.53,199.49,0,290.53,0,290.53,91.04,Digital Wallet,Organic Search,Express,9.99,4,United Kingdom,England,London,FALSE
+ORD300653,29-08-2024,C50070,Corporate,P1022,Fashion,Footwear,1,75.78,28.31,0,75.78,0,75.78,47.47,Debit Card,Affiliate,Express,9.99,2,United States,West,Seattle,FALSE
+ORD300783,29-08-2024,C50205,Corporate,P7056,Fashion,Men's Apparel,2,247.08,107.98,0.1,494.16,49.42,444.74,228.78,PayPal,Affiliate,Standard,3.99,4,United States,East,New York,FALSE
+ORD300362,29-08-2024,C50115,Consumer,P9313,Sports,Cycling,1,169.47,110.69,0.3,169.47,50.84,118.63,7.94,Cash on Delivery,Paid Search,Standard,3.99,8,India,West,Mumbai,FALSE
+ORD300102,29-08-2024,C50279,Consumer,P7771,Beauty,Fragrance,1,15.25,5.29,0,15.25,0,15.25,9.96,Digital Wallet,Paid Search,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300346,31-08-2024,C50021,Consumer,P2810,Electronics,Laptops,2,93.45,76.66,0,186.9,0,186.9,33.58,Debit Card,Direct,Same-Day,19.99,0,United Kingdom,Wales,Swansea,FALSE
+ORD300717,31-08-2024,C50309,Consumer,P9408,Beauty,Makeup,1,65.39,24.78,0.15,65.39,9.81,55.58,30.8,Credit Card,Social,Express,9.99,4,United States,South,Austin,FALSE
+ORD300626,31-08-2024,C50263,Consumer,P5102,Beauty,Fragrance,1,47.84,20.81,0,47.84,0,47.84,27.03,Credit Card,Organic Search,Standard,3.99,7,United States,West,Denver,FALSE
+ORD300259,02-09-2024,C50244,Consumer,P9164,Fashion,Women's Apparel,1,14.37,6.83,0,14.37,0,14.37,7.54,Credit Card,Affiliate,Standard,3.99,6,United States,West,Denver,FALSE
+ORD300526,02-09-2024,C50133,Consumer,P4379,Electronics,Accessories,1,40.4,35.72,0,40.4,0,40.4,4.68,Cash on Delivery,Affiliate,Standard,3.99,4,United Kingdom,Wales,Swansea,TRUE
+ORD300481,03-09-2024,C50131,Consumer,P3528,Electronics,Accessories,1,40.6,29.8,0,40.6,0,40.6,10.8,Credit Card,Email,Express,9.99,2,United States,Central,Chicago,FALSE
+ORD300069,05-09-2024,C50170,Consumer,P7353,Books,Children's,1,38.48,26.64,0,38.48,0,38.48,11.84,Credit Card,Paid Search,Express,9.99,3,Australia,Queensland,Gold Coast,FALSE
+ORD300224,05-09-2024,C50097,Home Office,P8546,Home & Kitchen,Decor,1,16.54,9.72,0.05,16.54,0.83,15.71,5.99,Debit Card,Email,Express,9.99,4,United Kingdom,England,Manchester,FALSE
+ORD300392,07-09-2024,C50184,Home Office,P9402,Electronics,Smartphones,3,599.94,498.33,0,1799.82,0,1799.82,304.83,Debit Card,Social,Express,9.99,3,United States,West,San Francisco,FALSE
+ORD300234,08-09-2024,C50024,Consumer,P4880,Electronics,Accessories,1,619.88,536.76,0,619.88,0,619.88,83.12,Credit Card,Organic Search,Standard,3.99,6,United States,Central,Chicago,FALSE
+ORD300739,08-09-2024,C50301,Corporate,P1075,Electronics,Accessories,1,963.43,802.25,0.05,963.43,48.17,915.26,113.01,Credit Card,Affiliate,Standard,3.99,7,India,North,Delhi,FALSE
+ORD300638,08-09-2024,C50068,Home Office,P9329,Electronics,Cameras,1,114.19,95.71,0,114.19,0,114.19,18.48,Credit Card,Paid Search,Express,9.99,2,Germany,Berlin,Berlin,FALSE
+ORD300732,09-09-2024,C50292,Home Office,P7500,Beauty,Skincare,1,73.13,32.05,0,73.13,0,73.13,41.08,Credit Card,Paid Search,Standard,3.99,4,United States,Central,Kansas City,FALSE
+ORD300570,10-09-2024,C50015,Corporate,P9127,Beauty,Fragrance,1,70.11,33.52,0,70.11,0,70.11,36.59,Credit Card,Affiliate,Standard,3.99,7,United States,West,San Francisco,FALSE
+ORD300358,11-09-2024,C50048,Consumer,P1974,Electronics,Headphones,1,26.54,20.44,0,26.54,0,26.54,6.1,PayPal,Affiliate,Express,9.99,3,India,North,Jaipur,FALSE
+ORD300212,14-09-2024,C50166,Consumer,P7010,Home & Kitchen,Cookware,2,37.24,21.18,0,74.48,0,74.48,32.12,Digital Wallet,Paid Search,Standard,3.99,5,India,East,Bhubaneswar,FALSE
+ORD300910,14-09-2024,C50018,Corporate,P1619,Electronics,Laptops,1,74.09,58.26,0,74.09,0,74.09,15.83,Credit Card,Social,Standard,3.99,6,United States,East,New York,TRUE
+ORD300084,14-09-2024,C50270,Consumer,P7953,Beauty,Makeup,2,15.53,5.28,0,31.06,0,31.06,20.5,Digital Wallet,Organic Search,Standard,3.99,6,India,East,Kolkata,FALSE
+ORD300991,15-09-2024,C50287,Consumer,P1838,Electronics,Smartphones,2,388.58,306.59,0,777.16,0,777.16,163.98,Debit Card,Organic Search,Standard,3.99,5,India,West,Mumbai,FALSE
+ORD300855,16-09-2024,C50214,Consumer,P5353,Electronics,Accessories,1,56.1,42.04,0,56.1,0,56.1,14.06,Digital Wallet,Social,Standard,3.99,4,United States,South,Austin,FALSE
+ORD300933,17-09-2024,C50109,Consumer,P3461,Sports,Outdoor,1,25.77,18,0,25.77,0,25.77,7.77,Credit Card,Social,Standard,3.99,7,India,South,Bengaluru,FALSE
+ORD300981,17-09-2024,C50131,Consumer,P4056,Beauty,Makeup,2,8.36,2.73,0,16.72,0,16.72,11.26,Cash on Delivery,Organic Search,Express,9.99,4,United States,Central,Chicago,FALSE
+ORD300661,17-09-2024,C50147,Consumer,P4164,Home & Kitchen,Furniture,2,461.61,267.92,0,923.22,0,923.22,387.38,Debit Card,Email,Standard,3.99,4,United States,East,Boston,FALSE
+ORD300893,18-09-2024,C50198,Consumer,P2927,Home & Kitchen,Appliances,1,57.9,32.78,0,57.9,0,57.9,25.12,Digital Wallet,Email,Standard,3.99,7,India,East,Bhubaneswar,FALSE
+ORD300756,20-09-2024,C50098,Consumer,P5634,Electronics,Laptops,2,441.27,347.74,0.05,882.54,44.13,838.41,142.93,Credit Card,Organic Search,Express,9.99,3,United States,West,San Francisco,FALSE
+ORD300995,23-09-2024,C50066,Consumer,P6237,Beauty,Fragrance,1,12.56,6.33,0,12.56,0,12.56,6.23,Cash on Delivery,Social,Standard,3.99,4,India,West,Pune,FALSE
+ORD300891,23-09-2024,C50146,Corporate,P6999,Electronics,Accessories,5,25.3,19.73,0.15,126.5,18.97,107.53,8.88,Cash on Delivery,Social,Same-Day,19.99,0,Germany,Berlin,Berlin,FALSE
+ORD300925,24-09-2024,C50034,Consumer,P1842,Home & Kitchen,Cookware,3,46.31,28.65,0,138.93,0,138.93,52.98,Debit Card,Direct,Standard,3.99,8,United States,South,Atlanta,FALSE
+ORD300365,24-09-2024,C50049,Home Office,P1169,Fashion,Men's Apparel,1,29.01,12.18,0,29.01,0,29.01,16.83,Cash on Delivery,Social,Express,9.99,2,India,North,Delhi,FALSE
+ORD300955,24-09-2024,C50279,Consumer,P7810,Electronics,Smartphones,1,336.44,257.27,0,336.44,0,336.44,79.17,Credit Card,Paid Search,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300676,25-09-2024,C50150,Consumer,P3200,Electronics,Headphones,1,37.64,27.78,0,37.64,0,37.64,9.86,PayPal,Social,Standard,3.99,4,Germany,Berlin,Berlin,FALSE
+ORD300976,26-09-2024,C50227,Consumer,P6494,Home & Kitchen,Furniture,1,95.79,57.35,0.1,95.79,9.58,86.21,28.86,Debit Card,Organic Search,Express,9.99,2,United States,West,Seattle,FALSE
+ORD300009,26-09-2024,C50260,Corporate,P8453,Electronics,Cameras,1,483.92,357.29,0.3,483.92,145.18,338.74,-18.55,Credit Card,Affiliate,Standard,3.99,5,Australia,Victoria,Melbourne,TRUE
+ORD300242,27-09-2024,C50156,Consumer,P3488,Fashion,Footwear,1,17.46,6.53,0,17.46,0,17.46,10.93,Credit Card,Paid Search,Express,9.99,3,United States,Central,Kansas City,FALSE
+ORD300339,28-09-2024,C50328,Consumer,P5920,Electronics,Cameras,1,823.96,647.51,0,823.96,0,823.96,176.45,Credit Card,Paid Search,Standard,3.99,5,United States,West,San Francisco,FALSE
+ORD300513,30-09-2024,C50036,Corporate,P6889,Electronics,Accessories,1,206.61,166.87,0,206.61,0,206.61,39.74,Cash on Delivery,Social,Standard,3.99,5,United States,South,Austin,FALSE
+ORD300022,02-10-2024,C50289,Consumer,P6249,Beauty,Skincare,1,11.37,3.91,0,11.37,0,11.37,7.46,Debit Card,Email,Standard,3.99,7,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300959,02-10-2024,C50273,Consumer,P9514,Electronics,Laptops,1,531.33,438.21,0,531.33,0,531.33,93.12,Digital Wallet,Paid Search,Express,9.99,3,United States,East,Boston,FALSE
+ORD300734,02-10-2024,C50274,Corporate,P7396,Electronics,Laptops,1,169.93,144.29,0.05,169.93,8.5,161.43,17.14,Credit Card,Email,Same-Day,19.99,0,United States,Central,Chicago,FALSE
+ORD300519,03-10-2024,C50263,Consumer,P8144,Fashion,Women's Apparel,1,75.65,32.25,0,75.65,0,75.65,43.4,Debit Card,Social,Standard,3.99,8,United States,West,Denver,FALSE
+ORD300075,03-10-2024,C50000,Consumer,P6385,Home & Kitchen,Appliances,2,95.84,51.74,0,191.68,0,191.68,88.2,Debit Card,Paid Search,Standard,3.99,5,United Kingdom,England,London,FALSE
+ORD300385,06-10-2024,C50142,Consumer,P5819,Home & Kitchen,Furniture,2,146.88,79.83,0,293.76,0,293.76,134.1,Credit Card,Social,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300012,06-10-2024,C50158,Consumer,P3890,Fashion,Footwear,1,91.23,38.75,0,91.23,0,91.23,52.48,Cash on Delivery,Social,Standard,3.99,6,India,North,Jaipur,FALSE
+ORD300987,07-10-2024,C50306,Consumer,P6844,Sports,Cycling,3,672.58,451.15,0.05,2017.74,100.89,1916.85,563.4,Cash on Delivery,Affiliate,Standard,3.99,7,Germany,Bavaria,Nuremberg,FALSE
+ORD300034,09-10-2024,C50308,Corporate,P8323,Fashion,Men's Apparel,1,202.76,74.13,0.4,202.76,81.1,121.66,47.53,Cash on Delivery,Email,Express,9.99,4,India,South,Chennai,FALSE
+ORD300597,09-10-2024,C50182,Consumer,P2509,Electronics,Smartphones,2,484.6,401.66,0.3,969.2,290.76,678.44,-124.88,Debit Card,Organic Search,Standard,3.99,4,United Kingdom,England,London,FALSE
+ORD300909,10-10-2024,C50211,Consumer,P9930,Electronics,Accessories,1,256.46,205.08,0.05,256.46,12.82,243.64,38.56,Credit Card,Organic Search,Express,9.99,2,United States,West,San Francisco,FALSE
+ORD300327,11-10-2024,C50009,Corporate,P3087,Fashion,Men's Apparel,1,129.55,52.8,0,129.55,0,129.55,76.75,PayPal,Social,Same-Day,19.99,0,United States,East,Boston,FALSE
+ORD300752,12-10-2024,C50289,Consumer,P3721,Electronics,Cameras,2,193.12,139.22,0,386.24,0,386.24,107.8,Credit Card,Organic Search,Express,9.99,3,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300779,12-10-2024,C50016,Corporate,P5121,Sports,Fitness,1,179.9,111.37,0,179.9,0,179.9,68.53,Cash on Delivery,Paid Search,Standard,3.99,5,India,South,Bengaluru,FALSE
+ORD300815,13-10-2024,C50034,Consumer,P9148,Beauty,Makeup,1,12.49,5.69,0.2,12.49,2.5,9.99,4.3,Cash on Delivery,Organic Search,Same-Day,19.99,1,United States,South,Atlanta,FALSE
+ORD300182,14-10-2024,C50230,Corporate,P3307,Electronics,Cameras,5,126.76,94.94,0,633.8,0,633.8,159.1,PayPal,Organic Search,Express,9.99,4,United States,Central,Chicago,FALSE
+ORD300975,14-10-2024,C50100,Consumer,P7862,Sports,Fitness,2,52.59,32.22,0.1,105.18,10.52,94.66,30.22,Credit Card,Direct,Express,9.99,4,Australia,Queensland,Gold Coast,FALSE
+ORD300058,17-10-2024,C50122,Consumer,P3342,Fashion,Men's Apparel,4,18.13,8.51,0.1,72.52,7.25,65.27,31.23,Credit Card,Organic Search,Express,9.99,4,Australia,Queensland,Brisbane,FALSE
+ORD300200,17-10-2024,C50064,Corporate,P5528,Electronics,Headphones,2,35.22,25.1,0,70.44,0,70.44,20.24,Credit Card,Paid Search,Standard,3.99,6,United Kingdom,England,London,FALSE
+ORD300724,18-10-2024,C50142,Consumer,P2824,Home & Kitchen,Cookware,1,119.69,75.52,0,119.69,0,119.69,44.17,Cash on Delivery,Affiliate,Standard,3.99,4,United States,East,Boston,FALSE
+ORD300198,19-10-2024,C50005,Home Office,P7437,Electronics,Cameras,1,271.53,189.78,0.1,271.53,27.15,244.38,54.6,Credit Card,Paid Search,Standard,3.99,8,Germany,Hesse,Frankfurt,FALSE
+ORD300164,21-10-2024,C50074,Consumer,P2156,Electronics,Accessories,1,456.52,399.09,0,456.52,0,456.52,57.43,Credit Card,Social,Express,9.99,2,United States,West,Seattle,FALSE
+ORD300284,22-10-2024,C50220,Home Office,P3339,Electronics,Laptops,1,865,776.08,0,865,0,865,88.92,PayPal,Organic Search,Standard,3.99,6,India,West,Mumbai,FALSE
+ORD300196,23-10-2024,C50261,Home Office,P4120,Beauty,Skincare,2,32.4,13.74,0,64.8,0,64.8,37.32,PayPal,Organic Search,Express,9.99,2,United States,East,Boston,FALSE
+ORD300344,24-10-2024,C50211,Consumer,P9747,Fashion,Footwear,1,25.96,11.13,0.4,25.96,10.38,15.58,4.45,Digital Wallet,Affiliate,Express,9.99,2,United States,West,San Francisco,FALSE
+ORD300567,26-10-2024,C50080,Consumer,P8910,Electronics,Headphones,1,42.26,35.84,0,42.26,0,42.26,6.42,Cash on Delivery,Email,Standard,3.99,7,India,South,Bengaluru,FALSE
+ORD300851,26-10-2024,C50204,Consumer,P7590,Electronics,Accessories,2,46.55,41.11,0,93.1,0,93.1,10.88,Cash on Delivery,Organic Search,Standard,3.99,4,India,West,Mumbai,FALSE
+ORD300619,26-10-2024,C50200,Consumer,P9178,Electronics,Laptops,1,77.29,62.02,0.15,77.29,11.59,65.7,3.68,Credit Card,Email,Standard,3.99,4,United States,Central,Kansas City,FALSE
+ORD300668,27-10-2024,C50149,Consumer,P4993,Sports,Fitness,1,616.75,365.65,0.1,616.75,61.68,555.07,189.42,Credit Card,Organic Search,Standard,3.99,4,United States,East,New York,FALSE
+ORD300656,27-10-2024,C50089,Consumer,P8855,Home & Kitchen,Decor,4,44.66,26.42,0.15,178.64,26.8,151.84,46.16,Digital Wallet,Email,Standard,3.99,6,India,South,Bengaluru,FALSE
+ORD300502,28-10-2024,C50228,Consumer,P3889,Fashion,Footwear,1,192.16,79.95,0.3,192.16,57.65,134.51,54.56,PayPal,Email,Standard,3.99,7,Germany,Hesse,Wiesbaden,FALSE
+ORD300150,28-10-2024,C50209,Consumer,P1748,Beauty,Skincare,1,10.26,3.32,0,10.26,0,10.26,6.94,PayPal,Paid Search,Standard,3.99,4,United States,Central,Kansas City,FALSE
+ORD300190,29-10-2024,C50202,Consumer,P9275,Sports,Cycling,1,388.14,235.2,0.3,388.14,116.44,271.7,36.5,PayPal,Organic Search,Standard,3.99,5,United Kingdom,Wales,Swansea,FALSE
+ORD300522,29-10-2024,C50316,Consumer,P6943,Beauty,Skincare,1,14.61,5.49,0.1,14.61,1.46,13.15,7.66,Credit Card,Paid Search,Same-Day,19.99,1,United States,West,Seattle,FALSE
+ORD300290,30-10-2024,C50266,Home Office,P9555,Home & Kitchen,Furniture,1,379.13,216.69,0,379.13,0,379.13,162.44,Debit Card,Organic Search,Express,9.99,3,United States,South,Austin,FALSE
+ORD300123,31-10-2024,C50089,Consumer,P5826,Electronics,Headphones,1,325.72,291.56,0,325.72,0,325.72,34.16,Debit Card,Direct,Standard,3.99,4,India,South,Bengaluru,FALSE
+ORD300580,31-10-2024,C50331,Consumer,P8475,Home & Kitchen,Cookware,1,206.8,135.31,0,206.8,0,206.8,71.49,Credit Card,Organic Search,Standard,3.99,6,Australia,Victoria,Geelong,FALSE
+ORD300309,31-10-2024,C50105,Consumer,P8768,Electronics,Smartphones,2,867.16,656.25,0,1734.32,0,1734.32,421.82,PayPal,Organic Search,Standard,3.99,8,United States,South,Atlanta,FALSE
+ORD300953,01-11-2024,C50265,Home Office,P2064,Beauty,Makeup,1,37.14,13.68,0,37.14,0,37.14,23.46,Credit Card,Email,Express,9.99,2,United States,East,New York,FALSE
+ORD300719,01-11-2024,C50053,Consumer,P6634,Fashion,Men's Apparel,3,28.5,12.67,0.3,85.5,25.65,59.85,21.84,Cash on Delivery,Organic Search,Standard,3.99,5,India,South,Bengaluru,FALSE
+ORD300841,02-11-2024,C50207,Consumer,P3774,Fashion,Footwear,5,13.26,5.72,0.1,66.3,6.63,59.67,31.07,Debit Card,Email,Express,9.99,3,United States,South,Atlanta,FALSE
+ORD300276,03-11-2024,C50048,Consumer,P4731,Beauty,Fragrance,3,28.51,12.48,0,85.53,0,85.53,48.09,Debit Card,Social,Same-Day,19.99,1,India,North,Jaipur,FALSE
+ORD300448,04-11-2024,C50138,Corporate,P8319,Beauty,Skincare,4,8.19,3,0,32.76,0,32.76,20.76,Credit Card,Paid Search,Express,9.99,2,United States,East,Boston,FALSE
+ORD300253,04-11-2024,C50196,Consumer,P5219,Electronics,Smartphones,2,164.1,116.67,0,328.2,0,328.2,94.86,Credit Card,Social,Express,9.99,3,United Kingdom,Wales,Swansea,FALSE
+ORD300342,04-11-2024,C50299,Consumer,P5286,Electronics,Headphones,2,250.75,190.74,0,501.5,0,501.5,120.02,Debit Card,Paid Search,Standard,3.99,8,India,East,Bhubaneswar,FALSE
+ORD300133,05-11-2024,C50253,Consumer,P6545,Home & Kitchen,Decor,2,864.61,488.17,0,1729.22,0,1729.22,752.88,Debit Card,Organic Search,Express,9.99,4,United States,East,Boston,FALSE
+ORD300406,06-11-2024,C50048,Consumer,P4444,Electronics,Accessories,1,32.83,25.13,0.1,32.83,3.28,29.55,4.42,PayPal,Email,Standard,3.99,8,India,North,Jaipur,FALSE
+ORD300673,06-11-2024,C50177,Corporate,P2867,Electronics,Accessories,2,125.84,97.54,0,251.68,0,251.68,56.6,Cash on Delivery,Organic Search,Standard,3.99,5,United States,Central,Kansas City,FALSE
+ORD300108,06-11-2024,C50011,Consumer,P1001,Books,Fiction,1,10.77,8.1,0,10.77,0,10.77,2.67,Cash on Delivery,Paid Search,Express,9.99,4,India,South,Bengaluru,FALSE
+ORD300682,06-11-2024,C50336,Corporate,P8729,Books,Fiction,1,9.95,7.09,0,9.95,0,9.95,2.86,Credit Card,Affiliate,Express,9.99,3,United States,South,Austin,FALSE
+ORD300185,07-11-2024,C50165,Consumer,P3111,Electronics,Laptops,2,169.59,134.87,0.1,339.18,33.92,305.26,35.52,Debit Card,Email,Standard,3.99,6,Australia,Victoria,Geelong,FALSE
+ORD300560,07-11-2024,C50083,Consumer,P4876,Sports,Cycling,2,337.81,212.22,0,675.62,0,675.62,251.18,Digital Wallet,Organic Search,Express,9.99,3,Germany,Hesse,Frankfurt,FALSE
+ORD300508,07-11-2024,C50098,Consumer,P3936,Beauty,Skincare,1,8.66,3.64,0,8.66,0,8.66,5.02,Debit Card,Paid Search,Standard,3.99,7,United States,West,San Francisco,FALSE
+ORD300183,08-11-2024,C50135,Home Office,P1505,Beauty,Fragrance,1,106.62,53.27,0,106.62,0,106.62,53.35,Debit Card,Organic Search,Standard,3.99,8,Germany,Berlin,Berlin,FALSE
+ORD300313,08-11-2024,C50056,Consumer,P7468,Beauty,Makeup,1,136.83,45.1,0,136.83,0,136.83,91.73,Digital Wallet,Social,Standard,3.99,6,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300536,10-11-2024,C50016,Corporate,P3437,Home & Kitchen,Cookware,1,32.03,19.89,0,32.03,0,32.03,12.14,Digital Wallet,Paid Search,Express,9.99,2,India,South,Bengaluru,FALSE
+ORD300071,11-11-2024,C50045,Corporate,P7783,Sports,Cycling,2,19.63,11.79,0,39.26,0,39.26,15.68,Debit Card,Social,Standard,3.99,5,United States,West,San Francisco,FALSE
+ORD300244,11-11-2024,C50217,Consumer,P4708,Beauty,Fragrance,1,37.45,15.15,0,37.45,0,37.45,22.3,Credit Card,Social,Standard,3.99,6,Germany,Bavaria,Nuremberg,FALSE
+ORD300466,12-11-2024,C50220,Home Office,P8249,Fashion,Women's Apparel,1,101.19,45.85,0,101.19,0,101.19,55.34,PayPal,Social,Standard,3.99,6,India,West,Mumbai,FALSE
+ORD300254,12-11-2024,C50264,Home Office,P7274,Sports,Outdoor,2,71.63,43.25,0,143.26,0,143.26,56.76,PayPal,Paid Search,Standard,3.99,5,United States,Central,Kansas City,FALSE
+ORD300649,12-11-2024,C50042,Consumer,P4615,Electronics,Headphones,1,478.61,346.29,0,478.61,0,478.61,132.32,Digital Wallet,Social,Standard,3.99,4,United States,Central,Chicago,FALSE
+ORD300506,13-11-2024,C50041,Consumer,P6601,Electronics,Headphones,1,77.25,69.53,0.2,77.25,15.45,61.8,-7.73,Credit Card,Email,Standard,3.99,8,United States,West,Seattle,TRUE
+ORD300811,13-11-2024,C50225,Corporate,P8431,Electronics,Laptops,1,495.17,374.01,0,495.17,0,495.17,121.16,Credit Card,Organic Search,Standard,3.99,6,Australia,Queensland,Brisbane,FALSE
+ORD300725,13-11-2024,C50106,Consumer,P4880,Electronics,Accessories,1,393.93,314.7,0.05,393.93,19.7,374.23,59.53,PayPal,Organic Search,Express,9.99,4,Australia,Victoria,Geelong,FALSE
+ORD300314,14-11-2024,C50045,Corporate,P9137,Sports,Fitness,1,40.88,26.01,0.1,40.88,4.09,36.79,10.78,PayPal,Paid Search,Standard,3.99,5,United States,West,San Francisco,FALSE
+ORD300379,14-11-2024,C50279,Consumer,P3310,Beauty,Makeup,2,28.36,14.87,0.1,56.72,5.67,51.05,21.31,PayPal,Email,Standard,3.99,6,United States,East,Boston,FALSE
+ORD300424,14-11-2024,C50283,Consumer,P4745,Sports,Fitness,2,56.27,32.89,0,112.54,0,112.54,46.76,Credit Card,Email,Standard,3.99,8,United States,South,Austin,FALSE
+ORD300017,14-11-2024,C50045,Corporate,P6286,Beauty,Fragrance,1,83.94,30.49,0,83.94,0,83.94,53.45,Credit Card,Organic Search,Standard,3.99,7,United States,West,San Francisco,FALSE
+ORD300111,15-11-2024,C50178,Consumer,P8476,Fashion,Footwear,1,195.89,92.19,0.1,195.89,19.59,176.3,84.11,PayPal,Email,Standard,3.99,8,India,South,Bengaluru,FALSE
+ORD300241,15-11-2024,C50070,Corporate,P5282,Home & Kitchen,Decor,1,16.5,9.88,0,16.5,0,16.5,6.62,PayPal,Organic Search,Standard,3.99,8,United States,West,Seattle,FALSE
+ORD300669,15-11-2024,C50064,Corporate,P3003,Fashion,Bags,1,144.88,77.81,0,144.88,0,144.88,67.07,Credit Card,Social,Express,9.99,3,United Kingdom,England,London,FALSE
+ORD300032,15-11-2024,C50015,Corporate,P4617,Fashion,Men's Apparel,1,19.09,5.84,0,19.09,0,19.09,13.25,Debit Card,Paid Search,Standard,3.99,7,United States,West,San Francisco,FALSE
+ORD300006,16-11-2024,C50140,Consumer,P4699,Electronics,Laptops,1,117.36,87.69,0,117.36,0,117.36,29.67,Debit Card,Organic Search,Express,9.99,3,United States,Central,Kansas City,FALSE
+ORD300927,17-11-2024,C50147,Consumer,P9676,Beauty,Fragrance,3,12.22,5.02,0,36.66,0,36.66,21.6,Credit Card,Organic Search,Standard,3.99,4,United States,East,Boston,FALSE
+ORD300579,17-11-2024,C50014,Consumer,P6967,Electronics,Laptops,1,53.87,43.94,0,53.87,0,53.87,9.93,Credit Card,Affiliate,Standard,3.99,4,India,East,Kolkata,FALSE
+ORD300042,17-11-2024,C50116,Consumer,P7609,Home & Kitchen,Cookware,1,53.59,29.03,0,53.59,0,53.59,24.56,Credit Card,Email,Same-Day,19.99,1,United Kingdom,Wales,Cardiff,FALSE
+ORD300792,18-11-2024,C50246,Consumer,P2276,Electronics,Laptops,2,156.55,129.06,0,313.1,0,313.1,54.98,Digital Wallet,Paid Search,Standard,3.99,7,United States,West,Seattle,FALSE
+ORD300298,19-11-2024,C50330,Consumer,P9874,Sports,Cycling,1,175.57,118.41,0.15,175.57,26.34,149.23,30.82,Credit Card,Social,Standard,3.99,5,Germany,Berlin,Berlin,FALSE
+ORD300128,19-11-2024,C50130,Home Office,P5559,Electronics,Smartphones,2,89.06,66.64,0.1,178.12,17.81,160.31,27.03,Cash on Delivery,Email,Standard,3.99,8,Australia,NSW,Sydney,FALSE
+ORD300477,21-11-2024,C50322,Consumer,P4184,Home & Kitchen,Cookware,2,66.2,41.69,0.1,132.4,13.24,119.16,35.78,Debit Card,Organic Search,Standard,3.99,8,United Kingdom,England,London,FALSE
+ORD300403,21-11-2024,C50233,Corporate,P6925,Fashion,Bags,1,19.36,8.89,0.3,19.36,5.81,13.55,4.66,Debit Card,Paid Search,Same-Day,19.99,0,United States,East,Boston,FALSE
+ORD300964,21-11-2024,C50175,Corporate,P6174,Fashion,Footwear,1,132.33,54.06,0,132.33,0,132.33,78.27,Credit Card,Email,Standard,3.99,7,India,South,Bengaluru,FALSE
+ORD300625,21-11-2024,C50165,Consumer,P5348,Beauty,Fragrance,3,79.72,38.56,0.2,239.16,47.83,191.33,75.65,Debit Card,Direct,Standard,3.99,7,Australia,Victoria,Geelong,FALSE
+ORD300853,21-11-2024,C50116,Consumer,P4936,Sports,Outdoor,2,46.3,33.24,0,92.6,0,92.6,26.12,Debit Card,Social,Standard,3.99,7,United Kingdom,Wales,Cardiff,FALSE
+ORD300394,21-11-2024,C50105,Consumer,P3901,Electronics,Laptops,1,375.82,284.25,0,375.82,0,375.82,91.57,Credit Card,Paid Search,Standard,3.99,7,United States,South,Atlanta,FALSE
+ORD300588,21-11-2024,C50058,Consumer,P6003,Electronics,Smartphones,1,100.23,81.85,0,100.23,0,100.23,18.38,Credit Card,Organic Search,Express,9.99,2,Germany,Berlin,Berlin,FALSE
+ORD300537,22-11-2024,C50271,Consumer,P8489,Electronics,Headphones,1,70.15,60.62,0,70.15,0,70.15,9.53,Credit Card,Organic Search,Standard,3.99,6,United States,South,Austin,FALSE
+ORD300020,22-11-2024,C50216,Consumer,P2378,Fashion,Men's Apparel,1,159.36,67.03,0.05,159.36,7.97,151.39,84.36,Credit Card,Direct,Standard,3.99,4,United States,South,Atlanta,FALSE
+ORD300264,23-11-2024,C50125,Corporate,P6276,Electronics,Smartphones,2,222.86,170.96,0,445.72,0,445.72,103.8,Digital Wallet,Affiliate,Standard,3.99,6,United States,Central,Chicago,FALSE
+ORD300431,23-11-2024,C50186,Corporate,P1917,Electronics,Accessories,1,764.21,650.55,0,764.21,0,764.21,113.66,Digital Wallet,Organic Search,Standard,3.99,6,United Kingdom,Scotland,Glasgow,FALSE
+ORD300825,23-11-2024,C50078,Consumer,P3209,Electronics,Smartphones,4,96.21,72.08,0.15,384.84,57.73,327.11,38.79,Credit Card,Organic Search,Standard,3.99,4,Germany,Berlin,Berlin,TRUE
+ORD300914,23-11-2024,C50210,Consumer,P2415,Electronics,Accessories,1,29.59,21.56,0.05,29.59,1.48,28.11,6.55,Credit Card,Social,Standard,3.99,8,Australia,NSW,Sydney,FALSE
+ORD300550,23-11-2024,C50164,Corporate,P5143,Sports,Fitness,1,58.69,37.88,0.1,58.69,5.87,52.82,14.94,PayPal,Social,Standard,3.99,5,Australia,Victoria,Melbourne,FALSE
+ORD300233,23-11-2024,C50105,Consumer,P6048,Books,Non-fiction,1,18.85,13.81,0.3,18.85,5.66,13.19,-0.62,Credit Card,Direct,Same-Day,19.99,1,United States,South,Atlanta,FALSE
+ORD300538,24-11-2024,C50322,Consumer,P9608,Electronics,Accessories,2,28.49,24.38,0,56.98,0,56.98,8.22,Credit Card,Social,Standard,3.99,6,United Kingdom,England,London,FALSE
+ORD300088,24-11-2024,C50118,Consumer,P3066,Beauty,Skincare,1,53.31,17.41,0,53.31,0,53.31,35.9,Credit Card,Social,Same-Day,19.99,0,United States,West,Denver,FALSE
+ORD300835,24-11-2024,C50142,Consumer,P1197,Books,Non-fiction,1,7.45,4.93,0,7.45,0,7.45,2.52,Debit Card,Social,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300082,24-11-2024,C50285,Consumer,P7930,Home & Kitchen,Cookware,1,278.63,155.64,0.05,278.63,13.93,264.7,109.06,Cash on Delivery,Email,Same-Day,19.99,0,United States,Central,Chicago,FALSE
+ORD300932,24-11-2024,C50101,Consumer,P7154,Beauty,Skincare,1,19.94,7.39,0,19.94,0,19.94,12.55,Debit Card,Email,Express,9.99,3,United States,East,New York,FALSE
+ORD300029,25-11-2024,C50099,Corporate,P5741,Home & Kitchen,Cookware,1,57.67,34.49,0.05,57.67,2.88,54.79,20.3,Cash on Delivery,Social,Express,9.99,2,United States,South,Atlanta,FALSE
+ORD300833,25-11-2024,C50029,Consumer,P9191,Sports,Fitness,2,50.51,33.44,0,101.02,0,101.02,34.14,Credit Card,Email,Standard,3.99,4,United States,East,Boston,FALSE
+ORD300906,26-11-2024,C50039,Consumer,P5130,Electronics,Headphones,1,550.28,466.26,0,550.28,0,550.28,84.02,Credit Card,Organic Search,Standard,3.99,4,United States,South,Atlanta,FALSE
+ORD300122,26-11-2024,C50046,Consumer,P2004,Home & Kitchen,Cookware,1,56.93,31.61,0.3,56.93,17.08,39.85,8.24,Credit Card,Email,Standard,3.99,6,United States,West,Seattle,FALSE
+ORD300480,26-11-2024,C50252,Home Office,P3899,Beauty,Makeup,1,9.85,3.54,0.05,9.85,0.49,9.36,5.82,Digital Wallet,Direct,Standard,3.99,4,United States,East,Boston,TRUE
+ORD300862,27-11-2024,C50241,Consumer,P1967,Home & Kitchen,Appliances,1,26.77,17.03,0.1,26.77,2.68,24.09,7.06,Credit Card,Paid Search,Standard,3.99,5,India,East,Bhubaneswar,FALSE
+ORD300530,27-11-2024,C50085,Consumer,P5068,Electronics,Accessories,1,150.13,115.51,0.05,150.13,7.51,142.62,27.11,Digital Wallet,Direct,Standard,3.99,7,Australia,Victoria,Melbourne,FALSE
+ORD300703,27-11-2024,C50158,Consumer,P7914,Sports,Fitness,1,489.98,323.28,0.15,489.98,73.5,416.48,93.2,Credit Card,Social,Express,9.99,4,India,North,Jaipur,FALSE
+ORD300107,28-11-2024,C50255,Consumer,P6572,Sports,Cycling,1,361.86,199.73,0.15,361.86,54.28,307.58,107.85,Debit Card,Social,Express,9.99,2,United States,West,Denver,FALSE
+ORD300760,28-11-2024,C50060,Consumer,P8072,Electronics,Cameras,2,63.3,55.27,0.1,126.6,12.66,113.94,3.4,Credit Card,Paid Search,Standard,3.99,6,United Kingdom,Scotland,Glasgow,FALSE
+ORD300085,29-11-2024,C50333,Consumer,P8160,Home & Kitchen,Furniture,1,21.19,12.5,0.1,21.19,2.12,19.07,6.57,Digital Wallet,Organic Search,Express,9.99,2,Germany,Hesse,Frankfurt,FALSE
+ORD300015,29-11-2024,C50066,Consumer,P5666,Fashion,Men's Apparel,1,233.81,88.95,0.2,233.81,46.76,187.05,98.1,Credit Card,Affiliate,Standard,3.99,8,India,West,Pune,FALSE
+ORD300191,29-11-2024,C50338,Consumer,P9994,Fashion,Men's Apparel,1,101,43.54,0,101,0,101,57.46,Cash on Delivery,Email,Standard,3.99,6,United States,East,Boston,FALSE
+ORD300368,29-11-2024,C50041,Consumer,P3108,Beauty,Skincare,1,108.31,46.48,0,108.31,0,108.31,61.83,Digital Wallet,Email,Same-Day,19.99,1,United States,West,Seattle,FALSE
+ORD300600,29-11-2024,C50268,Corporate,P5841,Electronics,Laptops,1,1045.27,789.68,0,1045.27,0,1045.27,255.59,Digital Wallet,Email,Express,9.99,3,United States,East,New York,FALSE
+ORD300869,29-11-2024,C50167,Home Office,P7916,Fashion,Women's Apparel,2,257.31,121.69,0,514.62,0,514.62,271.24,Digital Wallet,Paid Search,Express,9.99,2,India,North,Delhi,FALSE
+ORD300706,29-11-2024,C50306,Consumer,P1313,Fashion,Women's Apparel,1,62.14,29.72,0.15,62.14,9.32,52.82,23.1,Credit Card,Organic Search,Express,9.99,2,Germany,Bavaria,Nuremberg,FALSE
+ORD300630,29-11-2024,C50160,Consumer,P9303,Fashion,Bags,4,91.22,35.12,0,364.88,0,364.88,224.4,PayPal,Organic Search,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300763,30-11-2024,C50129,Consumer,P9734,Sports,Cycling,1,423.05,238.71,0.1,423.05,42.31,380.74,142.03,Credit Card,Paid Search,Standard,3.99,6,United States,South,Austin,FALSE
+ORD300315,30-11-2024,C50069,Consumer,P2394,Home & Kitchen,Decor,3,42.49,27.3,0,127.47,0,127.47,45.57,Digital Wallet,Email,Standard,3.99,6,United States,West,San Francisco,FALSE
+ORD300973,01-12-2024,C50289,Consumer,P8922,Home & Kitchen,Cookware,1,77.15,41.14,0,77.15,0,77.15,36.01,Debit Card,Social,Standard,3.99,6,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300758,01-12-2024,C50296,Consumer,P1164,Books,Fiction,1,43.11,31.31,0.05,43.11,2.16,40.95,9.64,Digital Wallet,Paid Search,Express,9.99,2,Australia,Queensland,Gold Coast,FALSE
+ORD300479,01-12-2024,C50315,Corporate,P5356,Sports,Outdoor,1,13.52,8.41,0.15,13.52,2.03,11.49,3.08,PayPal,Social,Express,9.99,2,Australia,Queensland,Brisbane,FALSE
+ORD300296,02-12-2024,C50292,Home Office,P3142,Electronics,Smartphones,1,42.28,33.81,0,42.28,0,42.28,8.47,Credit Card,Social,Standard,3.99,6,United States,Central,Kansas City,FALSE
+ORD300850,02-12-2024,C50056,Consumer,P5379,Sports,Fitness,1,82.72,48.74,0.3,82.72,24.82,57.9,9.16,Credit Card,Affiliate,Standard,3.99,5,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300789,04-12-2024,C50059,Consumer,P5412,Electronics,Accessories,2,93.79,68.36,0,187.58,0,187.58,50.86,Credit Card,Organic Search,Standard,3.99,4,India,West,Pune,FALSE
+ORD300692,04-12-2024,C50086,Corporate,P6552,Home & Kitchen,Appliances,1,136.11,70.55,0,136.11,0,136.11,65.56,Credit Card,Organic Search,Standard,3.99,8,United States,South,Austin,FALSE
+ORD300318,05-12-2024,C50010,Consumer,P4188,Fashion,Men's Apparel,2,66.73,30.62,0.1,133.46,13.35,120.11,58.87,Credit Card,Organic Search,Express,9.99,3,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300644,05-12-2024,C50039,Consumer,P8195,Fashion,Women's Apparel,1,32.41,18.7,0,32.41,0,32.41,13.71,Digital Wallet,Paid Search,Standard,3.99,7,United States,South,Atlanta,FALSE
+ORD300837,05-12-2024,C50061,Corporate,P9468,Fashion,Bags,1,35.85,14.22,0.05,35.85,1.79,34.06,19.84,Credit Card,Affiliate,Standard,3.99,4,India,North,Delhi,FALSE
+ORD300924,05-12-2024,C50168,Consumer,P3556,Beauty,Fragrance,1,17.72,6.91,0.2,17.72,3.54,14.18,7.27,PayPal,Affiliate,Express,9.99,2,Australia,NSW,Newcastle,FALSE
+ORD300104,05-12-2024,C50138,Corporate,P3355,Home & Kitchen,Appliances,1,49.49,30.66,0.3,49.49,14.85,34.64,3.98,PayPal,Organic Search,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300720,06-12-2024,C50009,Corporate,P5662,Electronics,Cameras,2,104.65,79.68,0.05,209.3,10.47,198.83,39.47,PayPal,Social,Standard,3.99,4,United States,East,Boston,FALSE
+ORD300980,06-12-2024,C50034,Consumer,P3245,Home & Kitchen,Decor,1,102.63,61.11,0,102.63,0,102.63,41.52,Credit Card,Affiliate,Standard,3.99,6,United States,South,Atlanta,FALSE
+ORD300947,06-12-2024,C50324,Consumer,P2276,Beauty,Fragrance,1,97.14,41.16,0.05,97.14,4.86,92.28,51.12,Credit Card,Social,Express,9.99,3,United States,South,Atlanta,FALSE
+ORD300476,06-12-2024,C50310,Consumer,P7562,Books,Non-fiction,1,31.42,19.91,0,31.42,0,31.42,11.51,Digital Wallet,Direct,Express,9.99,3,United Kingdom,England,Manchester,FALSE
+ORD300248,07-12-2024,C50299,Consumer,P6175,Fashion,Footwear,1,33.1,15.18,0.3,33.1,9.93,23.17,7.99,Debit Card,Paid Search,Same-Day,19.99,1,India,East,Bhubaneswar,FALSE
+ORD300520,07-12-2024,C50063,Consumer,P4665,Electronics,Laptops,1,50.32,36.76,0.3,50.32,15.1,35.22,-1.54,Credit Card,Paid Search,Same-Day,19.99,1,United States,West,San Francisco,FALSE
+ORD300678,07-12-2024,C50258,Consumer,P6668,Sports,Fitness,2,15.58,10.02,0.2,31.16,6.23,24.93,4.89,PayPal,Organic Search,Express,9.99,2,United Kingdom,Wales,Swansea,FALSE
+ORD300310,08-12-2024,C50080,Consumer,P9217,Fashion,Bags,1,224.22,102.95,0,224.22,0,224.22,121.27,Credit Card,Email,Standard,3.99,7,India,South,Bengaluru,FALSE
+ORD300352,09-12-2024,C50099,Corporate,P2275,Beauty,Skincare,1,112.96,42.32,0.05,112.96,5.65,107.31,64.99,Debit Card,Affiliate,Standard,3.99,6,United States,South,Atlanta,FALSE
+ORD300793,09-12-2024,C50162,Consumer,P1843,Beauty,Fragrance,1,139.58,51.3,0.1,139.58,13.96,125.62,74.32,Debit Card,Paid Search,Same-Day,19.99,1,United States,South,Austin,FALSE
+ORD300807,09-12-2024,C50211,Consumer,P4088,Electronics,Accessories,1,41.82,37.24,0,41.82,0,41.82,4.58,Debit Card,Social,Express,9.99,2,United States,West,San Francisco,FALSE
+ORD300340,09-12-2024,C50002,Consumer,P3304,Home & Kitchen,Cookware,1,26.12,15.34,0,26.12,0,26.12,10.78,Credit Card,Organic Search,Standard,3.99,7,Germany,Berlin,Berlin,FALSE
+ORD300055,10-12-2024,C50239,Consumer,P8546,Sports,Cycling,1,547.71,301.16,0.15,547.71,82.16,465.55,164.39,Debit Card,Affiliate,Standard,3.99,4,Australia,Victoria,Geelong,FALSE
+ORD300531,10-12-2024,C50165,Consumer,P5469,Electronics,Smartphones,2,903.89,675.07,0,1807.78,0,1807.78,457.64,PayPal,Organic Search,Express,9.99,2,Australia,Victoria,Geelong,FALSE
+ORD300498,10-12-2024,C50215,Consumer,P6919,Home & Kitchen,Furniture,1,24.65,15.54,0,24.65,0,24.65,9.11,Digital Wallet,Organic Search,Standard,3.99,5,Germany,Berlin,Berlin,TRUE
+ORD300698,11-12-2024,C50077,Corporate,P6700,Electronics,Smartphones,1,1169.21,958.54,0.3,1169.21,350.76,818.45,-140.09,Digital Wallet,Email,Express,9.99,4,Germany,Berlin,Berlin,FALSE
+ORD300453,12-12-2024,C50259,Corporate,P5811,Fashion,Men's Apparel,1,223.05,92.76,0,223.05,0,223.05,130.29,Credit Card,Direct,Same-Day,19.99,0,India,North,Jaipur,TRUE
+ORD300371,12-12-2024,C50132,Consumer,P3012,Fashion,Men's Apparel,3,195.9,84.22,0.15,587.7,88.16,499.54,246.88,Credit Card,Organic Search,Standard,3.99,8,India,North,Jaipur,TRUE
+ORD300658,14-12-2024,C50283,Consumer,P3393,Sports,Fitness,1,638.62,415.19,0,638.62,0,638.62,223.43,Credit Card,Direct,Standard,3.99,5,United States,South,Austin,FALSE
+ORD300729,14-12-2024,C50038,Home Office,P7536,Fashion,Men's Apparel,1,123.78,53.53,0,123.78,0,123.78,70.25,Credit Card,Organic Search,Standard,3.99,5,United States,South,Austin,FALSE
+ORD300014,14-12-2024,C50195,Corporate,P7150,Fashion,Men's Apparel,1,69.05,33.07,0.1,69.05,6.91,62.14,29.07,Cash on Delivery,Social,Standard,3.99,4,United States,South,Austin,FALSE
+ORD300892,14-12-2024,C50312,Consumer,P9272,Books,Non-fiction,1,12.02,9.05,0,12.02,0,12.02,2.97,Debit Card,Paid Search,Standard,3.99,7,India,South,Chennai,FALSE
+ORD300605,14-12-2024,C50335,Corporate,P6854,Fashion,Bags,1,40.69,15.15,0,40.69,0,40.69,25.54,Credit Card,Email,Express,9.99,3,United States,East,Boston,FALSE
+ORD300409,15-12-2024,C50189,Consumer,P9048,Electronics,Headphones,2,462.08,384.28,0,924.16,0,924.16,155.6,Credit Card,Social,Same-Day,19.99,1,India,West,Pune,FALSE
+ORD300490,15-12-2024,C50082,Home Office,P9790,Electronics,Smartphones,1,1053.56,858.14,0,1053.56,0,1053.56,195.42,Cash on Delivery,Direct,Express,9.99,2,United States,East,New York,FALSE
+ORD300004,15-12-2024,C50234,Home Office,P7473,Beauty,Makeup,4,50.14,23.14,0.1,200.56,20.06,180.5,87.94,Credit Card,Organic Search,Express,9.99,2,United States,East,Boston,FALSE
+ORD300493,15-12-2024,C50001,Consumer,P4973,Beauty,Skincare,1,24.03,11.08,0.1,24.03,2.4,21.63,10.55,Debit Card,Affiliate,Express,9.99,4,United States,South,Atlanta,FALSE
+ORD300606,16-12-2024,C50003,Consumer,P9014,Home & Kitchen,Cookware,1,30.23,19.48,0,30.23,0,30.23,10.75,PayPal,Social,Express,9.99,4,India,West,Mumbai,FALSE
+ORD300060,16-12-2024,C50264,Home Office,P3251,Electronics,Accessories,1,140.05,113.78,0,140.05,0,140.05,26.27,Cash on Delivery,Organic Search,Express,9.99,2,United States,Central,Kansas City,FALSE
+ORD300681,17-12-2024,C50021,Consumer,P1242,Fashion,Footwear,1,110.91,52.2,0.1,110.91,11.09,99.82,47.62,Cash on Delivery,Organic Search,Express,9.99,4,United Kingdom,Wales,Swansea,FALSE
+ORD300685,17-12-2024,C50305,Corporate,P5048,Sports,Outdoor,1,116.13,68.33,0,116.13,0,116.13,47.8,Credit Card,Social,Same-Day,19.99,1,United States,East,Boston,FALSE
+ORD300455,19-12-2024,C50237,Consumer,P1681,Electronics,Laptops,1,58.21,45.27,0,58.21,0,58.21,12.94,Digital Wallet,Social,Standard,3.99,7,Australia,Queensland,Gold Coast,FALSE
+ORD300912,19-12-2024,C50158,Consumer,P4418,Beauty,Skincare,2,90.99,39.42,0,181.98,0,181.98,103.14,Credit Card,Organic Search,Express,9.99,2,India,North,Jaipur,FALSE
+ORD300086,19-12-2024,C50038,Home Office,P1564,Home & Kitchen,Furniture,1,15.54,8.94,0.1,15.54,1.55,13.99,5.05,PayPal,Affiliate,Standard,3.99,7,United States,South,Austin,FALSE
+ORD300694,19-12-2024,C50095,Corporate,P5947,Fashion,Footwear,2,62.22,24.71,0.3,124.44,37.33,87.11,37.69,PayPal,Organic Search,Standard,3.99,5,Germany,Bavaria,Munich,FALSE
+ORD300797,19-12-2024,C50243,Corporate,P8236,Home & Kitchen,Cookware,1,162.99,100.95,0.3,162.99,48.9,114.09,13.14,Credit Card,Organic Search,Standard,3.99,4,United States,Central,Chicago,FALSE
+ORD300503,21-12-2024,C50339,Corporate,P5143,Sports,Outdoor,4,314.77,187.24,0.15,1259.08,188.86,1070.22,321.26,Credit Card,Paid Search,Express,9.99,2,Australia,Victoria,Melbourne,FALSE
+ORD300511,21-12-2024,C50085,Consumer,P2858,Fashion,Footwear,1,64.27,31.16,0,64.27,0,64.27,33.11,Debit Card,Paid Search,Express,9.99,3,Australia,Victoria,Melbourne,TRUE
+ORD300948,21-12-2024,C50254,Corporate,P5530,Electronics,Laptops,1,249.67,191.4,0,249.67,0,249.67,58.27,Credit Card,Affiliate,Standard,3.99,7,United States,Central,Chicago,FALSE
+ORD300263,22-12-2024,C50230,Corporate,P4397,Sports,Fitness,1,189.62,103.28,0,189.62,0,189.62,86.34,Debit Card,Organic Search,Standard,3.99,7,United States,Central,Chicago,FALSE
+ORD300637,24-12-2024,C50292,Home Office,P9277,Sports,Outdoor,2,121.59,79.62,0,243.18,0,243.18,83.94,Credit Card,Affiliate,Standard,3.99,4,United States,Central,Kansas City,FALSE
+ORD300996,25-12-2024,C50026,Consumer,P4880,Home & Kitchen,Furniture,1,113.27,69.35,0,113.27,0,113.27,43.92,PayPal,Paid Search,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300620,25-12-2024,C50017,Consumer,P6504,Sports,Cycling,1,15.36,10.55,0.1,15.36,1.54,13.82,3.27,PayPal,Affiliate,Express,9.99,3,United States,West,Denver,FALSE
+ORD300393,25-12-2024,C50077,Corporate,P4906,Beauty,Makeup,1,49.22,21.91,0.15,49.22,7.38,41.84,19.93,Digital Wallet,Paid Search,Express,9.99,4,Germany,Berlin,Berlin,FALSE
+ORD300547,25-12-2024,C50083,Consumer,P2666,Beauty,Fragrance,1,53.23,17.77,0.1,53.23,5.32,47.91,30.14,Credit Card,Email,Express,9.99,2,Germany,Hesse,Frankfurt,FALSE
+ORD300572,25-12-2024,C50283,Consumer,P9062,Fashion,Men's Apparel,1,138.37,47.92,0,138.37,0,138.37,90.45,Debit Card,Social,Standard,3.99,4,United States,South,Austin,FALSE
+ORD300008,26-12-2024,C50136,Corporate,P3302,Fashion,Footwear,1,208.85,108.71,0,208.85,0,208.85,100.14,Credit Card,Social,Standard,3.99,4,United States,East,New York,FALSE
+ORD300471,26-12-2024,C50254,Corporate,P7321,Beauty,Skincare,2,83.83,31.9,0,167.66,0,167.66,103.86,Cash on Delivery,Paid Search,Standard,3.99,4,United States,Central,Chicago,FALSE
+ORD300590,26-12-2024,C50222,Consumer,P3025,Sports,Fitness,1,53.37,33.58,0,53.37,0,53.37,19.79,Credit Card,Affiliate,Standard,3.99,8,Australia,Victoria,Melbourne,FALSE
+ORD300599,26-12-2024,C50272,Corporate,P5383,Books,Fiction,1,34.9,28.57,0.05,34.9,1.75,33.15,4.58,PayPal,Paid Search,Standard,3.99,4,United States,West,San Francisco,FALSE
+ORD300647,26-12-2024,C50279,Consumer,P9746,Electronics,Smartphones,1,255.49,217.41,0,255.49,0,255.49,38.08,Credit Card,Direct,Express,9.99,3,United States,East,Boston,FALSE
+ORD300391,27-12-2024,C50303,Consumer,P8170,Fashion,Footwear,2,236.5,114.32,0.1,473,47.3,425.7,197.06,Credit Card,Email,Standard,3.99,7,United States,East,Boston,TRUE
+ORD300154,28-12-2024,C50221,Consumer,P7535,Beauty,Skincare,1,23.99,10.27,0.05,23.99,1.2,22.79,12.52,Digital Wallet,Organic Search,Standard,3.99,7,Australia,NSW,Sydney,FALSE
+ORD300716,28-12-2024,C50103,Home Office,P1002,Fashion,Bags,1,16.64,6.75,0,16.64,0,16.64,9.89,Digital Wallet,Paid Search,Standard,3.99,4,India,North,Jaipur,FALSE
+ORD300839,28-12-2024,C50255,Consumer,P7534,Electronics,Cameras,2,400.17,293.86,0.4,800.34,320.14,480.2,-107.52,Cash on Delivery,Organic Search,Standard,3.99,6,United States,West,Denver,FALSE
+ORD300131,30-12-2024,C50123,Corporate,P2707,Fashion,Bags,2,26.5,12.79,0,53,0,53,27.42,Credit Card,Social,Express,9.99,4,United States,South,Austin,TRUE
+ORD300171,31-12-2024,C50236,Consumer,P1251,Fashion,Men's Apparel,1,28.56,12.22,0,28.56,0,28.56,16.34,Digital Wallet,Direct,Same-Day,19.99,0,India,West,Pune,FALSE
+ORD300723,31-12-2024,C50180,Consumer,P9209,Home & Kitchen,Decor,1,18.2,12.2,0,18.2,0,18.2,6,Cash on Delivery,Social,Standard,3.99,6,India,South,Chennai,FALSE
+ORD300796,31-12-2024,C50219,Consumer,P2956,Electronics,Smartphones,2,344.72,245.81,0.1,689.44,68.94,620.5,128.88,Cash on Delivery,Email,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300079,31-12-2024,C50278,Consumer,P3659,Electronics,Smartphones,1,169.3,132.75,0,169.3,0,169.3,36.55,Credit Card,Paid Search,Standard,3.99,4,India,East,Kolkata,FALSE
+ORD300615,31-12-2024,C50264,Home Office,P2853,Sports,Cycling,1,12.38,7.36,0.2,12.38,2.48,9.9,2.54,Debit Card,Social,Express,9.99,4,United States,Central,Kansas City,TRUE
+ORD300141,31-12-2024,C50283,Consumer,P8957,Fashion,Bags,1,16.36,6.71,0,16.36,0,16.36,9.65,Credit Card,Email,Standard,3.99,7,United States,South,Austin,FALSE
+ORD300059,01-01-2025,C50323,Consumer,P6719,Home & Kitchen,Appliances,1,96.87,61.99,0,96.87,0,96.87,34.88,Digital Wallet,Social,Standard,3.99,7,United States,South,Austin,FALSE
+ORD300117,01-01-2025,C50009,Corporate,P8807,Home & Kitchen,Decor,2,244.59,145.01,0,489.18,0,489.18,199.16,PayPal,Paid Search,Standard,3.99,6,United States,East,Boston,FALSE
+ORD300005,02-01-2025,C50200,Consumer,P1567,Beauty,Fragrance,1,15.75,5.57,0.05,15.75,0.79,14.96,9.39,PayPal,Organic Search,Express,9.99,3,United States,Central,Kansas City,FALSE
+ORD300257,02-01-2025,C50321,Consumer,P6785,Electronics,Headphones,1,40.43,33,0,40.43,0,40.43,7.43,Credit Card,Organic Search,Express,9.99,4,United Kingdom,England,Manchester,FALSE
+ORD300753,02-01-2025,C50127,Consumer,P6573,Beauty,Skincare,1,10.06,4.23,0,10.06,0,10.06,5.83,Debit Card,Social,Standard,3.99,8,United States,West,Seattle,FALSE
+ORD300220,02-01-2025,C50061,Corporate,P8181,Electronics,Cameras,2,35.55,25.95,0,71.1,0,71.1,19.2,Digital Wallet,Social,Standard,3.99,4,India,North,Delhi,FALSE
+ORD300389,02-01-2025,C50280,Consumer,P1279,Electronics,Headphones,1,1004.3,775.71,0,1004.3,0,1004.3,228.59,Credit Card,Organic Search,Express,9.99,2,United States,Central,Kansas City,FALSE
+ORD300021,03-01-2025,C50292,Home Office,P6486,Electronics,Cameras,1,700.58,489.34,0.05,700.58,35.03,665.55,176.21,Credit Card,Email,Same-Day,19.99,0,United States,Central,Kansas City,FALSE
+ORD300603,04-01-2025,C50013,Consumer,P1360,Electronics,Smartphones,1,82.85,65.09,0,82.85,0,82.85,17.76,Debit Card,Email,Same-Day,19.99,1,United Kingdom,England,London,FALSE
+ORD300360,04-01-2025,C50105,Consumer,P9269,Beauty,Fragrance,2,30.69,12.07,0,61.38,0,61.38,37.24,Cash on Delivery,Paid Search,Express,9.99,2,United States,South,Atlanta,FALSE
+ORD300078,04-01-2025,C50063,Consumer,P5267,Home & Kitchen,Cookware,1,26.82,16.99,0,26.82,0,26.82,9.83,Debit Card,Social,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300565,05-01-2025,C50097,Home Office,P5198,Fashion,Women's Apparel,2,103.21,42.35,0.1,206.42,20.64,185.78,101.08,PayPal,Organic Search,Same-Day,19.99,1,United Kingdom,England,Manchester,FALSE
+ORD300778,05-01-2025,C50338,Consumer,P6205,Sports,Fitness,1,27.61,16.18,0,27.61,0,27.61,11.43,Cash on Delivery,Paid Search,Standard,3.99,7,United States,East,Boston,FALSE
+ORD300374,05-01-2025,C50239,Consumer,P3143,Electronics,Laptops,1,304.04,233.58,0.05,304.04,15.2,288.84,55.26,Credit Card,Social,Standard,3.99,4,Australia,Victoria,Geelong,FALSE
+ORD300483,05-01-2025,C50311,Consumer,P1817,Electronics,Cameras,1,891,658.96,0.1,891,89.1,801.9,142.94,Credit Card,Organic Search,Express,9.99,3,United States,Central,Chicago,FALSE
+ORD300574,05-01-2025,C50023,Consumer,P2333,Sports,Outdoor,1,11.64,7.09,0.3,11.64,3.49,8.15,1.06,Digital Wallet,Email,Standard,3.99,5,Germany,Berlin,Berlin,FALSE
+ORD300854,06-01-2025,C50263,Consumer,P1199,Books,Non-fiction,1,10.68,7.78,0,10.68,0,10.68,2.9,Cash on Delivery,Paid Search,Same-Day,19.99,0,United States,West,Denver,FALSE
+ORD300684,06-01-2025,C50131,Consumer,P1134,Fashion,Women's Apparel,2,35.28,15.67,0.3,70.56,21.17,49.39,18.05,Credit Card,Email,Standard,3.99,6,United States,Central,Chicago,FALSE
+ORD300985,06-01-2025,C50016,Corporate,P3637,Electronics,Headphones,1,28.8,22.85,0,28.8,0,28.8,5.95,Credit Card,Affiliate,Standard,3.99,8,India,South,Bengaluru,TRUE
+ORD300250,06-01-2025,C50040,Consumer,P4845,Home & Kitchen,Decor,1,49.61,26.28,0,49.61,0,49.61,23.33,Cash on Delivery,Paid Search,Standard,3.99,8,Australia,NSW,Newcastle,FALSE
+ORD300124,07-01-2025,C50019,Consumer,P7417,Electronics,Smartphones,1,518.4,359.68,0,518.4,0,518.4,158.72,Cash on Delivery,Social,Express,9.99,2,India,South,Chennai,FALSE
+ORD300765,07-01-2025,C50070,Corporate,P8595,Fashion,Footwear,1,20.73,11.27,0,20.73,0,20.73,9.46,Credit Card,Direct,Express,9.99,4,United States,West,Seattle,FALSE
+ORD300044,07-01-2025,C50120,Consumer,P3963,Sports,Outdoor,1,15,9.35,0.15,15,2.25,12.75,3.4,PayPal,Paid Search,Standard,3.99,4,Australia,NSW,Sydney,FALSE
+ORD300741,10-01-2025,C50140,Consumer,P1187,Sports,Outdoor,1,36.47,24.8,0,36.47,0,36.47,11.67,Credit Card,Paid Search,Standard,3.99,5,United States,Central,Kansas City,FALSE
+ORD300468,10-01-2025,C50099,Corporate,P8611,Sports,Cycling,4,40.83,25.41,0,163.32,0,163.32,61.68,Credit Card,Organic Search,Standard,3.99,7,United States,South,Atlanta,FALSE
+ORD300033,11-01-2025,C50159,Corporate,P2677,Electronics,Smartphones,2,547.19,438.22,0,1094.38,0,1094.38,217.94,Credit Card,Paid Search,Express,9.99,2,India,West,Pune,FALSE
+ORD300210,12-01-2025,C50222,Consumer,P9242,Fashion,Men's Apparel,1,151.19,63.63,0,151.19,0,151.19,87.56,Credit Card,Affiliate,Standard,3.99,4,Australia,Victoria,Melbourne,FALSE
+ORD300952,12-01-2025,C50202,Consumer,P8929,Home & Kitchen,Cookware,3,26.03,17.13,0,78.09,0,78.09,26.7,Digital Wallet,Email,Express,9.99,4,United Kingdom,Wales,Swansea,FALSE
+ORD300285,13-01-2025,C50243,Corporate,P7290,Fashion,Bags,2,18.36,6.4,0,36.72,0,36.72,23.92,Debit Card,Organic Search,Same-Day,19.99,1,United States,Central,Chicago,TRUE
+ORD300129,13-01-2025,C50253,Consumer,P9239,Fashion,Footwear,1,16.68,9.31,0,16.68,0,16.68,7.37,Debit Card,Email,Same-Day,19.99,0,United States,East,Boston,FALSE
+ORD300704,13-01-2025,C50129,Consumer,P8142,Electronics,Smartphones,1,76.49,60.8,0.05,76.49,3.82,72.67,11.87,Credit Card,Direct,Express,9.99,2,United States,South,Austin,FALSE
+ORD300798,16-01-2025,C50100,Consumer,P4388,Fashion,Women's Apparel,1,23.03,12.24,0.05,23.03,1.15,21.88,9.64,Credit Card,Direct,Standard,3.99,4,Australia,Queensland,Gold Coast,TRUE
+ORD300518,16-01-2025,C50116,Consumer,P7327,Sports,Fitness,1,607.95,349.53,0,607.95,0,607.95,258.42,Credit Card,Social,Same-Day,19.99,1,United Kingdom,Wales,Cardiff,FALSE
+ORD300417,16-01-2025,C50253,Consumer,P6253,Electronics,Laptops,1,45.12,31.68,0,45.12,0,45.12,13.44,Credit Card,Organic Search,Standard,3.99,7,United States,East,Boston,FALSE
+ORD300552,17-01-2025,C50087,Consumer,P4188,Electronics,Accessories,1,1316.63,911.18,0,1316.63,0,1316.63,405.45,Credit Card,Paid Search,Same-Day,19.99,0,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300382,17-01-2025,C50083,Consumer,P8012,Beauty,Skincare,1,37.98,18.17,0,37.98,0,37.98,19.81,Cash on Delivery,Paid Search,Standard,3.99,7,Germany,Hesse,Frankfurt,FALSE
+ORD300256,17-01-2025,C50308,Corporate,P4202,Beauty,Fragrance,1,13.01,5.9,0,13.01,0,13.01,7.11,Credit Card,Organic Search,Express,9.99,4,India,South,Chennai,FALSE
+ORD300898,17-01-2025,C50311,Consumer,P3683,Home & Kitchen,Decor,1,277.25,151.84,0,277.25,0,277.25,125.41,Digital Wallet,Paid Search,Standard,3.99,8,United States,Central,Chicago,FALSE
+ORD300120,18-01-2025,C50009,Corporate,P3285,Electronics,Laptops,3,285.51,210.94,0.05,856.53,42.83,813.7,180.88,Credit Card,Affiliate,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300202,19-01-2025,C50321,Consumer,P7391,Fashion,Footwear,1,15.71,6.38,0,15.71,0,15.71,9.33,Credit Card,Social,Standard,3.99,4,United Kingdom,England,Manchester,FALSE
+ORD300802,19-01-2025,C50164,Corporate,P9790,Fashion,Bags,1,37.39,18.85,0.15,37.39,5.61,31.78,12.93,Credit Card,Email,Standard,3.99,4,Australia,Victoria,Melbourne,FALSE
+ORD300282,19-01-2025,C50288,Consumer,P4657,Home & Kitchen,Decor,2,593.68,349.66,0.2,1187.36,237.47,949.89,250.57,Digital Wallet,Direct,Express,9.99,2,United Kingdom,Scotland,Glasgow,FALSE
+ORD300902,19-01-2025,C50267,Consumer,P1825,Sports,Cycling,1,11.72,6.74,0,11.72,0,11.72,4.98,PayPal,Email,Standard,3.99,4,United States,West,Denver,FALSE
+ORD300863,19-01-2025,C50015,Corporate,P7100,Fashion,Footwear,1,90.68,54.14,0,90.68,0,90.68,36.54,Cash on Delivery,Organic Search,Express,9.99,4,United States,West,San Francisco,FALSE
+ORD300607,20-01-2025,C50075,Corporate,P2496,Books,Children's,1,18.87,13.93,0,18.87,0,18.87,4.94,Credit Card,Affiliate,Standard,3.99,4,United Kingdom,Scotland,Glasgow,FALSE
+ORD300662,20-01-2025,C50229,Home Office,P2500,Books,Children's,1,30.15,19.79,0,30.15,0,30.15,10.36,PayPal,Organic Search,Express,9.99,2,United States,Central,Chicago,FALSE
+ORD300767,20-01-2025,C50301,Corporate,P7523,Home & Kitchen,Cookware,1,41.92,27.15,0,41.92,0,41.92,14.77,Credit Card,Direct,Standard,3.99,8,India,North,Delhi,TRUE
+ORD300990,21-01-2025,C50068,Home Office,P7114,Home & Kitchen,Appliances,1,125.22,73.86,0.2,125.22,25.04,100.18,26.32,Digital Wallet,Affiliate,Standard,3.99,4,Germany,Berlin,Berlin,FALSE
+ORD300030,21-01-2025,C50058,Consumer,P5964,Electronics,Laptops,1,1230.61,933.96,0.05,1230.61,61.53,1169.08,235.12,PayPal,Organic Search,Standard,3.99,8,Germany,Berlin,Berlin,FALSE
+ORD300011,21-01-2025,C50292,Home Office,P9523,Books,Non-fiction,1,25.91,16.59,0,25.91,0,25.91,9.32,Digital Wallet,Organic Search,Standard,3.99,6,United States,Central,Kansas City,FALSE
+ORD300279,23-01-2025,C50120,Consumer,P7736,Home & Kitchen,Cookware,1,51.03,31.08,0,51.03,0,51.03,19.95,Debit Card,Social,Standard,3.99,6,Australia,NSW,Sydney,FALSE
+ORD300746,23-01-2025,C50014,Consumer,P6190,Electronics,Smartphones,1,140.5,112.56,0,140.5,0,140.5,27.94,Debit Card,Organic Search,Standard,3.99,6,India,East,Kolkata,FALSE
+ORD300540,23-01-2025,C50182,Consumer,P1053,Electronics,Cameras,1,1224.93,1065.58,0.2,1224.93,244.99,979.94,-85.64,Cash on Delivery,Email,Standard,3.99,7,United Kingdom,England,London,FALSE
+ORD300167,23-01-2025,C50228,Consumer,P1776,Fashion,Footwear,2,117.14,43.53,0,234.28,0,234.28,147.22,PayPal,Organic Search,Standard,3.99,8,Germany,Hesse,Wiesbaden,FALSE
+ORD300776,23-01-2025,C50269,Consumer,P6031,Books,Fiction,1,6.15,4.57,0.1,6.15,0.62,5.53,0.96,Cash on Delivery,Affiliate,Express,9.99,4,United Kingdom,Scotland,Glasgow,FALSE
+ORD300750,23-01-2025,C50051,Corporate,P1901,Books,Fiction,1,36.06,26.64,0.1,36.06,3.61,32.45,5.81,PayPal,Email,Standard,3.99,8,United States,Central,Kansas City,FALSE
+ORD300204,25-01-2025,C50085,Consumer,P6309,Sports,Fitness,1,600.93,341.9,0,600.93,0,600.93,259.03,Debit Card,Organic Search,Standard,3.99,8,Australia,Victoria,Melbourne,FALSE
+ORD300273,25-01-2025,C50267,Consumer,P3970,Electronics,Cameras,1,28.79,22.36,0,28.79,0,28.79,6.43,Credit Card,Direct,Standard,3.99,7,United States,West,Denver,FALSE
+ORD300764,25-01-2025,C50085,Consumer,P8057,Books,Fiction,1,9.18,6.17,0,9.18,0,9.18,3.01,Credit Card,Organic Search,Same-Day,19.99,1,Australia,Victoria,Melbourne,FALSE
+ORD300116,26-01-2025,C50176,Home Office,P6095,Books,Fiction,1,24.18,16.66,0,24.18,0,24.18,7.52,Credit Card,Direct,Express,9.99,3,India,North,Jaipur,FALSE
+ORD300931,26-01-2025,C50186,Corporate,P5113,Fashion,Women's Apparel,1,14.41,7.07,0,14.41,0,14.41,7.34,Cash on Delivery,Paid Search,Standard,3.99,5,United Kingdom,Scotland,Glasgow,FALSE
+ORD300922,26-01-2025,C50294,Home Office,P8948,Electronics,Smartphones,1,28.23,18.27,0,28.23,0,28.23,9.96,Credit Card,Social,Standard,3.99,6,United Kingdom,Wales,Cardiff,FALSE
+ORD300312,27-01-2025,C50103,Home Office,P3310,Beauty,Fragrance,1,8.98,3.76,0,8.98,0,8.98,5.22,Debit Card,Social,Standard,3.99,8,India,North,Jaipur,FALSE
+ORD300577,27-01-2025,C50190,Consumer,P4887,Sports,Cycling,4,293.3,183.12,0.05,1173.2,58.66,1114.54,382.06,Credit Card,Direct,Standard,3.99,4,Germany,Hesse,Wiesbaden,FALSE
+ORD300633,27-01-2025,C50155,Consumer,P2780,Fashion,Bags,2,123.86,60.78,0,247.72,0,247.72,126.16,Debit Card,Email,Express,9.99,3,Australia,Victoria,Melbourne,FALSE
+ORD300173,27-01-2025,C50284,Consumer,P3715,Fashion,Men's Apparel,1,67.49,32.38,0,67.49,0,67.49,35.11,Cash on Delivery,Organic Search,Standard,3.99,4,India,East,Kolkata,FALSE
+ORD300940,28-01-2025,C50243,Corporate,P4889,Beauty,Skincare,1,62.61,30.28,0.05,62.61,3.13,59.48,29.2,PayPal,Social,Same-Day,19.99,0,United States,Central,Chicago,FALSE
+ORD300157,28-01-2025,C50278,Consumer,P7198,Beauty,Fragrance,1,30.11,12.14,0,30.11,0,30.11,17.97,Credit Card,Email,Standard,3.99,8,India,East,Kolkata,FALSE
+ORD300836,28-01-2025,C50025,Consumer,P6302,Books,Non-fiction,1,17.6,12.21,0,17.6,0,17.6,5.39,Debit Card,Email,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300523,28-01-2025,C50030,Consumer,P5090,Fashion,Footwear,1,12.89,6.22,0.1,12.89,1.29,11.6,5.38,Digital Wallet,Paid Search,Express,9.99,4,Australia,Queensland,Brisbane,TRUE
+ORD300278,29-01-2025,C50019,Consumer,P7029,Beauty,Fragrance,1,13.4,6.95,0,13.4,0,13.4,6.45,Debit Card,Paid Search,Standard,3.99,4,India,South,Chennai,FALSE
+ORD300844,29-01-2025,C50009,Corporate,P4880,Fashion,Women's Apparel,1,54.99,26.99,0.2,54.99,11,43.99,17,PayPal,Email,Express,9.99,2,United States,East,Boston,FALSE
+ORD300067,31-01-2025,C50327,Consumer,P4014,Beauty,Makeup,5,109.39,41.34,0.05,546.95,27.35,519.6,312.9,Credit Card,Paid Search,Standard,3.99,6,United Kingdom,Wales,Cardiff,FALSE
+ORD300105,31-01-2025,C50268,Corporate,P5924,Electronics,Accessories,2,35.22,27.62,0,70.44,0,70.44,15.2,Cash on Delivery,Organic Search,Standard,3.99,4,United States,East,New York,FALSE
+ORD300165,01-02-2025,C50035,Consumer,P1301,Sports,Fitness,2,14.1,9.18,0.1,28.2,2.82,25.38,7.02,Credit Card,Affiliate,Standard,3.99,7,United States,East,New York,FALSE
+ORD300965,02-02-2025,C50305,Corporate,P2416,Electronics,Cameras,2,64.31,51.42,0.1,128.62,12.86,115.76,12.92,Debit Card,Paid Search,Express,9.99,3,United States,East,Boston,FALSE
+ORD300325,02-02-2025,C50211,Consumer,P3664,Beauty,Makeup,1,101.18,41.88,0.05,101.18,5.06,96.12,54.24,Digital Wallet,Affiliate,Standard,3.99,6,United States,West,San Francisco,FALSE
+ORD300303,02-02-2025,C50147,Consumer,P8240,Beauty,Makeup,2,20.16,8.41,0,40.32,0,40.32,23.5,Credit Card,Paid Search,Standard,3.99,7,United States,East,Boston,FALSE
+ORD300114,02-02-2025,C50000,Consumer,P5306,Fashion,Footwear,2,30.27,12.22,0,60.54,0,60.54,36.1,Debit Card,Organic Search,Standard,3.99,5,United Kingdom,England,London,FALSE
+ORD300699,03-02-2025,C50166,Consumer,P6783,Fashion,Women's Apparel,2,15.31,7.87,0,30.62,0,30.62,14.88,Cash on Delivery,Paid Search,Standard,3.99,6,India,East,Bhubaneswar,FALSE
+ORD300149,04-02-2025,C50269,Consumer,P5494,Sports,Cycling,1,25.69,17.95,0,25.69,0,25.69,7.74,Digital Wallet,Social,Standard,3.99,8,United Kingdom,Scotland,Glasgow,FALSE
+ORD300510,04-02-2025,C50172,Consumer,P7199,Electronics,Headphones,1,440.17,340.75,0.4,440.17,176.07,264.1,-76.65,Credit Card,Paid Search,Standard,3.99,4,United States,East,New York,FALSE
+ORD300019,04-02-2025,C50033,Home Office,P1323,Home & Kitchen,Cookware,1,100.68,61.95,0.1,100.68,10.07,90.61,28.66,Cash on Delivery,Direct,Standard,3.99,5,India,East,Bhubaneswar,FALSE
+ORD300330,04-02-2025,C50144,Corporate,P5694,Electronics,Headphones,1,113.57,99.54,0.1,113.57,11.36,102.21,2.67,Credit Card,Organic Search,Express,9.99,4,United States,Central,Chicago,FALSE
+ORD300961,05-02-2025,C50243,Corporate,P1545,Sports,Cycling,2,95.19,60.33,0,190.38,0,190.38,69.72,PayPal,Affiliate,Express,9.99,2,United States,Central,Chicago,FALSE
+ORD300496,06-02-2025,C50282,Consumer,P5088,Sports,Cycling,1,84.14,50.92,0,84.14,0,84.14,33.22,Digital Wallet,Paid Search,Standard,3.99,7,United Kingdom,England,Manchester,FALSE
+ORD300861,06-02-2025,C50014,Consumer,P7504,Fashion,Women's Apparel,1,12.11,5.25,0,12.11,0,12.11,6.86,PayPal,Affiliate,Express,9.99,3,India,East,Kolkata,FALSE
+ORD300528,06-02-2025,C50184,Home Office,P1112,Electronics,Smartphones,2,846,581.16,0,1692,0,1692,529.68,Debit Card,Paid Search,Standard,3.99,4,United States,West,San Francisco,FALSE
+ORD300781,07-02-2025,C50195,Corporate,P4410,Books,Children's,1,15.55,11.1,0,15.55,0,15.55,4.45,Credit Card,Organic Search,Standard,3.99,8,United States,South,Austin,FALSE
+ORD300618,07-02-2025,C50116,Consumer,P8428,Fashion,Bags,1,95.02,52.07,0.1,95.02,9.5,85.52,33.45,Debit Card,Organic Search,Standard,3.99,6,United Kingdom,Wales,Cardiff,TRUE
+ORD300475,08-02-2025,C50221,Consumer,P7318,Electronics,Accessories,1,66.18,52.06,0.3,66.18,19.85,46.33,-5.73,Credit Card,Social,Standard,3.99,7,Australia,NSW,Sydney,FALSE
+ORD300865,10-02-2025,C50245,Consumer,P6234,Home & Kitchen,Cookware,1,229.21,130.36,0.2,229.21,45.84,183.37,53.01,Debit Card,Organic Search,Express,9.99,2,India,South,Bengaluru,FALSE
+ORD300664,11-02-2025,C50222,Consumer,P3992,Fashion,Women's Apparel,1,147.69,69.15,0,147.69,0,147.69,78.54,Digital Wallet,Email,Express,9.99,2,Australia,Victoria,Melbourne,FALSE
+ORD300364,12-02-2025,C50300,Consumer,P7266,Home & Kitchen,Decor,2,19.24,10.78,0.15,38.48,5.77,32.71,11.15,Cash on Delivery,Social,Standard,3.99,7,United States,East,Boston,FALSE
+ORD300966,12-02-2025,C50244,Consumer,P9789,Home & Kitchen,Decor,2,22.44,14.05,0,44.88,0,44.88,16.78,Digital Wallet,Organic Search,Standard,3.99,5,United States,West,Denver,FALSE
+ORD300859,13-02-2025,C50112,Consumer,P8569,Books,Non-fiction,2,6.89,4.66,0,13.78,0,13.78,4.46,Credit Card,Email,Standard,3.99,6,India,West,Mumbai,FALSE
+ORD300413,13-02-2025,C50320,Consumer,P4711,Electronics,Headphones,1,25.85,21.31,0,25.85,0,25.85,4.54,Credit Card,Direct,Same-Day,19.99,0,United States,South,Austin,FALSE
+ORD300054,14-02-2025,C50322,Consumer,P5245,Sports,Outdoor,3,20.36,12.08,0,61.08,0,61.08,24.84,Credit Card,Social,Standard,3.99,6,United Kingdom,England,London,FALSE
+ORD300441,15-02-2025,C50039,Consumer,P8953,Sports,Cycling,1,22.48,15.01,0,22.48,0,22.48,7.47,PayPal,Paid Search,Standard,3.99,7,United States,South,Atlanta,FALSE
+ORD300205,16-02-2025,C50193,Corporate,P3957,Beauty,Skincare,1,23.59,10.76,0,23.59,0,23.59,12.83,Credit Card,Affiliate,Standard,3.99,7,Australia,Victoria,Geelong,FALSE
+ORD300446,16-02-2025,C50321,Consumer,P8285,Fashion,Bags,2,216.11,81.84,0,432.22,0,432.22,268.54,Credit Card,Organic Search,Standard,3.99,7,United Kingdom,England,Manchester,FALSE
+ORD300631,16-02-2025,C50133,Consumer,P8437,Fashion,Footwear,1,47.35,21.06,0,47.35,0,47.35,26.29,PayPal,Paid Search,Express,9.99,2,United Kingdom,Wales,Swansea,FALSE
+ORD300137,17-02-2025,C50320,Consumer,P7228,Home & Kitchen,Furniture,1,111.82,75.71,0,111.82,0,111.82,36.11,Debit Card,Email,Standard,3.99,5,United States,South,Austin,FALSE
+ORD300679,17-02-2025,C50146,Corporate,P2886,Home & Kitchen,Decor,2,27.29,16.56,0,54.58,0,54.58,21.46,Cash on Delivery,Email,Standard,3.99,7,Germany,Berlin,Berlin,FALSE
+ORD300010,17-02-2025,C50087,Consumer,P4484,Sports,Outdoor,1,254.64,152.17,0,254.64,0,254.64,102.47,Debit Card,Organic Search,Standard,3.99,4,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300556,17-02-2025,C50163,Consumer,P4527,Electronics,Accessories,2,175.76,128.35,0.2,351.52,70.3,281.22,24.52,Debit Card,Organic Search,Standard,3.99,8,United States,East,New York,FALSE
+ORD300262,18-02-2025,C50161,Corporate,P3230,Fashion,Footwear,1,160.53,64.65,0,160.53,0,160.53,95.88,PayPal,Paid Search,Same-Day,19.99,0,United Kingdom,Wales,Swansea,FALSE
+ORD300993,18-02-2025,C50105,Consumer,P5016,Beauty,Makeup,3,54.25,19.78,0,162.75,0,162.75,103.41,Digital Wallet,Email,Express,9.99,3,United States,South,Atlanta,FALSE
+ORD300915,19-02-2025,C50193,Corporate,P7146,Fashion,Women's Apparel,3,39.94,19.55,0.2,119.82,23.96,95.86,37.21,Debit Card,Social,Standard,3.99,4,Australia,Victoria,Geelong,FALSE
+ORD300074,19-02-2025,C50080,Consumer,P8937,Electronics,Accessories,1,52.11,35.38,0.15,52.11,7.82,44.29,8.91,Debit Card,Direct,Standard,3.99,5,India,South,Bengaluru,FALSE
+ORD300968,19-02-2025,C50236,Consumer,P7118,Sports,Outdoor,1,20.3,14.2,0.1,20.3,2.03,18.27,4.07,Credit Card,Email,Standard,3.99,7,India,West,Pune,FALSE
+ORD300708,20-02-2025,C50270,Consumer,P7666,Electronics,Headphones,2,39.77,29.47,0.15,79.54,11.93,67.61,8.67,Digital Wallet,Affiliate,Same-Day,19.99,1,India,East,Kolkata,FALSE
+ORD300428,20-02-2025,C50261,Home Office,P8361,Beauty,Skincare,2,40.01,14.64,0.1,80.02,8,72.02,42.74,Digital Wallet,Organic Search,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300046,20-02-2025,C50289,Consumer,P7811,Fashion,Footwear,1,13.34,6.02,0,13.34,0,13.34,7.32,Credit Card,Social,Standard,3.99,8,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300957,20-02-2025,C50017,Consumer,P7397,Electronics,Cameras,2,415.33,341.33,0.05,830.66,41.53,789.13,106.47,Credit Card,Social,Standard,3.99,7,United States,West,Denver,FALSE
+ORD300728,20-02-2025,C50161,Corporate,P1942,Home & Kitchen,Appliances,1,31.61,19.37,0,31.61,0,31.61,12.24,Cash on Delivery,Email,Standard,3.99,7,United Kingdom,Wales,Swansea,FALSE
+ORD300636,20-02-2025,C50075,Corporate,P3211,Fashion,Women's Apparel,2,249.57,113.32,0,499.14,0,499.14,272.5,Credit Card,Affiliate,Express,9.99,2,United Kingdom,Scotland,Glasgow,FALSE
+ORD300578,21-02-2025,C50186,Corporate,P3789,Fashion,Bags,2,16.54,7.22,0,33.08,0,33.08,18.64,PayPal,Affiliate,Standard,3.99,6,United Kingdom,Scotland,Glasgow,FALSE
+ORD300495,21-02-2025,C50003,Consumer,P2525,Fashion,Bags,1,44.56,16.59,0.1,44.56,4.46,40.1,23.51,Cash on Delivery,Direct,Express,9.99,3,India,West,Mumbai,FALSE
+ORD300988,21-02-2025,C50035,Consumer,P6297,Electronics,Laptops,2,1130.58,945.51,0,2261.16,0,2261.16,370.14,Credit Card,Paid Search,Standard,3.99,8,United States,East,New York,FALSE
+ORD300617,21-02-2025,C50229,Home Office,P4132,Home & Kitchen,Cookware,1,828.63,422.19,0,828.63,0,828.63,406.44,Credit Card,Email,Express,9.99,2,United States,Central,Chicago,FALSE
+ORD300954,22-02-2025,C50222,Consumer,P3943,Electronics,Laptops,2,960.26,763.72,0.15,1920.52,288.08,1632.44,105,PayPal,Direct,Express,9.99,2,Australia,Victoria,Melbourne,TRUE
+ORD300098,22-02-2025,C50080,Consumer,P5678,Sports,Cycling,2,74.02,43.2,0,148.04,0,148.04,61.64,Credit Card,Paid Search,Standard,3.99,8,India,South,Bengaluru,FALSE
+ORD300155,22-02-2025,C50059,Consumer,P7505,Home & Kitchen,Furniture,1,50.63,27.22,0,50.63,0,50.63,23.41,Credit Card,Social,Standard,3.99,4,India,West,Pune,FALSE
+ORD300786,22-02-2025,C50069,Consumer,P9737,Fashion,Footwear,1,36.21,15.74,0,36.21,0,36.21,20.47,Digital Wallet,Organic Search,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300722,23-02-2025,C50305,Corporate,P5942,Beauty,Skincare,1,76.79,24.34,0,76.79,0,76.79,52.45,Cash on Delivery,Social,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300866,23-02-2025,C50221,Consumer,P1395,Electronics,Headphones,1,76.92,64.67,0,76.92,0,76.92,12.25,PayPal,Email,Express,9.99,2,Australia,NSW,Sydney,FALSE
+ORD300838,23-02-2025,C50182,Consumer,P2017,Beauty,Makeup,1,8.07,2.83,0,8.07,0,8.07,5.24,Digital Wallet,Paid Search,Express,9.99,4,United Kingdom,England,London,FALSE
+ORD300711,24-02-2025,C50020,Home Office,P6958,Fashion,Footwear,1,19.26,9.49,0.05,19.26,0.96,18.3,8.81,Credit Card,Organic Search,Standard,3.99,5,India,South,Bengaluru,FALSE
+ORD300787,25-02-2025,C50173,Corporate,P5826,Home & Kitchen,Decor,1,79.87,48.96,0.2,79.87,15.97,63.9,14.94,PayPal,Organic Search,Standard,3.99,7,United Kingdom,England,Manchester,FALSE
+ORD300628,26-02-2025,C50257,Consumer,P7238,Electronics,Accessories,1,28.84,22.71,0.1,28.84,2.88,25.96,3.25,Credit Card,Organic Search,Standard,3.99,6,United States,South,Austin,FALSE
+ORD300222,26-02-2025,C50047,Consumer,P2882,Beauty,Skincare,2,16.34,6.89,0.3,32.68,9.8,22.88,9.1,Debit Card,Social,Same-Day,19.99,0,India,North,Delhi,FALSE
+ORD300064,27-02-2025,C50173,Corporate,P3801,Books,Children's,1,18.25,12.16,0.15,18.25,2.74,15.51,3.35,Credit Card,Email,Express,9.99,2,United Kingdom,England,Manchester,FALSE
+ORD300437,27-02-2025,C50245,Consumer,P8622,Sports,Outdoor,1,15.91,10.56,0,15.91,0,15.91,5.35,Credit Card,Direct,Standard,3.99,8,India,South,Bengaluru,FALSE
+ORD300621,27-02-2025,C50337,Home Office,P9449,Fashion,Women's Apparel,1,33.41,11.32,0,33.41,0,33.41,22.09,Digital Wallet,Email,Standard,3.99,5,India,South,Chennai,FALSE
+ORD300421,28-02-2025,C50001,Consumer,P1712,Beauty,Fragrance,1,23.82,9.74,0,23.82,0,23.82,14.08,Cash on Delivery,Affiliate,Express,9.99,2,United States,South,Atlanta,FALSE
+ORD300652,28-02-2025,C50333,Consumer,P6472,Beauty,Fragrance,1,24.8,11.07,0,24.8,0,24.8,13.73,Credit Card,Email,Standard,3.99,5,Germany,Hesse,Frankfurt,FALSE
+ORD300497,28-02-2025,C50218,Home Office,P8583,Electronics,Laptops,2,119.77,92.99,0.15,239.54,35.93,203.61,17.63,Cash on Delivery,Direct,Standard,3.99,6,United States,East,New York,FALSE
+ORD300435,28-02-2025,C50260,Corporate,P9731,Home & Kitchen,Appliances,1,26.3,15.06,0.1,26.3,2.63,23.67,8.61,PayPal,Paid Search,Standard,3.99,7,Australia,Victoria,Melbourne,FALSE
+ORD300589,01-03-2025,C50305,Corporate,P9634,Electronics,Headphones,1,239.03,173.48,0,239.03,0,239.03,65.55,Debit Card,Paid Search,Standard,3.99,4,United States,East,Boston,FALSE
+ORD300715,04-03-2025,C50155,Consumer,P7475,Sports,Cycling,1,248.16,136.87,0.1,248.16,24.82,223.34,86.47,Digital Wallet,Email,Express,9.99,2,Australia,Victoria,Melbourne,FALSE
+ORD300819,05-03-2025,C50071,Consumer,P6104,Beauty,Skincare,1,9.37,3.85,0.05,9.37,0.47,8.9,5.05,Credit Card,Email,Express,9.99,3,Australia,NSW,Sydney,FALSE
+ORD300072,06-03-2025,C50195,Corporate,P3907,Fashion,Footwear,1,45.31,18.53,0,45.31,0,45.31,26.78,PayPal,Email,Standard,3.99,4,United States,South,Austin,FALSE
+ORD300461,07-03-2025,C50041,Consumer,P9541,Sports,Cycling,1,60.55,43.45,0,60.55,0,60.55,17.1,PayPal,Organic Search,Standard,3.99,8,United States,West,Seattle,FALSE
+ORD300770,07-03-2025,C50119,Consumer,P3212,Fashion,Bags,1,26,9.37,0,26,0,26,16.63,Digital Wallet,Email,Same-Day,19.99,1,Germany,Hesse,Frankfurt,FALSE
+ORD300229,08-03-2025,C50077,Corporate,P1534,Beauty,Skincare,3,23.39,9.35,0,70.17,0,70.17,42.12,Credit Card,Social,Standard,3.99,5,Germany,Berlin,Berlin,TRUE
+ORD300238,08-03-2025,C50233,Corporate,P7291,Home & Kitchen,Cookware,1,256.79,167.67,0.1,256.79,25.68,231.11,63.44,Cash on Delivery,Paid Search,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300411,09-03-2025,C50097,Home Office,P7913,Electronics,Accessories,1,143.99,109.56,0,143.99,0,143.99,34.43,Credit Card,Direct,Standard,3.99,5,United Kingdom,England,Manchester,FALSE
+ORD300081,11-03-2025,C50172,Consumer,P7507,Electronics,Laptops,1,309.21,249.39,0.1,309.21,30.92,278.29,28.9,Digital Wallet,Organic Search,Express,9.99,3,United States,East,New York,FALSE
+ORD300065,12-03-2025,C50143,Corporate,P9568,Sports,Cycling,3,205.74,127.32,0,617.22,0,617.22,235.26,Digital Wallet,Email,Express,9.99,4,United Kingdom,England,Manchester,FALSE
+ORD300757,12-03-2025,C50192,Consumer,P3175,Home & Kitchen,Cookware,1,20.83,11.35,0.2,20.83,4.17,16.66,5.31,Credit Card,Organic Search,Express,9.99,2,India,South,Chennai,FALSE
+ORD300532,12-03-2025,C50168,Consumer,P2157,Fashion,Bags,1,29.41,13.25,0,29.41,0,29.41,16.16,PayPal,Paid Search,Standard,3.99,6,Australia,NSW,Newcastle,FALSE
+ORD300826,14-03-2025,C50104,Corporate,P6224,Fashion,Men's Apparel,3,99.28,44.9,0,297.84,0,297.84,163.14,Credit Card,Email,Standard,3.99,5,Australia,Victoria,Geelong,FALSE
+ORD300367,16-03-2025,C50117,Consumer,P9571,Beauty,Skincare,1,9.41,3.78,0,9.41,0,9.41,5.63,Credit Card,Email,Standard,3.99,6,Australia,Victoria,Melbourne,FALSE
+ORD300766,17-03-2025,C50151,Consumer,P9797,Sports,Cycling,1,315.21,197.68,0.3,315.21,94.56,220.65,22.97,Credit Card,Organic Search,Express,9.99,3,India,South,Chennai,FALSE
+ORD300731,17-03-2025,C50017,Consumer,P5963,Sports,Fitness,1,12.5,7.04,0,12.5,0,12.5,5.46,PayPal,Direct,Same-Day,19.99,1,United States,West,Denver,FALSE
+ORD300478,20-03-2025,C50031,Consumer,P8326,Beauty,Skincare,2,15.03,6.58,0,30.06,0,30.06,16.9,Cash on Delivery,Affiliate,Express,9.99,3,United States,West,Seattle,FALSE
+ORD300623,22-03-2025,C50132,Consumer,P6804,Fashion,Bags,1,15.01,5.07,0,15.01,0,15.01,9.94,Cash on Delivery,Paid Search,Standard,3.99,5,India,North,Jaipur,FALSE
+ORD300867,24-03-2025,C50138,Corporate,P3257,Electronics,Headphones,1,375.06,289.49,0,375.06,0,375.06,85.57,Credit Card,Direct,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300002,25-03-2025,C50062,Consumer,P8741,Fashion,Women's Apparel,1,110.13,60.55,0.1,110.13,11.01,99.12,38.57,PayPal,Social,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300738,25-03-2025,C50079,Consumer,P5657,Fashion,Women's Apparel,1,207.25,113.19,0.1,207.25,20.73,186.52,73.33,Cash on Delivery,Social,Express,9.99,3,United States,South,Atlanta,FALSE
+ORD300977,26-03-2025,C50226,Consumer,P3484,Books,Non-fiction,1,15.87,12.26,0,15.87,0,15.87,3.61,Credit Card,Organic Search,Express,9.99,3,United Kingdom,England,Manchester,TRUE
+ORD300097,26-03-2025,C50271,Consumer,P9707,Fashion,Men's Apparel,1,12.53,5.74,0.3,12.53,3.76,8.77,3.03,Credit Card,Social,Express,9.99,4,United States,South,Austin,FALSE
+ORD300584,27-03-2025,C50301,Corporate,P2038,Electronics,Cameras,1,408.15,311.49,0.2,408.15,81.63,326.52,15.03,Digital Wallet,Social,Standard,3.99,4,India,North,Delhi,FALSE
+ORD300275,28-03-2025,C50031,Consumer,P2832,Sports,Cycling,1,70.58,46.23,0.15,70.58,10.59,59.99,13.76,PayPal,Paid Search,Standard,3.99,7,United States,West,Seattle,FALSE
+ORD300181,29-03-2025,C50099,Corporate,P9982,Home & Kitchen,Decor,2,39.73,24.67,0,79.46,0,79.46,30.12,PayPal,Social,Express,9.99,2,United States,South,Atlanta,FALSE
+ORD300546,30-03-2025,C50057,Consumer,P4957,Home & Kitchen,Cookware,1,157.16,85.04,0,157.16,0,157.16,72.12,Credit Card,Paid Search,Express,9.99,3,United States,Central,Chicago,FALSE
+ORD300442,30-03-2025,C50251,Home Office,P1637,Electronics,Laptops,1,1514.51,1098.94,0,1514.51,0,1514.51,415.57,Digital Wallet,Email,Express,9.99,3,United Kingdom,England,Manchester,FALSE
+ORD300935,02-04-2025,C50320,Consumer,P1340,Fashion,Footwear,2,39.64,14.8,0,79.28,0,79.28,49.68,Cash on Delivery,Social,Standard,3.99,5,United States,South,Austin,TRUE
+ORD300174,03-04-2025,C50055,Consumer,P2529,Electronics,Headphones,1,32.18,26.83,0,32.18,0,32.18,5.35,Credit Card,Affiliate,Standard,3.99,7,India,West,Pune,FALSE
+ORD300231,04-04-2025,C50176,Home Office,P2007,Sports,Outdoor,1,43.9,30.73,0,43.9,0,43.9,13.17,PayPal,Email,Standard,3.99,6,India,North,Jaipur,TRUE
+ORD300062,05-04-2025,C50318,Consumer,P3120,Home & Kitchen,Decor,1,179.21,126.49,0,179.21,0,179.21,52.72,Credit Card,Paid Search,Standard,3.99,5,United States,East,New York,FALSE
+ORD300178,05-04-2025,C50258,Consumer,P1022,Electronics,Laptops,2,1271.64,1029.95,0.15,2543.28,381.49,2161.79,101.89,Debit Card,Email,Standard,3.99,6,United Kingdom,Wales,Swansea,FALSE
+ORD300794,05-04-2025,C50038,Home Office,P4410,Fashion,Footwear,1,116.7,53.59,0,116.7,0,116.7,63.11,Credit Card,Social,Standard,3.99,7,United States,South,Austin,FALSE
+ORD300299,06-04-2025,C50102,Corporate,P3458,Fashion,Men's Apparel,1,19.93,9.48,0,19.93,0,19.93,10.45,PayPal,Social,Standard,3.99,4,Germany,Bavaria,Nuremberg,FALSE
+ORD300517,06-04-2025,C50026,Consumer,P6820,Electronics,Smartphones,2,47.79,40.84,0.3,95.58,28.67,66.91,-14.77,Credit Card,Affiliate,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300316,06-04-2025,C50215,Consumer,P4544,Sports,Cycling,2,283.32,178.43,0.2,566.64,113.33,453.31,96.45,PayPal,Organic Search,Standard,3.99,6,Germany,Berlin,Berlin,FALSE
+ORD300237,07-04-2025,C50101,Consumer,P7943,Beauty,Skincare,3,63.7,25.05,0,191.1,0,191.1,115.95,Debit Card,Email,Standard,3.99,4,United States,East,New York,FALSE
+ORD300745,08-04-2025,C50021,Consumer,P8798,Beauty,Skincare,1,14.63,6.92,0.15,14.63,2.19,12.44,5.52,Credit Card,Direct,Standard,3.99,8,United Kingdom,Wales,Swansea,FALSE
+ORD300895,08-04-2025,C50109,Consumer,P9322,Sports,Cycling,1,572.08,405.83,0,572.08,0,572.08,166.25,Cash on Delivery,Email,Standard,3.99,7,India,South,Bengaluru,FALSE
+ORD300118,08-04-2025,C50319,Consumer,P9238,Beauty,Fragrance,4,73.61,31.83,0,294.44,0,294.44,167.12,Cash on Delivery,Paid Search,Express,9.99,3,United Kingdom,Wales,Cardiff,FALSE
+ORD300808,09-04-2025,C50039,Consumer,P1002,Electronics,Headphones,1,181.23,156.83,0.1,181.23,18.12,163.11,6.28,Digital Wallet,Organic Search,Standard,3.99,7,United States,South,Atlanta,FALSE
+ORD300858,09-04-2025,C50197,Home Office,P6074,Fashion,Footwear,1,29.57,13.23,0,29.57,0,29.57,16.34,PayPal,Paid Search,Express,9.99,3,Australia,NSW,Newcastle,FALSE
+ORD300643,10-04-2025,C50294,Home Office,P9925,Sports,Fitness,1,476.54,289.09,0,476.54,0,476.54,187.45,Digital Wallet,Paid Search,Express,9.99,4,United Kingdom,Wales,Cardiff,TRUE
+ORD300007,10-04-2025,C50112,Consumer,P3900,Books,Children's,1,20.15,12.44,0.15,20.15,3.02,17.13,4.69,PayPal,Paid Search,Standard,3.99,8,India,West,Mumbai,FALSE
+ORD300773,10-04-2025,C50287,Consumer,P5070,Home & Kitchen,Appliances,1,23.94,12.19,0,23.94,0,23.94,11.75,Credit Card,Paid Search,Standard,3.99,4,India,West,Mumbai,FALSE
+ORD300143,11-04-2025,C50306,Consumer,P1315,Electronics,Smartphones,1,1294.29,1057.72,0,1294.29,0,1294.29,236.57,PayPal,Email,Standard,3.99,5,Germany,Bavaria,Nuremberg,FALSE
+ORD300115,11-04-2025,C50231,Consumer,P1204,Beauty,Skincare,1,57.97,24.32,0,57.97,0,57.97,33.65,Debit Card,Social,Standard,3.99,8,United Kingdom,Wales,Cardiff,TRUE
+ORD300916,13-04-2025,C50260,Corporate,P6315,Fashion,Bags,3,56.34,20.71,0,169.02,0,169.02,106.89,Credit Card,Paid Search,Express,9.99,2,Australia,Victoria,Melbourne,TRUE
+ORD300375,13-04-2025,C50108,Home Office,P2494,Home & Kitchen,Decor,4,22.35,14.52,0,89.4,0,89.4,31.32,Digital Wallet,Organic Search,Standard,3.99,8,United Kingdom,Wales,Swansea,FALSE
+ORD300384,15-04-2025,C50096,Corporate,P8118,Fashion,Women's Apparel,1,24.21,11.74,0.2,24.21,4.84,19.37,7.63,PayPal,Email,Standard,3.99,8,United Kingdom,Wales,Swansea,FALSE
+ORD300602,15-04-2025,C50143,Corporate,P9877,Electronics,Headphones,3,190.85,156.72,0.2,572.55,114.51,458.04,-12.12,Digital Wallet,Organic Search,Standard,3.99,8,United Kingdom,England,Manchester,FALSE
+ORD300283,17-04-2025,C50170,Consumer,P9523,Beauty,Makeup,1,15.45,6.03,0.1,15.45,1.54,13.91,7.88,Credit Card,Affiliate,Standard,3.99,6,Australia,Queensland,Gold Coast,FALSE
+ORD300323,17-04-2025,C50034,Consumer,P3956,Home & Kitchen,Cookware,1,41.8,21.18,0,41.8,0,41.8,20.62,Digital Wallet,Organic Search,Standard,3.99,5,United States,South,Atlanta,FALSE
+ORD300172,17-04-2025,C50094,Corporate,P9506,Sports,Cycling,1,21.21,12.6,0.15,21.21,3.18,18.03,5.43,Credit Card,Organic Search,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300287,17-04-2025,C50145,Corporate,P8508,Sports,Outdoor,2,10.12,6.67,0,20.24,0,20.24,6.9,Debit Card,Social,Standard,3.99,7,United States,West,Denver,FALSE
+ORD300103,19-04-2025,C50245,Consumer,P1554,Fashion,Men's Apparel,3,20.08,9.28,0,60.24,0,60.24,32.4,Cash on Delivery,Organic Search,Express,9.99,2,India,South,Bengaluru,FALSE
+ORD300697,21-04-2025,C50118,Consumer,P2914,Sports,Fitness,1,241.52,162.56,0,241.52,0,241.52,78.96,Cash on Delivery,Direct,Express,9.99,4,United States,West,Denver,FALSE
+ORD300491,22-04-2025,C50262,Consumer,P5009,Beauty,Skincare,1,8.87,3.56,0.05,8.87,0.44,8.43,4.87,PayPal,Direct,Standard,3.99,5,United States,Central,Chicago,FALSE
+ORD300068,22-04-2025,C50089,Consumer,P4437,Home & Kitchen,Appliances,3,246.87,155.76,0.2,740.61,148.12,592.49,125.21,Credit Card,Paid Search,Express,9.99,3,India,South,Bengaluru,FALSE
+ORD300978,22-04-2025,C50126,Consumer,P5866,Beauty,Skincare,1,114.36,44.37,0,114.36,0,114.36,69.99,Debit Card,Paid Search,Standard,3.99,7,United States,West,Denver,FALSE
+ORD300024,23-04-2025,C50190,Consumer,P1675,Sports,Outdoor,1,30.36,18.78,0.15,30.36,4.55,25.81,7.03,Digital Wallet,Email,Express,9.99,4,Germany,Hesse,Wiesbaden,FALSE
+ORD300755,24-04-2025,C50174,Corporate,P1606,Home & Kitchen,Furniture,1,82.24,47.34,0.05,82.24,4.11,78.13,30.79,Debit Card,Paid Search,Standard,3.99,8,India,West,Mumbai,FALSE
+ORD300405,26-04-2025,C50309,Consumer,P1926,Home & Kitchen,Cookware,1,225.76,126.45,0,225.76,0,225.76,99.31,PayPal,Organic Search,Same-Day,19.99,1,United States,South,Austin,FALSE
+ORD300070,27-04-2025,C50119,Consumer,P1425,Electronics,Headphones,5,167.56,134.15,0,837.8,0,837.8,167.05,Credit Card,Organic Search,Standard,3.99,4,Germany,Hesse,Frankfurt,FALSE
+ORD300040,28-04-2025,C50130,Home Office,P4277,Books,Children's,1,6.34,4.51,0.05,6.34,0.32,6.02,1.51,PayPal,Paid Search,Standard,3.99,6,Australia,NSW,Sydney,FALSE
+ORD300788,29-04-2025,C50008,Home Office,P8189,Fashion,Bags,1,245.57,110.02,0.05,245.57,12.28,233.29,123.27,Cash on Delivery,Organic Search,Express,9.99,4,United States,West,San Francisco,FALSE
+ORD300267,29-04-2025,C50295,Corporate,P2429,Electronics,Headphones,1,1192.61,925.92,0.15,1192.61,178.89,1013.72,87.8,PayPal,Email,Standard,3.99,8,Australia,Victoria,Melbourne,FALSE
+ORD300051,29-04-2025,C50092,Corporate,P2349,Electronics,Cameras,2,79.1,62.26,0.1,158.2,15.82,142.38,17.86,Credit Card,Direct,Standard,3.99,8,United States,Central,Kansas City,FALSE
+ORD300112,29-04-2025,C50215,Consumer,P2490,Fashion,Bags,1,33.86,11.95,0.2,33.86,6.77,27.09,15.14,PayPal,Paid Search,Standard,3.99,6,Germany,Berlin,Berlin,FALSE
+ORD300817,30-04-2025,C50165,Consumer,P6416,Beauty,Makeup,1,80.07,38.13,0.1,80.07,8.01,72.06,33.93,Debit Card,Email,Standard,3.99,7,Australia,Victoria,Geelong,TRUE
+ORD300553,01-05-2025,C50192,Consumer,P8216,Sports,Fitness,2,16.82,10.44,0.1,33.64,3.36,30.28,9.4,PayPal,Social,Standard,3.99,6,India,South,Chennai,FALSE
+ORD300515,02-05-2025,C50196,Consumer,P9561,Electronics,Laptops,2,1424.58,1209.62,0.15,2849.16,427.37,2421.79,2.55,Credit Card,Paid Search,Standard,3.99,6,United Kingdom,Wales,Swansea,FALSE
+ORD300814,03-05-2025,C50003,Consumer,P2565,Beauty,Makeup,1,58.81,21.55,0,58.81,0,58.81,37.26,Credit Card,Organic Search,Express,9.99,2,India,West,Mumbai,FALSE
+ORD300989,05-05-2025,C50149,Consumer,P4405,Fashion,Bags,1,253.9,119.7,0,253.9,0,253.9,134.2,Credit Card,Organic Search,Same-Day,19.99,1,United States,East,New York,FALSE
+ORD300386,05-05-2025,C50253,Consumer,P9182,Fashion,Women's Apparel,4,57.84,27.14,0.4,231.36,92.54,138.82,30.26,Debit Card,Paid Search,Standard,3.99,4,United States,East,Boston,FALSE
+ORD300879,05-05-2025,C50066,Consumer,P9490,Home & Kitchen,Appliances,1,563.71,289.15,0.05,563.71,28.19,535.52,246.37,Credit Card,Social,Same-Day,19.99,1,India,West,Pune,FALSE
+ORD300130,07-05-2025,C50295,Corporate,P3782,Beauty,Makeup,1,65.68,22.11,0,65.68,0,65.68,43.57,Credit Card,Social,Standard,3.99,4,Australia,Victoria,Melbourne,FALSE
+ORD300548,07-05-2025,C50247,Consumer,P1946,Electronics,Smartphones,1,226.4,176.4,0,226.4,0,226.4,50,Credit Card,Social,Standard,3.99,7,India,South,Chennai,FALSE
+ORD300688,08-05-2025,C50028,Home Office,P8686,Beauty,Fragrance,1,10.16,3.53,0.15,10.16,1.52,8.64,5.11,Credit Card,Social,Standard,3.99,4,Germany,Bavaria,Nuremberg,FALSE
+ORD300686,10-05-2025,C50215,Consumer,P4006,Electronics,Cameras,2,193.41,146.5,0,386.82,0,386.82,93.82,Digital Wallet,Organic Search,Express,9.99,4,Germany,Berlin,Berlin,FALSE
+ORD300258,11-05-2025,C50142,Consumer,P9369,Fashion,Men's Apparel,2,36.07,17.43,0,72.14,0,72.14,37.28,PayPal,Paid Search,Express,9.99,2,United States,East,Boston,FALSE
+ORD300918,11-05-2025,C50304,Consumer,P3897,Beauty,Makeup,1,37.69,15.91,0.15,37.69,5.65,32.04,16.13,Credit Card,Organic Search,Standard,3.99,6,United States,Central,Kansas City,TRUE
+ORD300820,13-05-2025,C50108,Home Office,P5909,Beauty,Fragrance,1,21.29,5.69,0,21.29,0,21.29,15.6,Credit Card,Affiliate,Standard,3.99,7,United Kingdom,Wales,Swansea,FALSE
+ORD300943,13-05-2025,C50233,Corporate,P6225,Fashion,Footwear,1,157.43,49.56,0,157.43,0,157.43,107.87,Debit Card,Affiliate,Standard,3.99,4,United States,East,Boston,FALSE
+ORD300675,15-05-2025,C50256,Consumer,P2510,Sports,Cycling,1,37.26,22.8,0,37.26,0,37.26,14.46,Debit Card,Organic Search,Express,9.99,3,India,West,Mumbai,FALSE
+ORD300063,15-05-2025,C50125,Corporate,P7395,Fashion,Men's Apparel,1,14.89,7.39,0.05,14.89,0.74,14.15,6.76,Debit Card,Social,Standard,3.99,7,United States,Central,Chicago,FALSE
+ORD300302,16-05-2025,C50276,Consumer,P7457,Electronics,Laptops,1,443.31,348,0,443.31,0,443.31,95.31,Credit Card,Paid Search,Express,9.99,2,United Kingdom,England,London,FALSE
+ORD300754,16-05-2025,C50312,Consumer,P9751,Books,Children's,2,20.29,14,0,40.58,0,40.58,12.58,Debit Card,Direct,Standard,3.99,6,India,South,Chennai,FALSE
+ORD300399,16-05-2025,C50280,Consumer,P3985,Fashion,Bags,3,13.17,6.12,0,39.51,0,39.51,21.15,Cash on Delivery,Affiliate,Same-Day,19.99,1,United States,Central,Kansas City,FALSE
+ORD300701,17-05-2025,C50044,Home Office,P2780,Electronics,Laptops,1,179.22,137.23,0,179.22,0,179.22,41.99,Credit Card,Paid Search,Express,9.99,4,Germany,Bavaria,Nuremberg,FALSE
+ORD300219,17-05-2025,C50141,Consumer,P8660,Fashion,Footwear,1,227.34,100.53,0,227.34,0,227.34,126.81,Credit Card,Paid Search,Same-Day,19.99,0,United States,East,New York,FALSE
+ORD300804,18-05-2025,C50148,Corporate,P2343,Fashion,Footwear,1,212.03,77.99,0,212.03,0,212.03,134.04,Cash on Delivery,Social,Standard,3.99,4,United States,Central,Kansas City,FALSE
+ORD300882,19-05-2025,C50059,Consumer,P9374,Beauty,Makeup,1,124.61,60.43,0,124.61,0,124.61,64.18,Credit Card,Social,Express,9.99,3,India,West,Pune,FALSE
+ORD300856,20-05-2025,C50319,Consumer,P6524,Electronics,Accessories,1,25.48,18.72,0,25.48,0,25.48,6.76,Debit Card,Email,Standard,3.99,5,United Kingdom,Wales,Cardiff,FALSE
+ORD300529,21-05-2025,C50210,Consumer,P2279,Fashion,Bags,3,15.56,7.08,0.1,46.68,4.67,42.01,20.77,Cash on Delivery,Organic Search,Standard,3.99,7,Australia,NSW,Sydney,FALSE
+ORD300247,21-05-2025,C50290,Consumer,P1929,Beauty,Skincare,1,17.26,7.73,0,17.26,0,17.26,9.53,Debit Card,Organic Search,Standard,3.99,8,Australia,NSW,Newcastle,FALSE
+ORD300000,22-05-2025,C50338,Consumer,P9816,Fashion,Women's Apparel,1,64.52,33.87,0,64.52,0,64.52,30.65,Credit Card,Email,Standard,3.99,5,United States,East,Boston,TRUE
+ORD300683,23-05-2025,C50133,Consumer,P4137,Fashion,Women's Apparel,5,192.49,89.15,0.1,962.45,96.25,866.2,420.45,PayPal,Email,Standard,3.99,6,United Kingdom,Wales,Swansea,FALSE
+ORD300737,24-05-2025,C50008,Home Office,P3557,Fashion,Bags,2,52.63,25.13,0.15,105.26,15.79,89.47,39.21,Credit Card,Social,Standard,3.99,6,United States,West,San Francisco,TRUE
+ORD300942,26-05-2025,C50042,Consumer,P7287,Electronics,Cameras,5,159.65,114.29,0,798.25,0,798.25,226.8,Credit Card,Paid Search,Standard,3.99,7,United States,Central,Chicago,TRUE
+ORD300970,26-05-2025,C50307,Consumer,P6006,Electronics,Laptops,1,203.11,147.77,0.1,203.11,20.31,182.8,35.03,PayPal,Email,Standard,3.99,7,India,East,Bhubaneswar,FALSE
+ORD300197,27-05-2025,C50231,Consumer,P5522,Fashion,Men's Apparel,1,30.72,13.44,0,30.72,0,30.72,17.28,Credit Card,Social,Standard,3.99,8,United Kingdom,Wales,Cardiff,TRUE
+ORD300463,28-05-2025,C50266,Home Office,P9929,Fashion,Women's Apparel,4,126.12,57.16,0,504.48,0,504.48,275.84,Debit Card,Organic Search,Standard,3.99,5,United States,South,Austin,FALSE
+ORD300077,30-05-2025,C50137,Consumer,P8501,Fashion,Bags,1,75.22,28.14,0,75.22,0,75.22,47.08,Debit Card,Affiliate,Express,9.99,4,United Kingdom,England,London,FALSE
+ORD300216,30-05-2025,C50332,Consumer,P5953,Electronics,Laptops,1,429.42,343.27,0.1,429.42,42.94,386.48,43.21,Credit Card,Organic Search,Standard,3.99,7,United States,South,Atlanta,FALSE
+ORD300663,30-05-2025,C50321,Consumer,P2116,Electronics,Smartphones,2,1302.96,995.17,0,2605.92,0,2605.92,615.58,Credit Card,Social,Standard,3.99,4,United Kingdom,England,Manchester,FALSE
+ORD300125,30-05-2025,C50204,Consumer,P5059,Electronics,Cameras,1,132.65,92.65,0,132.65,0,132.65,40,Credit Card,Paid Search,Same-Day,19.99,0,India,West,Mumbai,FALSE
+ORD300363,30-05-2025,C50286,Consumer,P1100,Fashion,Bags,1,115.21,56.51,0,115.21,0,115.21,58.7,Cash on Delivery,Social,Standard,3.99,7,United States,Central,Kansas City,FALSE
+ORD300050,31-05-2025,C50045,Corporate,P3030,Fashion,Bags,1,208.29,83.65,0.2,208.29,41.66,166.63,82.98,Credit Card,Direct,Express,9.99,2,United States,West,San Francisco,FALSE
+ORD300288,31-05-2025,C50211,Consumer,P4487,Sports,Fitness,1,77.73,51.9,0,77.73,0,77.73,25.83,Debit Card,Organic Search,Standard,3.99,7,United States,West,San Francisco,FALSE
+ORD300035,01-06-2025,C50167,Home Office,P5736,Fashion,Bags,2,93.79,43.13,0,187.58,0,187.58,101.32,Debit Card,Organic Search,Standard,3.99,7,India,North,Delhi,FALSE
+ORD300544,02-06-2025,C50334,Consumer,P4639,Sports,Outdoor,3,106.37,68.25,0.1,319.11,31.91,287.2,82.45,PayPal,Paid Search,Standard,3.99,6,Germany,Berlin,Berlin,FALSE
+ORD300672,03-06-2025,C50273,Consumer,P8999,Home & Kitchen,Appliances,1,43.2,27.69,0,43.2,0,43.2,15.51,Credit Card,Direct,Standard,3.99,6,United States,East,Boston,FALSE
+ORD300790,03-06-2025,C50084,Consumer,P1664,Beauty,Fragrance,3,9.86,3.8,0.1,29.58,2.96,26.62,15.22,Credit Card,Social,Standard,3.99,6,United Kingdom,England,London,FALSE
+ORD300425,07-06-2025,C50090,Consumer,P6039,Electronics,Headphones,1,42.3,31.84,0.1,42.3,4.23,38.07,6.23,Digital Wallet,Paid Search,Standard,3.99,4,India,West,Pune,FALSE
+ORD300369,07-06-2025,C50177,Corporate,P3477,Home & Kitchen,Decor,1,29.24,18.46,0.05,29.24,1.46,27.78,9.32,Credit Card,Social,Standard,3.99,7,United States,Central,Kansas City,FALSE
+ORD300292,08-06-2025,C50338,Consumer,P1913,Beauty,Makeup,1,62.32,21.72,0,62.32,0,62.32,40.6,Digital Wallet,Direct,Standard,3.99,4,United States,East,Boston,TRUE
+ORD300941,09-06-2025,C50044,Home Office,P8570,Electronics,Smartphones,1,533.02,482.81,0.2,533.02,106.6,426.42,-56.39,Debit Card,Direct,Standard,3.99,7,Germany,Bavaria,Nuremberg,FALSE
+ORD300593,09-06-2025,C50145,Corporate,P1858,Home & Kitchen,Furniture,3,249.78,169.52,0,749.34,0,749.34,240.78,Credit Card,Paid Search,Standard,3.99,8,United States,West,Denver,FALSE
+ORD300356,10-06-2025,C50081,Home Office,P1715,Fashion,Men's Apparel,1,129.3,53.07,0.15,129.3,19.39,109.91,56.84,Digital Wallet,Organic Search,Standard,3.99,4,India,East,Bhubaneswar,TRUE
+ORD300432,10-06-2025,C50152,Consumer,P8567,Electronics,Laptops,1,380.1,310.58,0,380.1,0,380.1,69.52,Debit Card,Paid Search,Express,9.99,3,India,East,Kolkata,FALSE
+ORD300464,11-06-2025,C50256,Consumer,P4629,Fashion,Bags,2,19.13,8.75,0.1,38.26,3.83,34.43,16.93,Credit Card,Social,Standard,3.99,5,India,West,Mumbai,FALSE
+ORD300911,13-06-2025,C50210,Consumer,P8004,Fashion,Men's Apparel,1,251.82,99.37,0.1,251.82,25.18,226.64,127.27,Credit Card,Affiliate,Standard,3.99,8,Australia,NSW,Sydney,FALSE
+ORD300555,13-06-2025,C50278,Consumer,P8124,Beauty,Makeup,1,120.39,44.42,0,120.39,0,120.39,75.97,PayPal,Email,Standard,3.99,6,India,East,Kolkata,FALSE
+ORD300887,14-06-2025,C50240,Consumer,P8838,Beauty,Skincare,1,58.89,22.93,0,58.89,0,58.89,35.96,Debit Card,Direct,Standard,3.99,7,India,North,Delhi,FALSE
+ORD300930,16-06-2025,C50288,Consumer,P6183,Fashion,Men's Apparel,1,76.64,35.44,0,76.64,0,76.64,41.2,Digital Wallet,Email,Same-Day,19.99,1,United Kingdom,Scotland,Glasgow,FALSE
+ORD300388,16-06-2025,C50332,Consumer,P8538,Electronics,Headphones,2,78.03,59.4,0,156.06,0,156.06,37.26,Digital Wallet,Social,Standard,3.99,7,United States,South,Atlanta,FALSE
+ORD300695,17-06-2025,C50332,Consumer,P4310,Home & Kitchen,Furniture,4,28.01,17.01,0,112.04,0,112.04,44,PayPal,Email,Standard,3.99,6,United States,South,Atlanta,FALSE
+ORD300871,17-06-2025,C50077,Corporate,P5173,Home & Kitchen,Cookware,1,162.82,89.05,0,162.82,0,162.82,73.77,Cash on Delivery,Organic Search,Same-Day,19.99,0,Germany,Berlin,Berlin,FALSE
+ORD300401,18-06-2025,C50044,Home Office,P9943,Electronics,Accessories,1,294.02,207.36,0,294.02,0,294.02,86.66,Digital Wallet,Organic Search,Express,9.99,3,Germany,Bavaria,Nuremberg,FALSE
+ORD300145,18-06-2025,C50215,Consumer,P5579,Electronics,Accessories,1,93.55,64.33,0,93.55,0,93.55,29.22,Digital Wallet,Direct,Express,9.99,4,Germany,Berlin,Berlin,FALSE
+ORD300613,19-06-2025,C50067,Consumer,P4080,Beauty,Skincare,1,70.73,24.84,0,70.73,0,70.73,45.89,Digital Wallet,Organic Search,Standard,3.99,5,Australia,Victoria,Melbourne,FALSE
+ORD300147,19-06-2025,C50336,Corporate,P9130,Fashion,Women's Apparel,5,45.68,17.7,0.4,228.4,91.36,137.04,48.54,Cash on Delivery,Email,Standard,3.99,4,United States,South,Austin,FALSE
+ORD300169,20-06-2025,C50301,Corporate,P7068,Sports,Outdoor,1,53.33,36.48,0.15,53.33,8,45.33,8.85,Digital Wallet,Organic Search,Same-Day,19.99,1,India,North,Delhi,FALSE
+ORD300525,20-06-2025,C50171,Consumer,P5275,Fashion,Men's Apparel,1,15.31,5.69,0,15.31,0,15.31,9.62,Credit Card,Organic Search,Express,9.99,4,United Kingdom,Wales,Cardiff,TRUE
+ORD300709,21-06-2025,C50271,Consumer,P6444,Books,Fiction,3,12.31,9.28,0,36.93,0,36.93,9.09,Debit Card,Organic Search,Express,9.99,4,United States,South,Austin,FALSE
+ORD300571,21-06-2025,C50125,Corporate,P2409,Beauty,Makeup,2,23.3,8.35,0,46.6,0,46.6,29.9,Credit Card,Email,Standard,3.99,5,United States,Central,Chicago,FALSE
+ORD300294,22-06-2025,C50242,Consumer,P8219,Fashion,Footwear,1,13.52,6.57,0,13.52,0,13.52,6.95,PayPal,Social,Express,9.99,4,India,South,Chennai,FALSE
+ORD300598,22-06-2025,C50042,Consumer,P5074,Fashion,Women's Apparel,2,94.14,51.75,0,188.28,0,188.28,84.78,Digital Wallet,Paid Search,Same-Day,19.99,1,United States,Central,Chicago,TRUE
+ORD300261,23-06-2025,C50190,Consumer,P2445,Electronics,Cameras,1,59.3,43.37,0,59.3,0,59.3,15.93,Credit Card,Organic Search,Standard,3.99,7,Germany,Hesse,Wiesbaden,FALSE
+ORD300331,24-06-2025,C50276,Consumer,P2455,Beauty,Skincare,1,9.67,3.32,0,9.67,0,9.67,6.35,Debit Card,Social,Standard,3.99,4,United Kingdom,England,London,FALSE
+ORD300972,24-06-2025,C50291,Consumer,P5375,Sports,Fitness,1,127.77,76.15,0.15,127.77,19.17,108.6,32.45,Digital Wallet,Social,Standard,3.99,8,United States,Central,Chicago,FALSE
+ORD300938,24-06-2025,C50224,Consumer,P7396,Fashion,Footwear,1,35.03,15.38,0,35.03,0,35.03,19.65,Credit Card,Organic Search,Standard,3.99,6,Australia,Queensland,Gold Coast,FALSE
+ORD300549,26-06-2025,C50196,Consumer,P3736,Home & Kitchen,Furniture,4,43.07,24.43,0,172.28,0,172.28,74.56,Debit Card,Direct,Express,9.99,4,United Kingdom,Wales,Swansea,FALSE
+ORD300920,29-06-2025,C50069,Consumer,P2899,Fashion,Bags,1,142.78,72.86,0.3,142.78,42.83,99.95,27.09,Credit Card,Social,Standard,3.99,6,United States,West,San Francisco,FALSE
+ORD300277,30-06-2025,C50147,Consumer,P9043,Sports,Fitness,2,666.73,352.33,0,1333.46,0,1333.46,628.8,Debit Card,Affiliate,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300921,02-07-2025,C50092,Corporate,P2669,Books,Fiction,1,28.45,20.74,0.05,28.45,1.42,27.03,6.29,Debit Card,Organic Search,Standard,3.99,8,United States,Central,Kansas City,FALSE
+ORD300878,02-07-2025,C50289,Consumer,P6373,Fashion,Men's Apparel,1,12.63,5.36,0,12.63,0,12.63,7.27,Credit Card,Email,Standard,3.99,8,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300153,03-07-2025,C50132,Consumer,P2087,Electronics,Laptops,1,758.2,620.21,0,758.2,0,758.2,137.99,Digital Wallet,Email,Same-Day,19.99,0,India,North,Jaipur,FALSE
+ORD300412,05-07-2025,C50259,Corporate,P4271,Home & Kitchen,Cookware,1,171.71,108.81,0,171.71,0,171.71,62.9,Cash on Delivery,Organic Search,Standard,3.99,4,India,North,Jaipur,FALSE
+ORD300905,06-07-2025,C50082,Home Office,P9064,Electronics,Accessories,1,1381.04,1138.44,0.15,1381.04,207.16,1173.88,35.44,PayPal,Organic Search,Express,9.99,2,United States,East,New York,FALSE
+ORD300563,06-07-2025,C50256,Consumer,P3738,Fashion,Footwear,1,134.01,57.9,0,134.01,0,134.01,76.11,Credit Card,Organic Search,Standard,3.99,7,India,West,Mumbai,FALSE
+ORD300608,06-07-2025,C50026,Consumer,P2325,Fashion,Footwear,1,133.32,61.66,0,133.32,0,133.32,71.66,Credit Card,Email,Express,9.99,4,United States,East,Boston,FALSE
+ORD300730,06-07-2025,C50135,Home Office,P3007,Home & Kitchen,Decor,5,303.48,168.31,0,1517.4,0,1517.4,675.85,Credit Card,Organic Search,Same-Day,19.99,0,Germany,Berlin,Berlin,FALSE
+ORD300687,07-07-2025,C50144,Corporate,P3129,Books,Non-fiction,2,11.63,8.42,0,23.26,0,23.26,6.42,Credit Card,Organic Search,Standard,3.99,8,United States,Central,Chicago,FALSE
+ORD300645,10-07-2025,C50150,Consumer,P7555,Electronics,Laptops,1,105.73,85.51,0.15,105.73,15.86,89.87,4.36,Credit Card,Direct,Same-Day,19.99,1,Germany,Berlin,Berlin,FALSE
+ORD300361,11-07-2025,C50339,Corporate,P7300,Electronics,Laptops,1,28.85,21.93,0.15,28.85,4.33,24.52,2.59,Credit Card,Direct,Same-Day,19.99,0,Australia,Victoria,Melbourne,FALSE
+ORD300422,11-07-2025,C50073,Consumer,P5018,Beauty,Makeup,5,15.03,5.71,0,75.15,0,75.15,46.6,Debit Card,Paid Search,Standard,3.99,5,Germany,Bavaria,Munich,FALSE
+ORD300870,12-07-2025,C50157,Corporate,P2280,Books,Children's,2,12.12,9.02,0,24.24,0,24.24,6.2,PayPal,Organic Search,Standard,3.99,8,United Kingdom,Scotland,Glasgow,FALSE
+ORD300073,12-07-2025,C50295,Corporate,P8682,Beauty,Skincare,1,8.36,3.02,0,8.36,0,8.36,5.34,Credit Card,Paid Search,Standard,3.99,7,Australia,Victoria,Melbourne,TRUE
+ORD300541,12-07-2025,C50274,Corporate,P6933,Fashion,Footwear,1,34.44,14.5,0.15,34.44,5.17,29.27,14.77,Credit Card,Organic Search,Standard,3.99,6,United States,Central,Chicago,FALSE
+ORD300818,14-07-2025,C50199,Home Office,P3847,Home & Kitchen,Furniture,2,24.31,14.53,0,48.62,0,48.62,19.56,Cash on Delivery,Organic Search,Express,9.99,4,United States,West,Seattle,FALSE
+ORD300926,15-07-2025,C50211,Consumer,P2697,Beauty,Skincare,1,136.83,48.25,0.1,136.83,13.68,123.15,74.9,Credit Card,Organic Search,Standard,3.99,7,United States,West,San Francisco,FALSE
+ORD300982,15-07-2025,C50162,Consumer,P5736,Fashion,Footwear,1,104.46,48.12,0,104.46,0,104.46,56.34,Credit Card,Paid Search,Standard,3.99,8,United States,South,Austin,TRUE
+ORD300923,17-07-2025,C50120,Consumer,P8851,Electronics,Smartphones,1,371.81,272,0,371.81,0,371.81,99.81,Digital Wallet,Organic Search,Express,9.99,3,Australia,NSW,Sydney,FALSE
+ORD300187,17-07-2025,C50216,Consumer,P2252,Home & Kitchen,Decor,2,180.21,114.77,0.1,360.42,36.04,324.38,94.84,Credit Card,Affiliate,Express,9.99,4,United States,South,Atlanta,FALSE
+ORD300311,18-07-2025,C50204,Consumer,P9238,Fashion,Footwear,1,21.12,9.78,0,21.12,0,21.12,11.34,PayPal,Direct,Standard,3.99,6,India,West,Mumbai,FALSE
+ORD300821,19-07-2025,C50154,Consumer,P7369,Fashion,Men's Apparel,1,72.46,32.14,0.15,72.46,10.87,61.59,29.45,Credit Card,Organic Search,Standard,3.99,7,United States,Central,Chicago,FALSE
+ORD300648,20-07-2025,C50155,Consumer,P6117,Home & Kitchen,Cookware,1,838.62,565.24,0.1,838.62,83.86,754.76,189.52,Digital Wallet,Email,Standard,3.99,8,Australia,Victoria,Melbourne,FALSE
+ORD300904,20-07-2025,C50097,Home Office,P5572,Books,Non-fiction,1,17.05,11.34,0,17.05,0,17.05,5.71,Debit Card,Email,Standard,3.99,5,United Kingdom,England,Manchester,FALSE
+ORD300396,22-07-2025,C50021,Consumer,P7113,Sports,Outdoor,3,662.74,434,0,1988.22,0,1988.22,686.22,PayPal,Social,Standard,3.99,7,United Kingdom,Wales,Swansea,FALSE
+ORD300971,22-07-2025,C50217,Consumer,P2809,Electronics,Laptops,1,487.26,389.03,0,487.26,0,487.26,98.23,Credit Card,Paid Search,Same-Day,19.99,0,Germany,Bavaria,Nuremberg,FALSE
+ORD300689,22-07-2025,C50208,Consumer,P2886,Fashion,Men's Apparel,1,181.61,75.83,0,181.61,0,181.61,105.78,Digital Wallet,Affiliate,Standard,3.99,4,United States,South,Atlanta,FALSE
+ORD300627,23-07-2025,C50112,Consumer,P9353,Sports,Fitness,1,12.62,7.31,0,12.62,0,12.62,5.31,Credit Card,Email,Same-Day,19.99,0,India,West,Mumbai,FALSE
+ORD300291,24-07-2025,C50228,Consumer,P8570,Electronics,Accessories,1,59.63,42.84,0,59.63,0,59.63,16.79,PayPal,Direct,Standard,3.99,6,Germany,Hesse,Wiesbaden,FALSE
+ORD300813,25-07-2025,C50275,Consumer,P7837,Fashion,Bags,1,32.03,14.46,0,32.03,0,32.03,17.57,Debit Card,Paid Search,Standard,3.99,6,United States,East,New York,TRUE
+ORD300928,25-07-2025,C50157,Corporate,P5203,Sports,Cycling,2,10,5.73,0,20,0,20,8.54,PayPal,Organic Search,Standard,3.99,7,United Kingdom,Scotland,Glasgow,FALSE
+ORD300243,28-07-2025,C50095,Corporate,P9919,Fashion,Men's Apparel,1,71.31,31.96,0,71.31,0,71.31,39.35,Debit Card,Organic Search,Express,9.99,3,Germany,Bavaria,Munich,FALSE
+ORD300848,28-07-2025,C50092,Corporate,P7804,Beauty,Fragrance,2,38.79,12.21,0,77.58,0,77.58,53.16,Debit Card,Email,Standard,3.99,6,United States,Central,Kansas City,FALSE
+ORD300680,29-07-2025,C50233,Corporate,P1953,Electronics,Cameras,1,611.39,478.3,0,611.39,0,611.39,133.09,Credit Card,Organic Search,Express,9.99,4,United States,East,Boston,FALSE
+ORD300666,29-07-2025,C50248,Home Office,P3617,Fashion,Men's Apparel,3,106.31,52.34,0.2,318.93,63.79,255.14,98.12,Credit Card,Paid Search,Standard,3.99,7,United Kingdom,Wales,Swansea,FALSE
+ORD300994,30-07-2025,C50329,Consumer,P7700,Fashion,Women's Apparel,1,15.31,8.61,0,15.31,0,15.31,6.7,Credit Card,Organic Search,Standard,3.99,5,United States,West,San Francisco,FALSE
+ORD300053,31-07-2025,C50203,Consumer,P6664,Beauty,Fragrance,1,42.51,20.2,0,42.51,0,42.51,22.31,Debit Card,Paid Search,Standard,3.99,8,United Kingdom,England,Manchester,FALSE
+ORD300671,31-07-2025,C50130,Home Office,P3860,Sports,Fitness,1,43.73,26.68,0.4,43.73,17.49,26.24,-0.44,Credit Card,Paid Search,Express,9.99,4,Australia,NSW,Sydney,FALSE
+ORD300557,01-08-2025,C50297,Consumer,P4107,Electronics,Headphones,1,48.04,39.68,0,48.04,0,48.04,8.36,Digital Wallet,Social,Standard,3.99,7,India,West,Pune,FALSE
+ORD300208,02-08-2025,C50311,Consumer,P2715,Sports,Fitness,1,137.17,92.9,0,137.17,0,137.17,44.27,Credit Card,Email,Express,9.99,2,United States,Central,Chicago,FALSE
+ORD300038,02-08-2025,C50051,Corporate,P7238,Home & Kitchen,Decor,3,16.3,9.84,0.05,48.9,2.45,46.45,16.93,Digital Wallet,Email,Standard,3.99,8,United States,Central,Kansas City,FALSE
+ORD300353,03-08-2025,C50069,Consumer,P5667,Electronics,Smartphones,1,1169.48,996.8,0.05,1169.48,58.47,1111.01,114.21,Credit Card,Direct,Standard,3.99,5,United States,West,San Francisco,FALSE
+ORD300641,03-08-2025,C50047,Consumer,P1700,Electronics,Headphones,1,212.68,173.09,0,212.68,0,212.68,39.59,Debit Card,Affiliate,Express,9.99,4,India,North,Delhi,FALSE
+ORD300640,03-08-2025,C50308,Corporate,P6138,Books,Non-fiction,1,29.05,19.27,0,29.05,0,29.05,9.78,Cash on Delivery,Paid Search,Standard,3.99,5,India,South,Chennai,FALSE
+ORD300037,04-08-2025,C50103,Home Office,P8424,Home & Kitchen,Appliances,1,19.85,12.47,0,19.85,0,19.85,7.38,Debit Card,Social,Express,9.99,3,India,North,Jaipur,FALSE
+ORD300875,04-08-2025,C50084,Consumer,P5557,Sports,Outdoor,1,673.52,450.29,0,673.52,0,673.52,223.23,Credit Card,Organic Search,Standard,3.99,6,United Kingdom,England,London,FALSE
+ORD300308,04-08-2025,C50313,Home Office,P4892,Beauty,Makeup,1,60.07,22.66,0,60.07,0,60.07,37.41,Digital Wallet,Social,Standard,3.99,4,Germany,Hesse,Frankfurt,FALSE
+ORD300175,05-08-2025,C50056,Consumer,P8949,Home & Kitchen,Furniture,5,101.28,58.33,0,506.4,0,506.4,214.75,Credit Card,Affiliate,Standard,3.99,6,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300018,05-08-2025,C50171,Consumer,P6356,Electronics,Laptops,3,41.14,32.39,0.3,123.42,37.03,86.39,-10.78,PayPal,Social,Standard,3.99,5,United Kingdom,Wales,Cardiff,TRUE
+ORD300436,05-08-2025,C50115,Consumer,P2650,Electronics,Cameras,1,153.84,130.59,0.15,153.84,23.08,130.76,0.17,Credit Card,Paid Search,Standard,3.99,5,India,West,Mumbai,FALSE
+ORD300304,06-08-2025,C50026,Consumer,P8462,Electronics,Headphones,1,44.23,35.7,0.05,44.23,2.21,42.02,6.32,Cash on Delivery,Organic Search,Standard,3.99,5,United States,East,Boston,FALSE
+ORD300039,07-08-2025,C50276,Consumer,P8203,Home & Kitchen,Furniture,2,31.65,20.64,0,63.3,0,63.3,22.02,Digital Wallet,Direct,Standard,3.99,7,United Kingdom,England,London,FALSE
+ORD300654,08-08-2025,C50321,Consumer,P2089,Electronics,Cameras,1,59.13,46.46,0.15,59.13,8.87,50.26,3.8,Debit Card,Social,Same-Day,19.99,1,United Kingdom,England,Manchester,FALSE
+ORD300043,08-08-2025,C50248,Home Office,P6315,Home & Kitchen,Decor,3,821.41,461.5,0,2464.23,0,2464.23,1079.73,Debit Card,Direct,Same-Day,19.99,1,United Kingdom,Wales,Swansea,FALSE
+ORD300707,09-08-2025,C50308,Corporate,P7901,Home & Kitchen,Appliances,1,66.79,43.24,0,66.79,0,66.79,23.55,Debit Card,Organic Search,Standard,3.99,4,India,South,Chennai,FALSE
+ORD300380,09-08-2025,C50169,Consumer,P8415,Fashion,Men's Apparel,2,63.69,30.24,0,127.38,0,127.38,66.9,PayPal,Organic Search,Standard,3.99,4,United States,East,New York,FALSE
+ORD300047,09-08-2025,C50293,Home Office,P9664,Electronics,Accessories,1,1491.25,1115.37,0.2,1491.25,298.25,1193,77.63,Digital Wallet,Email,Standard,3.99,4,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300136,10-08-2025,C50318,Consumer,P6073,Electronics,Laptops,2,879.35,733.64,0.15,1758.7,263.81,1494.89,27.61,Credit Card,Paid Search,Express,9.99,3,United States,East,New York,FALSE
+ORD300487,10-08-2025,C50091,Corporate,P3655,Sports,Cycling,1,10.27,6.03,0,10.27,0,10.27,4.24,Credit Card,Direct,Standard,3.99,5,United Kingdom,Wales,Swansea,FALSE
+ORD300860,10-08-2025,C50279,Consumer,P9684,Sports,Fitness,4,459.25,295.37,0.15,1837,275.55,1561.45,379.97,Digital Wallet,Social,Standard,3.99,4,United States,East,Boston,FALSE
+ORD300831,11-08-2025,C50122,Consumer,P4631,Electronics,Smartphones,1,78.56,66.09,0,78.56,0,78.56,12.47,Digital Wallet,Direct,Standard,3.99,4,Australia,Queensland,Brisbane,FALSE
+ORD300785,12-08-2025,C50066,Consumer,P7437,Home & Kitchen,Decor,1,29.72,16.12,0.4,29.72,11.89,17.83,1.71,Credit Card,Social,Standard,3.99,5,India,West,Pune,FALSE
+ORD300816,12-08-2025,C50027,Corporate,P9188,Fashion,Footwear,2,101.44,36.51,0,202.88,0,202.88,129.86,Credit Card,Direct,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300632,15-08-2025,C50081,Home Office,P8089,Electronics,Cameras,1,546.87,403.06,0,546.87,0,546.87,143.81,Debit Card,Social,Same-Day,19.99,1,India,East,Bhubaneswar,FALSE
+ORD300889,16-08-2025,C50064,Corporate,P1472,Home & Kitchen,Cookware,1,131.59,73.32,0.05,131.59,6.58,125.01,51.69,Credit Card,Email,Standard,3.99,4,United Kingdom,England,London,FALSE
+ORD300127,16-08-2025,C50239,Consumer,P6510,Home & Kitchen,Cookware,4,209.85,136.21,0.2,839.4,167.88,671.52,126.68,Credit Card,Paid Search,Express,9.99,2,Australia,Victoria,Geelong,FALSE
+ORD300457,18-08-2025,C50287,Consumer,P2932,Electronics,Accessories,1,119.95,89.19,0.3,119.95,35.98,83.97,-5.22,Debit Card,Affiliate,Standard,3.99,4,India,West,Mumbai,FALSE
+ORD300456,18-08-2025,C50142,Consumer,P6470,Home & Kitchen,Decor,5,26.9,16.68,0,134.5,0,134.5,51.1,Credit Card,Social,Express,9.99,2,United States,East,Boston,TRUE
+ORD300192,19-08-2025,C50321,Consumer,P3510,Fashion,Men's Apparel,1,83.51,42.17,0,83.51,0,83.51,41.34,PayPal,Organic Search,Standard,3.99,8,United Kingdom,England,Manchester,FALSE
+ORD300152,19-08-2025,C50206,Consumer,P9273,Sports,Fitness,1,94.9,57.4,0,94.9,0,94.9,37.5,Debit Card,Paid Search,Express,9.99,2,Germany,Berlin,Berlin,FALSE
+ORD300376,19-08-2025,C50290,Consumer,P5030,Fashion,Footwear,1,15.01,8.17,0,15.01,0,15.01,6.84,Cash on Delivery,Social,Standard,3.99,8,Australia,NSW,Newcastle,FALSE
+ORD300509,19-08-2025,C50304,Consumer,P5902,Home & Kitchen,Furniture,1,53.8,33.4,0,53.8,0,53.8,20.4,Cash on Delivery,Direct,Standard,3.99,5,United States,Central,Kansas City,FALSE
+ORD300542,20-08-2025,C50049,Home Office,P5477,Electronics,Headphones,1,561.14,429.33,0.2,561.14,112.23,448.91,19.58,Digital Wallet,Organic Search,Standard,3.99,4,India,North,Delhi,TRUE
+ORD300142,20-08-2025,C50134,Home Office,P5605,Electronics,Laptops,1,768.87,612.03,0,768.87,0,768.87,156.84,Cash on Delivery,Paid Search,Standard,3.99,8,India,West,Pune,FALSE
+ORD300013,20-08-2025,C50061,Corporate,P7390,Electronics,Laptops,1,203.77,173.44,0,203.77,0,203.77,30.33,Digital Wallet,Organic Search,Standard,3.99,7,India,North,Delhi,FALSE
+ORD300324,20-08-2025,C50252,Home Office,P1893,Electronics,Accessories,2,315.53,259.84,0,631.06,0,631.06,111.38,Credit Card,Paid Search,Standard,3.99,8,United States,East,Boston,TRUE
+ORD300568,21-08-2025,C50067,Consumer,P2087,Sports,Fitness,1,257.62,149.02,0,257.62,0,257.62,108.6,Credit Card,Organic Search,Standard,3.99,4,Australia,Victoria,Melbourne,FALSE
+ORD300545,21-08-2025,C50262,Consumer,P9228,Fashion,Footwear,1,98.53,45.42,0,98.53,0,98.53,53.11,PayPal,Direct,Standard,3.99,8,United States,Central,Chicago,FALSE
+ORD300419,21-08-2025,C50295,Corporate,P8106,Home & Kitchen,Appliances,2,698.12,456.11,0,1396.24,0,1396.24,484.02,Credit Card,Paid Search,Standard,3.99,6,Australia,Victoria,Melbourne,FALSE
+ORD300295,21-08-2025,C50011,Consumer,P8508,Fashion,Footwear,2,31.15,14.18,0.3,62.3,18.69,43.61,15.25,Credit Card,Affiliate,Express,9.99,2,India,South,Bengaluru,FALSE
+ORD300096,23-08-2025,C50247,Consumer,P7957,Sports,Fitness,1,175.28,93.13,0,175.28,0,175.28,82.15,PayPal,Paid Search,Standard,3.99,4,India,South,Chennai,FALSE
+ORD300180,23-08-2025,C50289,Consumer,P7898,Sports,Outdoor,1,37.21,22.27,0,37.21,0,37.21,14.94,Credit Card,Affiliate,Standard,3.99,6,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300195,23-08-2025,C50291,Consumer,P9550,Fashion,Men's Apparel,1,13.7,6.38,0,13.7,0,13.7,7.32,Credit Card,Social,Standard,3.99,6,United States,Central,Chicago,FALSE
+ORD300710,25-08-2025,C50261,Home Office,P6909,Home & Kitchen,Appliances,1,175.52,102.88,0,175.52,0,175.52,72.64,Credit Card,Organic Search,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300101,26-08-2025,C50283,Consumer,P8593,Electronics,Headphones,1,142.75,100.64,0.05,142.75,7.14,135.61,34.97,PayPal,Social,Standard,3.99,8,United States,South,Austin,FALSE
+ORD300507,26-08-2025,C50323,Consumer,P4485,Beauty,Skincare,1,58.32,22.68,0,58.32,0,58.32,35.64,PayPal,Direct,Express,9.99,2,United States,South,Austin,FALSE
+ORD300573,27-08-2025,C50304,Consumer,P6112,Books,Children's,2,42.46,30.29,0,84.92,0,84.92,24.34,Credit Card,Organic Search,Express,9.99,3,United States,Central,Kansas City,FALSE
+ORD300501,29-08-2025,C50288,Consumer,P5265,Beauty,Fragrance,1,19.02,7.31,0,19.02,0,19.02,11.71,Debit Card,Social,Standard,3.99,5,United Kingdom,Scotland,Glasgow,FALSE
+ORD300534,29-08-2025,C50187,Consumer,P3065,Home & Kitchen,Furniture,1,16.42,10.29,0.05,16.42,0.82,15.6,5.31,Digital Wallet,Paid Search,Standard,3.99,6,Germany,Hesse,Wiesbaden,FALSE
+ORD300387,02-09-2025,C50222,Consumer,P6321,Fashion,Women's Apparel,1,98.37,49.46,0,98.37,0,98.37,48.91,Cash on Delivery,Affiliate,Express,9.99,2,Australia,Victoria,Melbourne,TRUE
+ORD300286,03-09-2025,C50269,Consumer,P9718,Home & Kitchen,Cookware,1,53.33,31.02,0,53.33,0,53.33,22.31,Credit Card,Organic Search,Standard,3.99,4,United Kingdom,Scotland,Glasgow,FALSE
+ORD300438,03-09-2025,C50259,Corporate,P8295,Sports,Cycling,2,40.17,26.2,0.05,80.34,4.02,76.32,23.92,Credit Card,Social,Standard,3.99,7,India,North,Jaipur,FALSE
+ORD300884,03-09-2025,C50108,Home Office,P3948,Beauty,Makeup,1,135.28,63.66,0.15,135.28,20.29,114.99,51.33,Debit Card,Organic Search,Express,9.99,2,United Kingdom,Wales,Swansea,FALSE
+ORD300119,03-09-2025,C50013,Consumer,P4779,Home & Kitchen,Appliances,1,32.69,17.42,0,32.69,0,32.69,15.27,Credit Card,Direct,Standard,3.99,4,United Kingdom,England,London,FALSE
+ORD300554,03-09-2025,C50129,Consumer,P8791,Fashion,Men's Apparel,2,48.87,21.69,0.05,97.74,4.89,92.85,49.47,Cash on Delivery,Organic Search,Same-Day,19.99,1,United States,South,Austin,FALSE
+ORD300036,04-09-2025,C50090,Consumer,P6496,Electronics,Headphones,1,75.21,55.01,0,75.21,0,75.21,20.2,PayPal,Organic Search,Express,9.99,3,India,West,Pune,FALSE
+ORD300881,07-09-2025,C50192,Consumer,P1432,Beauty,Makeup,3,123.15,49.44,0.1,369.45,36.95,332.5,184.18,Debit Card,Email,Standard,3.99,7,India,South,Chennai,TRUE
+ORD300350,08-09-2025,C50200,Consumer,P9474,Home & Kitchen,Cookware,4,136.7,79.47,0.05,546.8,27.34,519.46,201.58,Digital Wallet,Email,Standard,3.99,6,United States,Central,Kansas City,FALSE
+ORD300209,09-09-2025,C50281,Home Office,P8098,Home & Kitchen,Decor,2,162.43,84.12,0,324.86,0,324.86,156.62,Cash on Delivery,Email,Standard,3.99,4,United States,South,Atlanta,FALSE
+ORD300583,11-09-2025,C50325,Home Office,P2757,Fashion,Men's Apparel,1,49.77,21.9,0,49.77,0,49.77,27.87,Digital Wallet,Direct,Standard,3.99,7,India,East,Bhubaneswar,TRUE
+ORD300099,11-09-2025,C50119,Consumer,P1400,Home & Kitchen,Decor,2,109.09,68.58,0.1,218.18,21.82,196.36,59.2,PayPal,Organic Search,Same-Day,19.99,1,Germany,Hesse,Frankfurt,FALSE
+ORD300791,11-09-2025,C50290,Consumer,P7322,Electronics,Smartphones,1,382.28,279.17,0,382.28,0,382.28,103.11,Cash on Delivery,Email,Express,9.99,3,Australia,NSW,Newcastle,FALSE
+ORD300775,11-09-2025,C50144,Corporate,P5888,Fashion,Footwear,4,106.4,44.22,0.05,425.6,21.28,404.32,227.44,PayPal,Organic Search,Standard,3.99,8,United States,Central,Chicago,FALSE
+ORD300949,11-09-2025,C50309,Consumer,P1021,Fashion,Footwear,2,38.37,14.94,0.15,76.74,11.51,65.23,35.35,PayPal,Organic Search,Express,9.99,2,United States,South,Austin,TRUE
+ORD300691,14-09-2025,C50196,Consumer,P2501,Fashion,Bags,1,20.38,9.58,0.15,20.38,3.06,17.32,7.74,Credit Card,Paid Search,Express,9.99,2,United Kingdom,Wales,Swansea,FALSE
+ORD300026,14-09-2025,C50130,Home Office,P8035,Home & Kitchen,Furniture,1,220.23,124.94,0,220.23,0,220.23,95.29,Cash on Delivery,Organic Search,Standard,3.99,5,Australia,NSW,Sydney,FALSE
+ORD300163,15-09-2025,C50035,Consumer,P7746,Fashion,Footwear,1,249.87,111.18,0,249.87,0,249.87,138.69,Credit Card,Paid Search,Same-Day,19.99,0,United States,East,New York,FALSE
+ORD300736,15-09-2025,C50253,Consumer,P3780,Fashion,Bags,1,31.08,14.64,0,31.08,0,31.08,16.44,Credit Card,Email,Standard,3.99,7,United States,East,Boston,FALSE
+ORD300516,15-09-2025,C50043,Consumer,P1924,Books,Children's,1,41.1,27.94,0,41.1,0,41.1,13.16,Credit Card,Organic Search,Standard,3.99,5,India,West,Mumbai,FALSE
+ORD300057,16-09-2025,C50082,Home Office,P9382,Sports,Cycling,1,352.05,267.64,0.05,352.05,17.6,334.45,66.81,Debit Card,Affiliate,Standard,3.99,8,United States,East,New York,FALSE
+ORD300759,16-09-2025,C50078,Consumer,P3730,Sports,Fitness,2,58.84,37.62,0,117.68,0,117.68,42.44,Debit Card,Paid Search,Standard,3.99,6,Germany,Berlin,Berlin,FALSE
+ORD300023,18-09-2025,C50051,Corporate,P3834,Electronics,Headphones,1,125.49,99.17,0,125.49,0,125.49,26.32,Debit Card,Social,Standard,3.99,8,United States,Central,Kansas City,FALSE
+ORD300803,19-09-2025,C50305,Corporate,P4828,Home & Kitchen,Cookware,4,28.75,18.41,0,115,0,115,41.36,PayPal,Social,Standard,3.99,7,United States,East,Boston,FALSE
+ORD300199,22-09-2025,C50210,Consumer,P8489,Home & Kitchen,Furniture,2,15.32,9.88,0,30.64,0,30.64,10.88,Cash on Delivery,Organic Search,Standard,3.99,4,Australia,NSW,Sydney,FALSE
+ORD300028,24-09-2025,C50326,Consumer,P8548,Fashion,Bags,1,209.08,77.11,0.05,209.08,10.45,198.63,121.52,Digital Wallet,Affiliate,Standard,3.99,8,United Kingdom,Scotland,Edinburgh,FALSE
+ORD300899,25-09-2025,C50209,Consumer,P5238,Beauty,Skincare,1,32.65,13.27,0,32.65,0,32.65,19.38,Credit Card,Social,Standard,3.99,6,United States,Central,Kansas City,FALSE
+ORD300161,26-09-2025,C50055,Consumer,P7573,Fashion,Women's Apparel,1,119.82,58.13,0,119.82,0,119.82,61.69,Digital Wallet,Email,Standard,3.99,4,India,West,Pune,FALSE
+ORD300747,27-09-2025,C50163,Consumer,P2179,Electronics,Smartphones,1,1448.85,1130.25,0,1448.85,0,1448.85,318.6,Digital Wallet,Email,Standard,3.99,4,United States,East,New York,FALSE
+ORD300569,28-09-2025,C50235,Consumer,P6246,Electronics,Accessories,1,944.05,673.05,0,944.05,0,944.05,271,Digital Wallet,Paid Search,Express,9.99,4,India,West,Pune,FALSE
+ORD300001,02-10-2025,C50272,Corporate,P9479,Sports,Cycling,1,35.4,18.84,0.15,35.4,5.31,30.09,11.25,PayPal,Social,Express,9.99,2,United States,West,San Francisco,FALSE
+ORD300883,02-10-2025,C50004,Consumer,P2986,Home & Kitchen,Decor,1,83.98,54.13,0,83.98,0,83.98,29.85,Credit Card,Paid Search,Standard,3.99,5,Australia,NSW,Sydney,TRUE
+ORD300659,03-10-2025,C50049,Home Office,P5836,Beauty,Makeup,2,9,4,0,18,0,18,10,Credit Card,Organic Search,Express,9.99,2,India,North,Delhi,FALSE
+ORD300333,03-10-2025,C50339,Corporate,P7104,Electronics,Cameras,2,670.87,550.35,0,1341.74,0,1341.74,241.04,Credit Card,Organic Search,Standard,3.99,5,Australia,Victoria,Melbourne,FALSE
+ORD300651,04-10-2025,C50282,Consumer,P6018,Beauty,Fragrance,1,12.58,5.62,0.3,12.58,3.77,8.81,3.19,Debit Card,Paid Search,Standard,3.99,7,United Kingdom,England,Manchester,FALSE
+ORD300646,05-10-2025,C50216,Consumer,P7299,Fashion,Men's Apparel,1,58.58,25.49,0,58.58,0,58.58,33.09,Digital Wallet,Paid Search,Same-Day,19.99,0,United States,South,Atlanta,FALSE
+ORD300440,05-10-2025,C50151,Consumer,P9080,Sports,Fitness,1,564.52,383.68,0,564.52,0,564.52,180.84,Credit Card,Email,Standard,3.99,8,India,South,Chennai,FALSE
+ORD300423,06-10-2025,C50290,Consumer,P3678,Books,Non-fiction,1,14.68,10.59,0,14.68,0,14.68,4.09,Digital Wallet,Social,Standard,3.99,6,Australia,NSW,Newcastle,FALSE
+ORD300092,07-10-2025,C50292,Home Office,P5371,Sports,Outdoor,1,134.37,77.21,0,134.37,0,134.37,57.16,Credit Card,Paid Search,Standard,3.99,5,United States,Central,Kansas City,TRUE
+ORD300494,08-10-2025,C50318,Consumer,P2497,Fashion,Footwear,1,40.19,19.32,0.1,40.19,4.02,36.17,16.85,PayPal,Paid Search,Express,9.99,2,United States,East,New York,FALSE
+ORD300274,09-10-2025,C50221,Consumer,P7512,Fashion,Women's Apparel,2,174.89,69.06,0.1,349.78,34.98,314.8,176.68,Digital Wallet,Email,Express,9.99,2,Australia,NSW,Sydney,FALSE
+ORD300934,09-10-2025,C50002,Consumer,P4907,Electronics,Cameras,4,153.64,116.19,0.1,614.56,61.46,553.1,88.34,Digital Wallet,Email,Express,9.99,3,Germany,Berlin,Berlin,FALSE
+ORD300420,09-10-2025,C50195,Corporate,P7020,Sports,Outdoor,1,39.76,27.07,0.1,39.76,3.98,35.78,8.71,Credit Card,Organic Search,Standard,3.99,8,United States,South,Austin,FALSE
+ORD300177,10-10-2025,C50248,Home Office,P5728,Electronics,Smartphones,2,146.39,98.8,0,292.78,0,292.78,95.18,Credit Card,Email,Express,9.99,3,United Kingdom,Wales,Swansea,TRUE
+ORD300743,10-10-2025,C50058,Consumer,P1017,Electronics,Cameras,3,160.06,107.81,0,480.18,0,480.18,156.75,Credit Card,Organic Search,Express,9.99,4,Germany,Berlin,Berlin,FALSE
+ORD300512,10-10-2025,C50197,Home Office,P4918,Fashion,Men's Apparel,1,29.94,14.57,0,29.94,0,29.94,15.37,Debit Card,Social,Standard,3.99,6,Australia,NSW,Newcastle,FALSE
+ORD300307,11-10-2025,C50161,Corporate,P4893,Fashion,Men's Apparel,1,14.67,7.29,0,14.67,0,14.67,7.38,PayPal,Affiliate,Standard,3.99,7,United Kingdom,Wales,Swansea,FALSE
+ORD300890,15-10-2025,C50160,Consumer,P6781,Electronics,Laptops,2,1434.73,1017.67,0,2869.46,0,2869.46,834.12,Digital Wallet,Paid Search,Standard,3.99,7,United States,West,San Francisco,FALSE
+ORD300771,15-10-2025,C50163,Consumer,P1421,Sports,Fitness,1,10.98,6.27,0,10.98,0,10.98,4.71,Digital Wallet,Organic Search,Standard,3.99,6,United States,East,New York,FALSE
+ORD300402,18-10-2025,C50233,Corporate,P8834,Electronics,Smartphones,2,67.83,61.37,0,135.66,0,135.66,12.92,Debit Card,Affiliate,Standard,3.99,4,United States,East,Boston,FALSE
+ORD300093,18-10-2025,C50081,Home Office,P5095,Fashion,Bags,2,16.21,7.25,0,32.42,0,32.42,17.92,Debit Card,Organic Search,Standard,3.99,7,India,East,Bhubaneswar,TRUE
+ORD300472,18-10-2025,C50312,Consumer,P1007,Electronics,Smartphones,1,255.68,196.32,0.1,255.68,25.57,230.11,33.79,Debit Card,Paid Search,Standard,3.99,4,India,South,Chennai,FALSE
+ORD300061,21-10-2025,C50112,Consumer,P2390,Fashion,Bags,1,14.71,7.35,0,14.71,0,14.71,7.36,Digital Wallet,Affiliate,Same-Day,19.99,0,India,West,Mumbai,FALSE
+ORD300997,21-10-2025,C50139,Corporate,P3760,Electronics,Accessories,1,83.62,57.78,0.05,83.62,4.18,79.44,21.66,Debit Card,Social,Standard,3.99,5,United States,East,Boston,TRUE
+ORD300726,21-10-2025,C50114,Corporate,P6340,Fashion,Men's Apparel,1,40.66,19.47,0,40.66,0,40.66,21.19,Debit Card,Social,Standard,3.99,8,United States,Central,Kansas City,FALSE
+ORD300809,23-10-2025,C50039,Consumer,P6462,Electronics,Laptops,5,38.52,30.71,0,192.6,0,192.6,39.05,Debit Card,Social,Standard,3.99,4,United States,South,Atlanta,FALSE
+ORD300535,23-10-2025,C50222,Consumer,P5285,Fashion,Footwear,1,33.91,13.32,0,33.91,0,33.91,20.59,Digital Wallet,Affiliate,Standard,3.99,4,Australia,Victoria,Melbourne,FALSE
+ORD300492,25-10-2025,C50011,Consumer,P9341,Beauty,Fragrance,1,21.05,7.5,0,21.05,0,21.05,13.55,Credit Card,Email,Express,9.99,4,India,South,Bengaluru,FALSE
+ORD300213,25-10-2025,C50296,Consumer,P3582,Electronics,Smartphones,1,300.44,223.5,0,300.44,0,300.44,76.94,Credit Card,Organic Search,Standard,3.99,7,Australia,Queensland,Gold Coast,FALSE
+ORD300828,26-10-2025,C50313,Home Office,P1549,Fashion,Women's Apparel,1,28.27,12.07,0,28.27,0,28.27,16.2,Debit Card,Organic Search,Standard,3.99,6,Germany,Hesse,Frankfurt,FALSE
+ORD300252,26-10-2025,C50242,Consumer,P3842,Fashion,Footwear,1,155.82,78.45,0.05,155.82,7.79,148.03,69.58,PayPal,Direct,Express,9.99,4,India,South,Chennai,FALSE
+ORD300148,26-10-2025,C50204,Consumer,P1417,Electronics,Cameras,3,314.81,227.54,0.05,944.43,47.22,897.21,214.59,Credit Card,Social,Same-Day,19.99,1,India,West,Mumbai,FALSE
+ORD300265,27-10-2025,C50035,Consumer,P2897,Fashion,Women's Apparel,1,12.94,6.25,0.3,12.94,3.88,9.06,2.81,Credit Card,Direct,Express,9.99,2,United States,East,New York,FALSE
+ORD300160,27-10-2025,C50222,Consumer,P1178,Home & Kitchen,Appliances,1,16.34,10.24,0,16.34,0,16.34,6.1,Credit Card,Organic Search,Express,9.99,3,Australia,Victoria,Melbourne,FALSE
+ORD300740,29-10-2025,C50149,Consumer,P4062,Sports,Fitness,1,12.26,8.66,0,12.26,0,12.26,3.6,Digital Wallet,Paid Search,Standard,3.99,6,United States,East,New York,FALSE
+ORD300408,29-10-2025,C50202,Consumer,P8564,Books,Fiction,1,16.94,13.67,0,16.94,0,16.94,3.27,Debit Card,Affiliate,Standard,3.99,4,United Kingdom,Wales,Swansea,FALSE
+ORD300864,29-10-2025,C50099,Corporate,P8137,Beauty,Makeup,1,61.35,20.09,0,61.35,0,61.35,41.26,Debit Card,Organic Search,Standard,3.99,4,United States,South,Atlanta,FALSE
+ORD300960,30-10-2025,C50112,Consumer,P2463,Home & Kitchen,Furniture,1,88.11,47.32,0,88.11,0,88.11,40.79,PayPal,Paid Search,Express,9.99,3,India,West,Mumbai,FALSE
+ORD300300,31-10-2025,C50251,Home Office,P7697,Sports,Fitness,1,28.18,18.11,0.4,28.18,11.27,16.91,-1.2,PayPal,Paid Search,Standard,3.99,5,United Kingdom,England,Manchester,FALSE
+ORD300868,01-11-2025,C50098,Consumer,P6900,Fashion,Men's Apparel,1,33.45,16.45,0,33.45,0,33.45,17,Cash on Delivery,Affiliate,Standard,3.99,7,United States,West,San Francisco,TRUE
+ORD300460,01-11-2025,C50085,Consumer,P5623,Sports,Outdoor,1,18.61,12.44,0.3,18.61,5.58,13.03,0.59,Digital Wallet,Paid Search,Standard,3.99,8,Australia,Victoria,Melbourne,FALSE
+ORD300433,05-11-2025,C50192,Consumer,P6921,Electronics,Laptops,1,254.24,188.25,0,254.24,0,254.24,65.99,Credit Card,Organic Search,Same-Day,19.99,1,India,South,Chennai,FALSE
+ORD300217,05-11-2025,C50007,Consumer,P7557,Fashion,Men's Apparel,1,39.1,17.13,0.2,39.1,7.82,31.28,14.15,Digital Wallet,Email,Standard,3.99,5,United States,West,Denver,FALSE
+ORD300559,06-11-2025,C50289,Consumer,P1736,Electronics,Accessories,1,63.72,54.52,0,63.72,0,63.72,9.2,PayPal,Direct,Standard,3.99,4,United Kingdom,Scotland,Edinburgh,TRUE
+ORD300407,07-11-2025,C50170,Consumer,P3123,Electronics,Cameras,4,57.47,40.61,0,229.88,0,229.88,67.44,Debit Card,Direct,Standard,3.99,5,Australia,Queensland,Gold Coast,FALSE
+ORD300473,07-11-2025,C50163,Consumer,P5708,Electronics,Smartphones,2,990.93,856.73,0,1981.86,0,1981.86,268.4,Credit Card,Email,Standard,3.99,6,United States,East,New York,FALSE
+ORD300110,08-11-2025,C50214,Consumer,P1582,Electronics,Cameras,1,97.79,72.51,0.1,97.79,9.78,88.01,15.5,Cash on Delivery,Affiliate,Standard,3.99,4,United States,South,Austin,FALSE
+ORD300193,09-11-2025,C50312,Consumer,P5387,Electronics,Headphones,1,814.41,592.5,0,814.41,0,814.41,221.91,PayPal,Affiliate,Standard,3.99,4,India,South,Chennai,FALSE
+ORD300595,09-11-2025,C50160,Consumer,P5155,Electronics,Headphones,5,81.4,66.64,0,407,0,407,73.8,Debit Card,Social,Standard,3.99,8,United States,West,San Francisco,FALSE
+ORD300713,10-11-2025,C50303,Consumer,P7335,Electronics,Headphones,2,39.67,32.91,0.2,79.34,15.87,63.47,-2.35,Credit Card,Paid Search,Express,9.99,3,United States,East,Boston,TRUE
+ORD300486,13-11-2025,C50027,Corporate,P9088,Beauty,Skincare,1,17.27,8.74,0,17.27,0,17.27,8.53,Credit Card,Social,Express,9.99,3,United States,West,San Francisco,FALSE
+ORD300166,13-11-2025,C50142,Consumer,P1538,Fashion,Footwear,1,94.33,44.91,0.05,94.33,4.72,89.61,44.7,PayPal,Affiliate,Same-Day,19.99,1,United States,East,Boston,FALSE
+ORD300830,14-11-2025,C50209,Consumer,P4077,Beauty,Makeup,1,96.87,35.95,0,96.87,0,96.87,60.92,Digital Wallet,Email,Standard,3.99,4,United States,Central,Kansas City,FALSE
+ORD300582,14-11-2025,C50064,Corporate,P6950,Sports,Cycling,1,132.79,91,0.2,132.79,26.56,106.23,15.23,Credit Card,Direct,Standard,3.99,8,United Kingdom,England,London,FALSE
+ORD300159,15-11-2025,C50139,Corporate,P4785,Home & Kitchen,Furniture,1,888.3,576.45,0.4,888.3,355.32,532.98,-43.47,PayPal,Paid Search,Standard,3.99,8,United States,East,Boston,FALSE
+ORD300341,15-11-2025,C50169,Consumer,P6221,Electronics,Smartphones,3,33.13,25.37,0,99.39,0,99.39,23.28,Credit Card,Direct,Standard,3.99,6,United States,East,New York,FALSE
+ORD300100,17-11-2025,C50265,Home Office,P1460,Beauty,Makeup,2,14.98,6.04,0.05,29.96,1.5,28.46,16.38,Debit Card,Organic Search,Same-Day,19.99,0,United States,East,New York,TRUE
+ORD300616,19-11-2025,C50309,Consumer,P4816,Electronics,Accessories,2,1396.3,1148.92,0,2792.6,0,2792.6,494.76,Credit Card,Direct,Standard,3.99,8,United States,South,Austin,TRUE
+ORD300939,22-11-2025,C50192,Consumer,P6581,Sports,Cycling,1,383.41,271.23,0,383.41,0,383.41,112.18,Credit Card,Social,Standard,3.99,8,India,South,Chennai,FALSE
+ORD300929,24-11-2025,C50230,Corporate,P4203,Sports,Outdoor,1,216.5,123.99,0.15,216.5,32.48,184.02,60.03,Credit Card,Paid Search,Express,9.99,4,United States,Central,Chicago,FALSE
+ORD300500,25-11-2025,C50254,Corporate,P9045,Electronics,Accessories,4,61.27,51.43,0.4,245.08,98.03,147.05,-58.67,Credit Card,Organic Search,Standard,3.99,8,United States,Central,Chicago,FALSE
+ORD300801,26-11-2025,C50237,Consumer,P7720,Home & Kitchen,Decor,1,283.76,172.17,0,283.76,0,283.76,111.59,Debit Card,Organic Search,Standard,3.99,8,Australia,Queensland,Gold Coast,FALSE
+ORD300845,28-11-2025,C50084,Consumer,P7786,Sports,Outdoor,1,43.31,25.77,0,43.31,0,43.31,17.54,Credit Card,Organic Search,Express,9.99,2,United Kingdom,England,London,FALSE
+ORD300591,30-11-2025,C50107,Consumer,P7055,Fashion,Footwear,2,12.66,6.83,0,25.32,0,25.32,11.66,Credit Card,Organic Search,Standard,3.99,7,India,South,Bengaluru,FALSE
+ORD300297,30-11-2025,C50196,Consumer,P9333,Fashion,Bags,1,46.4,23.65,0,46.4,0,46.4,22.75,Credit Card,Email,Standard,3.99,4,United Kingdom,Wales,Swansea,FALSE
+ORD300727,30-11-2025,C50334,Consumer,P8763,Fashion,Women's Apparel,2,234.69,131.88,0,469.38,0,469.38,205.62,Cash on Delivery,Organic Search,Standard,3.99,5,Germany,Berlin,Berlin,TRUE
+ORD300690,04-12-2025,C50038,Home Office,P8326,Fashion,Men's Apparel,1,100.1,52.47,0.1,100.1,10.01,90.09,37.62,Digital Wallet,Paid Search,Express,9.99,4,United States,South,Austin,FALSE
+ORD300214,04-12-2025,C50238,Consumer,P4553,Home & Kitchen,Furniture,1,65.6,32.34,0,65.6,0,65.6,33.26,Credit Card,Paid Search,Standard,3.99,4,Germany,Berlin,Berlin,FALSE
+ORD300280,05-12-2025,C50134,Home Office,P4823,Beauty,Makeup,3,131.89,51.21,0,395.67,0,395.67,242.04,Debit Card,Email,Standard,3.99,7,India,West,Pune,FALSE
+ORD300025,05-12-2025,C50147,Consumer,P2443,Electronics,Laptops,1,292.58,206.57,0,292.58,0,292.58,86.01,Credit Card,Paid Search,Express,9.99,4,United States,East,Boston,FALSE
+ORD300774,07-12-2025,C50199,Home Office,P9249,Beauty,Fragrance,1,54.21,23.5,0,54.21,0,54.21,30.71,Credit Card,Paid Search,Standard,3.99,6,United States,West,Seattle,FALSE
+ORD300946,07-12-2025,C50212,Consumer,P3935,Electronics,Smartphones,1,71.52,53.11,0.1,71.52,7.15,64.37,11.26,Debit Card,Paid Search,Express,9.99,2,United States,West,Denver,FALSE
+ORD300834,08-12-2025,C50090,Consumer,P2068,Beauty,Makeup,1,17.42,5.77,0,17.42,0,17.42,11.65,Credit Card,Email,Standard,3.99,5,India,West,Pune,FALSE
+ORD300735,09-12-2025,C50253,Consumer,P9778,Sports,Outdoor,1,88.48,59.47,0,88.48,0,88.48,29.01,Digital Wallet,Paid Search,Standard,3.99,7,United States,East,Boston,TRUE
+ORD300451,09-12-2025,C50019,Consumer,P7361,Sports,Outdoor,1,104.14,71.89,0.1,104.14,10.41,93.73,21.84,PayPal,Affiliate,Same-Day,19.99,1,India,South,Chennai,FALSE
+ORD300170,10-12-2025,C50295,Corporate,P5396,Electronics,Headphones,1,257.49,195,0,257.49,0,257.49,62.49,PayPal,Email,Standard,3.99,8,Australia,Victoria,Melbourne,FALSE
+ORD300945,10-12-2025,C50182,Consumer,P7769,Home & Kitchen,Furniture,1,340.35,195.58,0,340.35,0,340.35,144.77,PayPal,Social,Standard,3.99,4,United Kingdom,England,London,FALSE
+ORD300439,11-12-2025,C50292,Home Office,P7204,Sports,Outdoor,2,104.22,67.46,0.05,208.44,10.42,198.02,63.1,Credit Card,Email,Standard,3.99,4,United States,Central,Kansas City,FALSE
+ORD300705,13-12-2025,C50029,Consumer,P4778,Books,Non-fiction,1,12.95,9.12,0,12.95,0,12.95,3.83,Cash on Delivery,Direct,Express,9.99,3,United States,East,Boston,FALSE
+ORD300586,14-12-2025,C50044,Home Office,P6021,Electronics,Laptops,1,261.66,200.28,0.05,261.66,13.08,248.58,48.3,Credit Card,Paid Search,Standard,3.99,4,Germany,Bavaria,Nuremberg,FALSE
+ORD300655,15-12-2025,C50212,Consumer,P6808,Beauty,Fragrance,1,8.58,3.94,0,8.58,0,8.58,4.64,PayPal,Affiliate,Standard,3.99,6,United States,West,Denver,FALSE
+ORD300999,15-12-2025,C50197,Home Office,P4018,Electronics,Headphones,1,208.17,158.5,0.3,208.17,62.45,145.72,-12.78,Digital Wallet,Organic Search,Express,9.99,3,Australia,NSW,Newcastle,FALSE
+ORD300430,16-12-2025,C50161,Corporate,P9222,Electronics,Smartphones,1,417.66,298.27,0.15,417.66,62.65,355.01,56.74,Credit Card,Organic Search,Express,9.99,2,United Kingdom,Wales,Swansea,TRUE
+ORD300094,16-12-2025,C50190,Consumer,P1318,Electronics,Cameras,2,113.35,84.43,0,226.7,0,226.7,57.84,Cash on Delivery,Organic Search,Express,9.99,3,Germany,Hesse,Wiesbaden,FALSE
+ORD300383,18-12-2025,C50298,Consumer,P7016,Home & Kitchen,Furniture,2,31.87,20.83,0.1,63.74,6.37,57.37,15.71,Credit Card,Affiliate,Standard,3.99,5,India,North,Delhi,FALSE
+ORD300937,18-12-2025,C50054,Corporate,P7825,Electronics,Smartphones,1,518.8,398.97,0.15,518.8,77.82,440.98,42.01,Debit Card,Affiliate,Express,9.99,3,Germany,Hesse,Wiesbaden,FALSE
+ORD300027,18-12-2025,C50160,Consumer,P7007,Electronics,Laptops,1,255.54,184.26,0.15,255.54,38.33,217.21,32.95,PayPal,Email,Same-Day,19.99,0,United States,West,San Francisco,FALSE
+ORD300418,19-12-2025,C50220,Home Office,P8991,Electronics,Smartphones,1,1326.24,1078.62,0,1326.24,0,1326.24,247.62,Credit Card,Affiliate,Standard,3.99,4,India,West,Mumbai,FALSE
+ORD300447,20-12-2025,C50331,Consumer,P9861,Fashion,Men's Apparel,4,17.71,7.88,0,70.84,0,70.84,39.32,Digital Wallet,Direct,Same-Day,19.99,1,Australia,Victoria,Geelong,FALSE
+ORD300777,20-12-2025,C50193,Corporate,P7829,Electronics,Smartphones,1,323.5,239.23,0,323.5,0,323.5,84.27,Credit Card,Paid Search,Standard,3.99,4,Australia,Victoria,Geelong,FALSE
+ORD300426,20-12-2025,C50120,Consumer,P7148,Electronics,Smartphones,4,439.27,305.6,0.15,1757.08,263.56,1493.52,271.12,Debit Card,Organic Search,Standard,3.99,8,Australia,NSW,Sydney,FALSE
+ORD300874,21-12-2025,C50075,Corporate,P2854,Books,Fiction,1,7.19,5.72,0.1,7.19,0.72,6.47,0.75,PayPal,Affiliate,Express,9.99,2,United Kingdom,Scotland,Glasgow,FALSE
+ORD300857,21-12-2025,C50109,Consumer,P6413,Electronics,Smartphones,2,934.9,801.73,0,1869.8,0,1869.8,266.34,Debit Card,Email,Standard,3.99,6,India,South,Bengaluru,FALSE
+ORD300236,22-12-2025,C50110,Consumer,P6734,Home & Kitchen,Decor,1,18.14,12.63,0.15,18.14,2.72,15.42,2.79,Debit Card,Affiliate,Express,9.99,2,India,East,Kolkata,FALSE
+ORD300824,22-12-2025,C50335,Corporate,P6922,Fashion,Men's Apparel,2,45.15,22.33,0.1,90.3,9.03,81.27,36.61,Digital Wallet,Social,Express,9.99,2,United States,East,Boston,FALSE
+ORD300805,23-12-2025,C50329,Consumer,P2326,Sports,Fitness,2,410.45,287.25,0.05,820.9,41.05,779.85,205.35,PayPal,Organic Search,Standard,3.99,5,United States,West,San Francisco,FALSE
+ORD300581,23-12-2025,C50212,Consumer,P5074,Beauty,Makeup,1,12.95,5.48,0,12.95,0,12.95,7.47,Credit Card,Social,Express,9.99,2,United States,West,Denver,FALSE
+ORD300306,23-12-2025,C50012,Corporate,P2433,Home & Kitchen,Furniture,1,98.87,59.23,0,98.87,0,98.87,39.64,Digital Wallet,Social,Express,9.99,3,United Kingdom,Wales,Swansea,FALSE
+ORD300151,24-12-2025,C50009,Corporate,P5415,Sports,Outdoor,2,422.7,284.97,0.4,845.4,338.16,507.24,-62.7,PayPal,Affiliate,Standard,3.99,6,United States,East,Boston,FALSE
+ORD300390,25-12-2025,C50094,Corporate,P4669,Fashion,Bags,1,18.6,8.43,0,18.6,0,18.6,10.17,Digital Wallet,Organic Search,Standard,3.99,4,United States,East,Boston,FALSE
+ORD300634,27-12-2025,C50043,Consumer,P9398,Electronics,Cameras,1,912.17,752.07,0,912.17,0,912.17,160.1,Credit Card,Social,Standard,3.99,6,India,West,Mumbai,TRUE
+ORD300270,27-12-2025,C50221,Consumer,P2238,Beauty,Makeup,2,51.28,20.26,0,102.56,0,102.56,62.04,Credit Card,Social,Standard,3.99,5,Australia,NSW,Sydney,FALSE
+ORD300089,29-12-2025,C50163,Consumer,P5695,Fashion,Women's Apparel,1,15.32,6.73,0.15,15.32,2.3,13.02,6.29,Credit Card,Paid Search,Standard,3.99,7,United States,East,New York,TRUE
+ORD300378,29-12-2025,C50031,Consumer,P2831,Electronics,Accessories,4,550.69,490.29,0.3,2202.76,660.83,1541.93,-419.23,Credit Card,Social,Standard,3.99,8,United States,West,Seattle,FALSE
+ORD300459,30-12-2025,C50256,Consumer,P4559,Home & Kitchen,Appliances,3,204.12,109.95,0,612.36,0,612.36,282.51,Credit Card,Direct,Express,9.99,4,India,West,Mumbai,FALSE
+ORD300795,30-12-2025,C50317,Consumer,P7582,Home & Kitchen,Furniture,1,808.24,500.29,0,808.24,0,808.24,307.95,Credit Card,Social,Express,9.99,2,India,East,Bhubaneswar,FALSE
