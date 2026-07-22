@@ -129,7 +129,7 @@ All Screenshots below are full resolution and also available in the [`/Screensho
 
 ## 👀 How to View This Project
 
-- **Quick look:** Browse the [`/Screenshots`](./Screenshots/README.md) folder for a full page-by-page walkthrough
+- **Quick look:** Browse the [`/Screenshots`](./Screenshots) folder for a full page-by-page walkthrough
 - **Full interactivity:** Download [`Ecommerce_Analytics.pbix`](./PowerBI/Ecommerce-Analytics.pbix) and open in Power BI Desktop (free) — technical docs [here](./14_Ecommerce-Analytics/README.md)
 - **Data source:** Download [`ecommerce.csv`](./Raw-Data/ecommerce.csv) — full column documentation [here](./Raw-Data/README.md)
 
