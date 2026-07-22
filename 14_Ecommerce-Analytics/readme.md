@@ -130,13 +130,13 @@ All Screenshots below are full resolution and also available in the [`/Screensho
 ## 👀 How to View This Project
 
 - **Quick look:** Browse the [`/Screenshots`](./Screenshots) folder for a full page-by-page walkthrough
-- **Full interactivity:** Download [`Ecommerce_Analytics.pbix`](./PowerBI/Ecommerce-Analytics.pbix) and open in Power BI Desktop (free) — technical docs [here](./14_Ecommerce-Analytics/README.md)
-- **Data source:** Download [`ecommerce.csv`](./Raw-Data/ecommerce.csv) — full column documentation [here](./Raw-Data/README.md)
+- **Full interactivity:** Download [`Ecommerce_Analytics.pbix`](./PowerBI/Ecommerce%20Analysis.pbix) and open in Power BI Desktop (free) — technical docs [here](./14_Ecommerce-Analytics/README.md)
+- **Data source:** Download [`ecommerce.csv`](./Raw-Data/ecommerce.csv) — full column documentation [here](./Raw-Data)
 
 | Resource | Location | Direct Link |
 |---|---|---|
-| Screenshots | `/Screenshots` | [Browse](./Screenshots/README.md) |
-| Power BI file | `/dashboard/Ecommerce_Analytics.pbix` | [Download](./PowerBI/Ecommerce-Analytics.pbix) |
+| Screenshots | `/Screenshots` | [Browse](./Screenshots) |
+| Power BI file | `/dashboard/Ecommerce_Analytics.pbix` | [Download](./PowerBI/Ecommerce%20Analysis.pbix) |
 | Raw dataset | `/data/ecommerce.csv` | [Download](./Raw-Data/ecommerce.csv) |
 
 ---
