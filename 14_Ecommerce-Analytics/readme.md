@@ -38,12 +38,12 @@ This project builds a 6-page interactive Power BI dashboard that answers each of
 ├── dashboard/
 │   └── Ecommerce_Analytics.pbix       → Power BI file (see Power BI README)
 ├── Screenshots/
-│   ├── 1_Home.png
-│   ├── 2_Executive_Overview.png
-│   ├── 3_Revenue_Profit_Analysis.png
-│   ├── 4_Customer_Analysis.png
-│   ├── 5_Return_Orders_Insight.png
-│   ├── 6_Marketing_Seasonal_Analysis.png
+│   ├── 1 Home.png
+│   ├── 2 Executive Overview.png
+│   ├── 3 Revenue & Profit Analysis.png
+│   ├── 4 Customer Analysis.png
+│   ├── 5 Return Orders Insight.png
+│   ├── 6 Marketing & Seasonal Analysis.png
 │   └── README.md                      → Screenshot-by-screenshot walkthrough
 ├── data/
 │   ├── ecommerce.csv
@@ -86,12 +86,12 @@ All Screenshots below are full resolution and also available in the [`/Screensho
 🔗 [Open full image](Screenshots/4.%20Customer%20Analysis.png)
 
 ### 5. Return Orders Insight
-![Return Orders Insight](Screenshots/5.%20Return%20Orders.png)
-🔗 [Open full image](Screenshots/5.%20Return%20Orders.png)
+![Return Orders Insight](Screenshots/5.%20Return%20Orders%20Insight.png)
+🔗 [Open full image](Screenshots/5.%20Return%20Orders%20Insight.png)
 
 ### 6. Marketing & Seasonal Analysis
-![Marketing & Seasonal Analysis](Screenshots/6.%20Marketing%20&%20Seasonal%20Insights.png)
-🔗 [Open full image](Screenshots/6.%20Marketing%20&%20Seasonal%20Insights.png)
+![Marketing & Seasonal Analysis](Screenshots/6.%20Marketing%20&%20Seasonal%20Analysis.png)
+🔗 [Open full image](Screenshots/6.%20Marketing%20&%20Seasonal%20Analysis.png)
 
 ---
 
@@ -130,14 +130,14 @@ All Screenshots below are full resolution and also available in the [`/Screensho
 ## 👀 How to View This Project
 
 - **Quick look:** Browse the [`/Screenshots`](./Screenshots/README.md) folder for a full page-by-page walkthrough
-- **Full interactivity:** Download [`Ecommerce-Analytics.pbix`](./dashboard/Ecommerce_Analytics.pbix) and open in Power BI Desktop (free) — technical docs [here](./dashboard/README.md)
-- **Data source:** Download [`ecommerce.csv`](./Raw-Data/ecommerce.csv) — full column documentation [here](./data/README.md)
+- **Full interactivity:** Download [`Ecommerce_Analytics.pbix`](./PowerBI/Ecommerce-Analytics.pbix) and open in Power BI Desktop (free) — technical docs [here](./14_Ecommerce-Analytics/README.md)
+- **Data source:** Download [`ecommerce.csv`](./Raw-Data/ecommerce.csv) — full column documentation [here](./Raw-Data/README.md)
 
 | Resource | Location | Direct Link |
 |---|---|---|
 | Screenshots | `/Screenshots` | [Browse](./Screenshots/README.md) |
-| Power BI file | `/dashboard/Ecommerce_Analytics.pbix` | [Download](./dashboard/Ecommerce_Analytics.pbix) |
-| Raw dataset | `/data/ecommerce.csv` | [Download](./data/ecommerce.csv) |
+| Power BI file | `/dashboard/Ecommerce_Analytics.pbix` | [Download](./PowerBI/Ecommerce-Analytics.pbix) |
+| Raw dataset | `/data/ecommerce.csv` | [Download](./Raw-Data/ecommerce.csv) |
 
 ---
 
