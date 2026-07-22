@@ -86,12 +86,12 @@ All Screenshots below are full resolution and also available in the [`/Screensho
 🔗 [Open full image](Screenshots/4.%20Customer%20Analysis.png)
 
 ### 5. Return Orders Insight
-![Return Orders Insight](Screenshots/5.%20Return%20Orders%20Insight.png)
-🔗 [Open full image](Screenshots/5.%20Return%20Orders%20Insight.png)
+![Return Orders Insight](Screenshots/5.%20Return%20Orders.png)
+🔗 [Open full image](Screenshots/5.%20Return%20Orders.png)
 
 ### 6. Marketing & Seasonal Analysis
-![Marketing & Seasonal Analysis](Screenshots/6.%20Marketing%20&%20Seasonal%20Analysis.png)
-🔗 [Open full image](Screenshots/6.%20Marketing%20&%20Seasonal%20Analysis.png)
+![Marketing & Seasonal Analysis](Screenshots/6.%20Marketing%20&%20Seasonal%20Insights.png)
+🔗 [Open full image](Screenshots/6.%20Marketing%20&%20Seasonal%20Insights.png)
 
 ---
 
@@ -146,4 +146,4 @@ All Screenshots below are full resolution and also available in the [`/Screensho
 **Piyush Dave** — Data Analyst | Power BI • SQL • Python • Tableau
 📍 Amravati, Maharashtra, India
 
-Connect with me on [LinkedIn](#) | [GitHub](https://github.com/PiyushDave30) | [Portfolio Website](https://piyushdave30.github.io)
+Connect with me on [LinkedIn](www.linkedin.com/in/piyush-dave-0980a03a8) | [GitHub](https://github.com/PiyushDave30) | [Tableau Public](https://public.tableau.com/app/profile/piyushdave/vizzes)
