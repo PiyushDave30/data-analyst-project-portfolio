@@ -88,7 +88,7 @@ Visuals: Customers by payment method, customer type donut (Repeat vs One-time), 
 Visuals: Return rate % by category (Fashion highest at 14.16%), profit vs loss profit by category, total profit vs loss profit donut, return rate by shipping mode, monthly returns trend, shipping mode performance table.
 
 ### Page 6 — Marketing & Seasonal Analysis
-![Marketing](Screenshots/6.%20Marketing%20&%20Seasonal%Insights.png)
+![Marketing & Seasonal](Screenshots/6.%20Marketing%20&%20Seasonal%20Insights.png)
 
 | KPI | Value |
 |-----|-------|
