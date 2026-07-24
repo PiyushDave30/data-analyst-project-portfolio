@@ -63,7 +63,7 @@ Additional KPIs: Total Cost (170.57K) | Avg Selling Price (169.78)
 Visuals: Field-parameter toggle (Revenue ↔ Profit), profit by sub-category bar, profit by category donut, profit by payment method, top 5 and bottom 5 products by profit, **profit by discount bucket** — showing profit turns negative above 20% discount.
 
 ### Page 4 — Customer Analysis
-![Customer Analysis](Screenshots/4%20Customer%20Analysis.png)
+![Customer Analysis](Screenshots/4.%20Customer%20Analysis.png)
 
 | KPI | Value |
 |-----|-------|
@@ -76,7 +76,7 @@ Visuals: Field-parameter toggle (Revenue ↔ Profit), profit by sub-category bar
 Visuals: Customers by payment method, customer type donut (Repeat vs One-time), customers by segment (Consumer/Corporate/Home Office), avg order value by segment, top customers table.
 
 ### Page 5 — Return Orders Insight
-![Return Orders](Screenshots/5%20Return%20Orders.png)
+![Return Orders](Screenshots/5.%20Return%20Orders.png)
 
 | KPI | Value |
 |-----|-------|
