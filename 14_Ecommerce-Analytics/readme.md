@@ -1,6 +1,6 @@
 # Ecommerce Analytics Dashboard 🛒
 
-![Dashboard Preview](Screenshots/Executive%20Overview.png)
+![Dashboard Preview](Screenshots/2.%20Executive%20Overview.png)
 
 > **Self-Made Project** | Portfolio Project  
 > A 6-page interactive Power BI dashboard analyzing 1,000 ecommerce transactions across Jan 2024 – Dec 2025 — covering revenue, profit, customer behaviour, return orders, and marketing channel performance using advanced DAX, Power Query, and field parameters.
@@ -38,11 +38,11 @@ This project performs a complete business analysis on an ecommerce transactions 
 ## 📊 Dashboard Pages
 
 ### Page 1 — Home
-![Home](Screenshots/Home.png)
+![Home](Screenshots/1.%20Home.png)
 Navigation landing page with links to all 5 report pages.
 
 ### Page 2 — Executive Overview
-![Executive Overview](Screenshots/Executive%20Overview.png)
+![Executive Overview](Screenshots/2.%20Executive%20Overview.png)
 
 | KPI | Value |
 |-----|-------|
@@ -56,14 +56,14 @@ Navigation landing page with links to all 5 report pages.
 Visuals: Monthly revenue/profit trend line, revenue by category donut, revenue by country donut, revenue & profit by region bar chart, country/city performance table.
 
 ### Page 3 — Revenue & Profit Analysis
-![Revenue & Profit](Screenshots/Revenue%20&%20Profit%20Analysis.png)
+![Revenue & Profit](Screenshots/3.%20Revenue%20&%20Profit%20Analysis.png)
 
 Additional KPIs: Total Cost (170.57K) | Avg Selling Price (169.78)
 
 Visuals: Field-parameter toggle (Revenue ↔ Profit), profit by sub-category bar, profit by category donut, profit by payment method, top 5 and bottom 5 products by profit, **profit by discount bucket** — showing profit turns negative above 20% discount.
 
 ### Page 4 — Customer Analysis
-![Customer Analysis](Screenshots/Customer%20Analysis.png)
+![Customer Analysis](Screenshots/4%20Customer%20Analysis.png)
 
 | KPI | Value |
 |-----|-------|
@@ -76,7 +76,7 @@ Visuals: Field-parameter toggle (Revenue ↔ Profit), profit by sub-category bar
 Visuals: Customers by payment method, customer type donut (Repeat vs One-time), customers by segment (Consumer/Corporate/Home Office), avg order value by segment, top customers table.
 
 ### Page 5 — Return Orders Insight
-![Return Orders](Screenshots/Return%20Orders.png)
+![Return Orders](Screenshots/5%20Return%20Orders.png)
 
 | KPI | Value |
 |-----|-------|
@@ -88,7 +88,7 @@ Visuals: Customers by payment method, customer type donut (Repeat vs One-time), 
 Visuals: Return rate % by category (Fashion highest at 14.16%), profit vs loss profit by category, total profit vs loss profit donut, return rate by shipping mode, monthly returns trend, shipping mode performance table.
 
 ### Page 6 — Marketing & Seasonal Analysis
-![Marketing](Screenshots/Marketing%20&%20Seasonal%Insights.png)
+![Marketing](Screenshots/6.%20Marketing%20&%20Seasonal%Insights.png)
 
 | KPI | Value |
 |-----|-------|
