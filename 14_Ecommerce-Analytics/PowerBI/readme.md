@@ -73,21 +73,27 @@ A field parameter containing `Total Revenue` and `Total Profit` as swappable fie
 ## 📄 Page-by-Page Technical Breakdown
 
 /**1. Home** — [🔗 view screenshot](../Screenshots/1.%20Home.png)
+
 Static navigation page. Bookmarks + buttons link each card to its corresponding report page.
 
 **2. Executive Overview** — [🔗 view screenshot](../Screenshots/2.%20Executive%20Overview.png)
+
 Card visuals bound to `Total Revenue`, `Total Profit`, `Total Orders`, `Total Customers`, `Profit Margin %`, `Return Rate %`. Line chart uses the Date table for month-level granularity. Donuts use `country` and `category`. Table visual uses `country`, `city` with `Revenue`, `Orders`, `Profit`, `Quantity` columns, sorted descending on Revenue.
 
 **3. Revenue & Profit Analysis** — [🔗 view screenshot](../Screenshots/3.%20Revenue%20&%20Profit%20Analysis.png)
+
 Field parameter drives the bar/donut visuals. Top 5 / Bottom 5 product tables use `TOPN` logic via visual-level filters on `Total Profit`. Discount Bucket calculated column powers the final chart.
 
 **4. Customer Analysis** — [🔗 view screenshot](../Screenshots/4.%20Customer%20Analysis.png)
+
 `Customer Type` and `Customer Order Count` calculated columns drive the repeat vs. one-time split. Slicers on `Category`, `Country`, `Customer Segment`, `Customer_ID`, and `Day` allow full cross-filtering.
 
 **5. Return Orders Insight** — [🔗 view screenshot](../Screenshots/5.%20Return%20Orders.png)
+
 All visuals filtered/split by `is_returned`. Shipping mode table blends `Return Rate %`, `AVERAGE(delivery_days)`, `SUM(shipping_cost)`, and `Profit Margin %` into one comparative view.
 
 **6. Marketing & Seasonal Analysis** — [🔗 view screenshot](../Screenshots/6.%20Marketing%20&%20Seasonal%20Insights.png)
+
 `marketing_channel` drives the revenue/profit and customer-count visuals. Weekend vs. weekday comparison uses a calculated `Day Type` logic (via the Date table) grouping Saturday/Sunday vs. weekdays. Quarterly trend uses `QUARTER(order_date)` from the Date table crossed with `marketing_channel`.
 
 ---
