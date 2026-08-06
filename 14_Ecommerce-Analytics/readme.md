@@ -6,7 +6,7 @@
 > A 6-page interactive Power BI dashboard analyzing 1,000 ecommerce transactions across Jan 2024 – Dec 2025 — covering revenue, profit, customer behaviour, return orders, and marketing channel performance using advanced DAX, Power Query, and field parameters.
 
 ---
-
+ 
 ## 📌 Project Overview
 
 This project performs a complete business analysis on an ecommerce transactions dataset to answer real-world questions about profitability, customer retention, return order impact, and marketing effectiveness. The dashboard is designed as an executive-level report with 6 dedicated pages — each solving a specific business problem.
