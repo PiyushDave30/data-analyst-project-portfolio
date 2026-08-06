@@ -3,7 +3,9 @@
 Technical breakdown of `Ecommerce_Analytics.pbix`: data model, DAX measures, calculated columns, field parameters, and page-by-page logic.
 
 📁 **Location:** `/dashboard/Ecommerce_Analytics.pbix`
+
 📥 **Direct download:** [Ecommerce_Analytics.pbix](./Ecommerce_Analysis.pbix)
+
 🖼️ **See it rendered first:** [View all page Screenshots](../Screenshots/README.md)
 
 ---
