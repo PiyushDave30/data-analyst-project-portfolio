@@ -120,7 +120,7 @@ I am a **Data Analyst** with hands-on experience through a virtual internship at
 
 | Platform | Link |
 |----------|------|
-| LinkedIn | [linkedin.com/in/piyush-dave-0980a03a8](https://www.linkedin.com/in/piyush-dave-0980a03a8) |
+| LinkedIn | [linkedin.com/in/piyush-dave-0980a03a8](https://www.linkedin.com/in/piyushdave30/) |
 | Tableau Public | [public.tableau.com/app/profile/piyushdave](https://public.tableau.com/app/profile/piyushdave/vizzes) |
 | GitHub | [github.com/PiyushDave30](https://github.com/PiyushDave30) |
 
