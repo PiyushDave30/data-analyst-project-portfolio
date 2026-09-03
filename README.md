@@ -5,7 +5,7 @@
 ### Data Analyst | SQL · Power BI · Tableau · Excel · Python 
 
 <p>
-  <a href="https://www.linkedin.com/in/piyush-dave-0980a03a8">
+  <a href="www.linkedin.com/in/piyushdave30">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://public.tableau.com/app/profile/piyushdave/vizzes">
