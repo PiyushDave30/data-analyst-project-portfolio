@@ -1,9 +1,9 @@
 # Amravati AQI 2024 Analysis  
  
-![Dashboard Preview](Screenshots/AQI.png)
+![Dashboard Preview](Screenshots/DB.png)
 
 > **Self-Made Project** | Original Data Collection  
-> An end-to-end air quality analysis of Amravati city for the year 2024 — raw AQI data collected directly from the official CPCB government website, cleaned using Python in Jupyter Notebook, exported to Excel, and visualized in a Power BI dashboard.
+> An end-to-end air quality analysis of Amravati city for the year 2024 — raw AQI data collected directly from the official CPCB government website, cleaned using Python in Jupyter Notebook, exported to Excel, and visualized in a 3-page Power BI dashboard (Home, Dashboard, Conclusion).
 
 ---
 
@@ -15,7 +15,7 @@ This project is unique because the data was **personally collected from India's 
 - What is the overall air quality of Amravati in 2024?
 - Which months and quarters have the worst air pollution?
 - How many days were clean vs polluted throughout the year?
-- What is the day-wise AQI trend across the month?
+- What is the daily AQI trend across the year?
 - Which AQI category dominates — Good, Satisfactory, Moderate, or Poor?
 
 ---
@@ -31,7 +31,7 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 | **1. Data Collection** | CPCB Official Website | Downloaded daily AQI data for Amravati 2024 |
 | **2. Data Cleaning** | Python — Pandas, NumPy (Jupyter Notebook) | Handled nulls with mean imputation, fixed data types, removed invalid rows |
 | **3. Export** | Python → Excel | Cleaned DataFrame exported to `AQI_Cleaned_Final.xlsx` |
-| **4. Dashboard** | Power BI | Interactive AQI dashboard with month/category filters |
+| **4. Dashboard** | Power BI | Interactive 3-page AQI dashboard (Home, Dashboard, Conclusion) with month slicer, category filtering, and page navigation buttons |
 
 ---
 
@@ -53,7 +53,16 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 ## Dashboard
 
 ### Power BI — Air Quality Index (AQI) Analysis – Amravati 2024
-![AQI Dashboard](Screenshots/AQI.png)
+The dashboard has **3 pages** connected with navigation buttons (Home, Dashboard, Conclusion).
+
+**Page 1 — Home**
+![AQI Home Page](Screenshots/Home.png)
+
+**Page 2 — Dashboard**
+![AQI Dashboard](Screenshots/DB.png)
+
+**Page 3 — Conclusion**
+![AQI Conclusion](Screenshots/Conclusion.png)
 
 ---
 
@@ -107,6 +116,21 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 - 62.3% of the year had clean air — but 37.7% polluted days still a health concern
 - Only 2 days recorded "Poor" AQI — extreme pollution was rare in 2024
 
+### Conclusion & Recommendations
+*(Shown on the Conclusion page of the dashboard)*
+
+**Conclusion**
+- Pollution peaks from November to March and clears during the monsoon (June to September)
+- November to March all averaged above 100 AQI, while June to September stayed under 52
+
+**Recommendations**
+- Prioritize November to March for any air-quality action
+- Extend the pipeline to multiple years to check whether 2024 is typical
+- Add a second city to see if the pattern is local or regional
+- Add weather and pollution-source data, because this data shows when AQI rises, not why
+
+**Limitation:** only one year of data from one city
+
 ---
 
 ## Project Structure
@@ -126,11 +150,14 @@ CPCB Website → Raw AQI Excel → Python Jupyter Notebook → Cleaned Excel →
 │   └── README.md
 │
 ├── powerbi/
-│   ├── Amravati_AQI_2024.pbix                            ← Power BI dashboard
+│   ├── Amravati_2024_AQI_Analysis.pbix                   ← Power BI dashboard (3 pages)
 │   └── README.md
 │
 └── Screenshots/
     ├── AQI.png                                           ← Power BI dashboard screenshot
+    ├── Home.png                                          ← Dashboard page 1: Home
+    ├── DB.png                                            ← Dashboard page 2: Dashboard
+    ├── Conclusion.png                                    ← Dashboard page 3: Conclusion
     ├── Amravati_2024_AQI_Analysis.pdf                    ← Dashboard PDF export
     ├── AQI1.png                  ← Notebook: Data Cleaning
     ├── AQI2.png                  ← Notebook: Import + Dataset
