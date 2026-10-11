@@ -9,7 +9,6 @@ This folder contains all screenshots — Power BI dashboard, PDF export, and Jup
 ### Dashboard Screenshots
 | File Name | Content |
 |-----------|---------|
-| [AQI Dashboard PowerBI](AQI.png) | Complete Power BI dashboard — all KPIs, charts, filters |
 | [AQI Home Page PowerBI](Home.png) | Home page — project title, 62.3% clean-days donut (228 clean vs 138 polluted), AQI scale, key stats (Average 85.86, Max 205, Min 16), and author links |
 | [AQI Dashboard Page PowerBI](DB.png) | Dashboard page — 6 KPI cards, month filter, days by AQI category (pie), clean vs polluted days (donut), average AQI by month (bars), and daily AQI line chart with the 100 line |
 | [AQI Conclusion PowerBI](Conclusion.png) | Conclusion page — quarter averages (Q1 125.62, Q2 78.55, Q3 38.95, Q4 100.66), key findings, recommendations, and bottom line |
